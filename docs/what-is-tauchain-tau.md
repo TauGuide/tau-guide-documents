@@ -1,14 +1,18 @@
+---
+title: What is Tauchain and Agoras 
+description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
+disableTableOfContents: false
+---
+
 # What is Tauchain (Tau)?
 
 ## Summary
 
 Tau-Chain (Tau) is an open source, decentralised network with a governance mechanism that uses user discussions to create a scalable, self defining and dynamic system. Tau’s large-scale discussion platform can detect consensus points or disagreements between all users and execute or self-implement the network instructions in real time . Agoras token will leverage Tau’s technology to have an economy governed by its users. Agoras tokens aim to enable markets for knowledge, computational resources, and derivatives
 
-TABLE OF CONTENTS
-
 ---
 
-## Tau as a Solution
+### Tau as a Solution
 
 Tau solves societal challenges with decentralised technology:
 
@@ -34,16 +38,16 @@ Anyone can interact with the tauchain network and participate in this digital ec
 
 Tau uses a decidable logical framework which allows it to synthesize and execute code based on user specifications. Users can create their own teams under Tau to discuss and collaborate on a project with its own private knowledge base. After taking advantage of Tau's ability to scale discussions, teams can quickly reach a consensus on the specifications and Tau can automatically generate and execute code, according to those specifications.
 
-# **What is Tau Chain?**
+## **What is Tau Chain?**
 
-## **History**
+### **History**
 
 - [Ohad Asor](https://tau.guide/#teams)
 - Zennet.sc
 - Old Tau: Neglected the social side and was also mistakenly relying on an undecidable logic, with  decidability being a main requirement.
 - [New Tau](http://www.idni.org/blog/the-new-tau)
 
-## **[Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)**
+### **[Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)**
 
 - Knowledge market and economy, Agoras, knowledge 2 cash transactions (the ability to) maufacture, ship and price knowledge)
 - Monetisation of formalised knowledge
@@ -53,9 +57,9 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - internet of languages
 - [TML](https://www.notion.so/What-is-Tauchain-Tau-78295578914840ff8ef6ff616e9aafee#c9b132c8b4a745b899307a06ca9e7985) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085)
 
-# **Technical and societal aspects**
+## **Technical and societal aspects**
 
-## **Decentralised resources**
+### **Decentralised resources**
 
 - [Internet of languages](https://www.notion.so/What-is-Tauchain-Tau-78295578914840ff8ef6ff616e9aafee#1285d73d87914b768227256cc8d6afd6).
 - Discussion platform featuring machine-comprehensible languages.
@@ -70,7 +74,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 - probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)
 
-## **TML**
+### **TML**
 
 **Social**
 
@@ -88,7 +92,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
 - binary decision diagrams used for performance of logical solver.
 
-## **the Internet of Languages**
+### **the Internet of Languages**
 
 **Social**
 
@@ -100,7 +104,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - IoL is referenced as the infrastructure
 - <insert here the arguments for the language of law, and the argument for the meta language>
 
-## **Governance**
+### **Governance**
 
 **Social**
 
@@ -151,15 +155,15 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - the monetary features that Agoras will support
 - ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist
 
-# **Business/use cases**
+## **Business/use cases**
 
 Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
 
-## **automated scheduling**
+### **automated scheduling**
 
 - from app demo on idni.org
 
-## **[scaleable decision making](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)**
+### **[scaleable decision making](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)**
 
 - we cannot ever vote on whether something should be voted on in the first place
 - theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
@@ -187,11 +191,11 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
         - a knowledge economy, on top of the knowledge society
         - using decentralised search engines, data storage and computation
 
-## **Structured knowledge**
+### **Structured knowledge**
 
 - Similar to wolfram alpha?
 
-## **knowledge economy**
+### **knowledge economy**
 
 - based on agoras' knowledge market
 - lives on knowledge society-framework Tau

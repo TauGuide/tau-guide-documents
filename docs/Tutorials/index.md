@@ -1,3 +1,9 @@
+---
+title: Tauchain and Agoras tutorials
+description: Tau.Guide Turorials. The community resource to guide you through all aspects of Tau and Agoras.
+disableTableOfContents: true
+---
+
 # Tutorials
 
 Introduction

@@ -1,3 +1,9 @@
+---
+title: Tauchain & Agoras Frequently Asked Questions
+description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
+disableTableOfContents: false
+---
+
 # Tauchain & Agoras FAQs
 
 Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g&list=PLav2klOnTUlNKDE1xYVHi9zn9cqgpZead)
@@ -14,7 +20,6 @@ What this means is that in effect, we can scale collaborative endeavors between 
 
 Tau aims to become an indispensable technology. Once Tau has launched, any company, nation or organisation not using the collaborative power of the network will be rendered obsolete.
 
-TABLE OF CONTENTS.
 
 ---
 
@@ -48,9 +53,9 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **BCEX** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
-2. **[Sky.io](http://sky.io/)** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
-3. **Whitebit** [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/trade/AGRS_BTC)
+1. **[Whitebit]** [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
+2. **BCEX** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
+3. **[Sky.io](http://sky.io/)** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
 
 ---
 

@@ -1,3 +1,9 @@
+---
+title: TML Bot Tutorial
+description: An easy-to-use guide to interact with the TML bot
+disableTableOfContents: false
+---
+
 # TML Bot Tutorial
 
 INTRODUCTION
@@ -12,7 +18,7 @@ This tutorial shall serve anyone interested in getting first hand TML experience
 
 ---
 
-# 1. Finding the TML bot: mr_tau
+## 1. Finding the TML bot: mr_tau
 
 To communicate with mr_tau (which is the name of the bot), you first need to know where to find it. There are two places you can go to, to find and interact with the TML bot:
 
@@ -32,7 +38,7 @@ This starts a direct conversation with mr_tau asking him for help. From here on,
 
 you can play around with him.
 
-# 2. Talking to mr_tau
+## 2. Talking to mr_tau
 
 As mr_tau prefers to communicate in TML, it is recommended to have a basic understanding of how TML works. You can find an introduction into TML [here](https://github.com/IDNI/TML/blob/master/README.md).
 
@@ -156,9 +162,9 @@ the SLOT (current slot is listed if omitted).
 
 If your database is empty, mr_tau will answer:
 
-*# Listing database:*
+*## Listing database:*
 
-*# Database is empty*
+*## Database is empty*
 
 ### ▪ 2.1.8 .Rules
 
@@ -217,7 +223,7 @@ Lets you switch from your current slot into the slot with the name “bigslot”
 
 ### ▪ 2.2.5 .Unselect
 
-# Command '.unselect(OPTION)' clears the value stored for the option. If
+## Command '.unselect(OPTION)' clears the value stored for the option. If
 
 used with a value ('.unselect(OPTION VALUE)') option is cleared only if the
 
@@ -227,7 +233,7 @@ VALUE argument matches the value currently set. Example:
 
 ***Mr_tau:***
 
-*# Unselected slot : bigslot*
+*## Unselected slot : bigslot*
 
 ### ▪ 2.2.6 .Enable
 

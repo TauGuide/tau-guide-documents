@@ -1,3 +1,11 @@
+---
+title: How to Buy Agoras
+description: Step by step instructions on how to buy Agoras.
+disableTableOfContents: false
+---
+
+NEEDS UPDATING 
+
 # How to Buy Agoras
 
 ## Steps to Buying Agoras Tokens (AGRS) (WORK IN PROGRESS)

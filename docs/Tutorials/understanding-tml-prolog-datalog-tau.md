@@ -1,3 +1,9 @@
+---
+title: Understanding TML
+description: A deep dive into the tech behind Tau's Meta-Language (TML).
+disableTableOfContents: false
+---
+
 # Understanding TML: Prolog -> Datalog -> Tau
 
 by Dana Edwards
@@ -99,7 +105,7 @@ The structure of the data here are in the form of "bytes". As we can see, we are
 
 [crypto_data_encrypt(+PlainText, +Algorithm, +Key, +IV, -CipherText, +Options)](http://eu.swi-prolog.org/pldoc/doc_for?object=crypto_data_encrypt/6)
 
-# **References**
+## **References**
 
 1. [https://swish.swi-prolog.org/](https://swish.swi-prolog.org/) 
 

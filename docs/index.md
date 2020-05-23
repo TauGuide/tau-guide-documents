@@ -12,7 +12,7 @@ Tauchain and Agoras.
 There are three main ways to get started with Tauchain:
 
 1. [Tutorials](/docs/tutorial/): Step-by-step instructions on how to use Tau client and start a project.
-2. [Quick start](/docs/quick-start.md): What is Tau? Get up to speed quickly with our user friendly materials.
+2. [Quick start](/docs/quick-start.md): What is Tau? User friendly materials to quickly get you up to speed.  
 3. [Buy Agoras](/docs/quick-start.md): Discover the best places to get Agoras
 
 ## Go further

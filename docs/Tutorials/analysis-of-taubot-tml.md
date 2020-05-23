@@ -1,3 +1,9 @@
+---
+title: Analysis of TauBot.TML
+description: An Analysis of Taubot.tml. The first application to be written in Tau's Meta-Language
+disableTableOfContents: true
+---
+
 # Analysis of TauBot.TML
 
 by Dana Edwards.

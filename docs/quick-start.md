@@ -1,5 +1,7 @@
 ---
 title: Quick Start
+description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
+disableTableOfContents: false
 ---
 
 Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. 
@@ -100,7 +102,7 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **[Whitebit]** [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/trade/AGRS_BTC)
+1. **[Whitebit]** [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
 2. **[BCEX]** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
 3. **[Sky]** (http://sky.io/)** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
 
