@@ -29,3 +29,5 @@ Step 6: Transfer your Agoras Tokens out of the exchange to your wallet, and keep
 1. **[Whitebit]** [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
 2. **[BCEX]** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
 3. **[Sky]** (http://sky.io/)** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
+
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md)

@@ -42,3 +42,5 @@ Please see our [Quick Start](docs/quick-start) page for more introductory materi
 [How to Store Agoras](/docs/tutorials/step-by-step-guide-how-to-store-agoras.md)
 
 ---
+
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/index.md)

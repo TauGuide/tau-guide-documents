@@ -114,3 +114,5 @@ The structure of the data here are in the form of "bytes". As we can see, we are
 1. [https://github.com/IDNI/tau](https://github.com/IDNI/tau) 
 
 [IDNI/TML](https://github.com/IDNI/tau)
+
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/understanding-tml-prolog-datalog-tau.md)

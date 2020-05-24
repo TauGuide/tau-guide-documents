@@ -331,3 +331,5 @@ Usually, ‘RELATION NAME’ is being replaced with a verb but it can be anythin
 Example:
 
 *a(Peter human).*
+
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/tml-Bot-tutorial.md)

@@ -92,6 +92,9 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
 - binary decision diagrams used for performance of logical solver.
 
+> [Read more about the concepts behind TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau.md#understanding-tml-prolog---datalog---tau)
+> [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot
+
 ### **the Internet of Languages**
 
 **Social**
@@ -201,3 +204,5 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
 - lives on knowledge society-framework Tau
 - an economic system that supports the production, pricing, shipment, and arena (agora), of some knowledge (the knowledge of the text on the web)
 - deeper and more meaningful knowledge than existing static searched based on thesaurus and ML that has no real understanding of the subjects
+
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau/blob/master/Content.md)

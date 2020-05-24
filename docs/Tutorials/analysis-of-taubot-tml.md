@@ -67,3 +67,5 @@ rules(?slot ?rule),~add(rule ?rule),system(output0 "# Added rule: " ?rule),syste
 Here we can see that not only do we have rules but we also have variables. These rules describe how to add or delete a rule from the slots. Excuse the terminology here as it confuses me too but a slot is related to how the TML Bot manages record keeping for the database.
 
 So you can now see how to read all the database facts and rules for the TML Bot. To improve this bot we need the ability to read or to take input into the from users system. We can expect that this will be one of the next features coming at some point. There is also a need for useful builtins so that the bot can be made much more sophisticated and maybe even connect to a blockchain.
+
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/analysis-of-taubot-tml.md)
