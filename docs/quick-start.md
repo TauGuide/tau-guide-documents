@@ -6,7 +6,7 @@ disableTableOfContents: false
 
 Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. 
 
->### This page is mostly non-technical; for a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/tutorials.md)
+>### This page is mostly non-technical; for a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/index.md)
 
 <br>
 
