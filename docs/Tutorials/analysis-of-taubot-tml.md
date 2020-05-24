@@ -68,4 +68,6 @@ Here we can see that not only do we have rules but we also have variables. These
 
 So you can now see how to read all the database facts and rules for the TML Bot. To improve this bot we need the ability to read or to take input into the from users system. We can expect that this will be one of the next features coming at some point. There is also a need for useful builtins so that the bot can be made much more sophisticated and maybe even connect to a blockchain.
 
+>###[Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot
+
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/analysis-of-taubot-tml.md)
