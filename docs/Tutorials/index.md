@@ -11,7 +11,7 @@ Introduction
 Welcome to Tau.Guide! Great to have you here. Here we have a list of resources to guide you through all aspects of Tau and Agoras.
 
 > These resources are intended to cover all at an experienced level.
-Please see our [Quick Start](master/docs/quick-start.md) page for more introductory materials.
+Please see our [Quick Start](tau-guide-documents/blob/master/docs/quick-start.md) page for more introductory materials.
 
 ---
 
