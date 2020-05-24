@@ -11,21 +11,21 @@ Tauchain and Agoras.
 
 There are three main ways to get started with Tauchain:
 
-1. [Tutorials](/docs/tutorial/index.md): Step-by-step instructions on how to use Tau client and start a project.
+1. [Tutorials](/docs/tutorials/index.md): Step-by-step instructions on how to use Tau client and start a project.
 2. [Quick start](/docs/quick-start.md): What is Tau? User friendly materials to quickly get you up to speed.  
 3. [Buy Agoras](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md): Discover the best places to get Agoras
 
 ## Go further
 
-1. [Use](/docs/what-is-tauchain-tau.md#businessuse-cases): Learn about the many use cases and advantages of Tau.
+1. [Use](/docs/Tutorials/what-is-tauchain-tau.md#businessuse-cases): Learn about the many use cases and advantages of Tau.
 
 2. Explore how Tauchain works behind the scenes:
 
    - [Tauchain & Agoras FAQs](/docs/tauchain-agoras-faqs.md): Tauchain and Agoras' Frequently Asked Questions
    - [TML](/docs/what-is-tauchain-tau.md#tml) : Learn more about Tau's Meta-Language.
    - [Agoras](/docs/what-is-tauchain-tau.md#agoras): Learn about the Agoras market at it's smart currency.
-   - [Conceptual Guide](/docs/tau-conceptual-guide.md/): Read high-level overviews of Tauchain.
-   - [Tutorials](/docs/tutorials/index.nd) : All available "How to's...".
+   - [Conceptual Guide](docs/what-is-tauchain-tau.md): Read high-level overviews of Tauchain.
+   - [Tutorials](/docs/Tutorials/index.md) : All available "How to's...".
 
 3. [Apps](/apps/) : Check out the growing list of Tauchain applications.
 
