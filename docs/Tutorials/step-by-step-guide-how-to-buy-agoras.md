@@ -1,6 +1,6 @@
 ---
 title: How to Buy Agoras
-description: Step by step instructions on how to buy Agoras.
+description: Agoras: How to Buy
 disableTableOfContents: false
 ---
 

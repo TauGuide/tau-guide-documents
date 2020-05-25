@@ -1,5 +1,5 @@
 ---
-title: How to store Agoras
+title: HAgoras: How to Store
 description: Step by step instructions on how to store Agoras.
 disableTableOfContents: false
 ---

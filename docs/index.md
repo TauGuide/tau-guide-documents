@@ -1,5 +1,5 @@
 ---
-title: Tauchain Documentation
+title: Introduction
 description: The one stop location for tutorials, guides, and information about Tauchain and Agoras
 disableTableOfContents: true
 ---
@@ -24,13 +24,14 @@ There are three main ways to get started with Tauchain:
    - [Tauchain & Agoras FAQs](/docs/tauchain-agoras-faqs.md): Tauchain and Agoras' Frequently Asked Questions
    - [TML](/docs/what-is-tauchain-tau.md#tml) : Learn more about Tau's Meta-Language.
    - [Agoras](/docs/what-is-tauchain-tau.md#agoras): Learn about the Agoras market at it's smart currency.
-   - [Conceptual Guide](docs/what-is-tauchain-tau.md): Read high-level overviews of Tauchain.
+   - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tauchain.
    - [Tutorials](/docs/Tutorials/index.md) : All available "How to's...".
-
+<br>
 3. [Apps](/apps/) : Check out the growing list of Tauchain applications.
 
 ## Start contributing
+
 [IDNI are hiring](http://www.idni.org/careers/) : A list of available positions.
 Visit the [Contributing](/contributing/) section to find guides on the Tauchain community, code of conduct, and how to get started contributing to the Tauchain ecosystem.
-
+<br>
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/index.md)

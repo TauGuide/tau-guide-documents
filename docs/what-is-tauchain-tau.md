@@ -1,5 +1,5 @@
 ---
-title: What is Tauchain and Agoras 
+title: Tau & Agoras Overview
 description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
 disableTableOfContents: false
 ---

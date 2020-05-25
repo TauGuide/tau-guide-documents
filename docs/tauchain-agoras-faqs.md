@@ -1,5 +1,5 @@
 ---
-title: Tauchain & Agoras Frequently Asked Questions
+title: FAQs
 description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
 disableTableOfContents: false
 ---

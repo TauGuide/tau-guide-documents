@@ -6,7 +6,7 @@ disableTableOfContents: false
 
 Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. 
 
->### This page is mostly non-technical; for a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/index.md)
+>#### This page is mostly non-technical; for a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/index.md)
 
 <br>
 
@@ -353,5 +353,5 @@ For example: If Bitcoin was hosted on Tau, how would they determine the BTC bloc
 ### 27. Are there limitations to code synthesis?
 
 *Ohad:* Yes, all logical systems have limitations. Most questions in the universe are too difficult to be practically solvable. But most problems in practice are likely solvable. Most importantly, we as humans don't have any more advantage over what's mathematically possible. The computer will have limitations, but it will certainly do better than us.
-
-✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/quick-start.md)
+<br>
+###### ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/quick-start.md)
