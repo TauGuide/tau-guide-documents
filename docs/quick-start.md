@@ -14,7 +14,7 @@ Welcome to tau.guide's quick introductory resources. Intended to help you learn 
 
 Ohad Asor (Founder & CTO)
 
-[![ An Introduction to Tauchain Video](http://img.youtube.com/vi/9rUjP6Bvz3U/0.jpg)](http://www.youtube.com/watch?v=9rUjP6Bvz3U)
+[![ An Introduction to Tauchain Video](http://img.youtube.com/vi/9rUjP6Bvz3U/0.jpg)](https://www.youtube.com/embed/9rUjP6Bvz3U)
 
 ---
 
