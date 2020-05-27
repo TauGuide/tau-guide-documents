@@ -1,5 +1,5 @@
 ---
-title: TAU - Conceptual Guide 
+title: Conceptual Guide 
 description: A Conceptual Guide by Dr Avishy Carmi
 disableTableOfContents: false
 ---
