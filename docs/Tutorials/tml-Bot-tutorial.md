@@ -12,9 +12,9 @@ INTRODUCTION
 
 The Tau meta language (TML) bot (mr_tau) can be seen as the first go-to application to experience TML in its current form.
 
-This tutorial shall serve anyone interested in getting first hand TML experience as an easy-to-use guide to interact with the TML bot. This is thought to be a living document being continuously updated as TML, mr_tau and our knowledge around them also is continuously evolving.
+This tutorial shall serve anyone interested in getting first hand TML experience as an easy-to-use guide to interact with the TML bot. This is thought to be a living document being continuously updated as TML, mr_tau and our knowledge around them also is continuously evolving.<br>
 
-**TABLE OF CONTENTS**
+<br>
 
 ---
 
@@ -36,17 +36,17 @@ To communicate with mr_tau (which is the name of the bot), you first need to kno
 
 This starts a direct conversation with mr_tau asking him for help. From here on,
 
-you can play around with him.
+you can play around with him.<br><br>
 
 ## 2. Talking to mr_tau
 
-As mr_tau prefers to communicate in TML, it is recommended to have a basic understanding of how TML works. You can find an introduction into TML [here](https://github.com/IDNI/TML/blob/master/README.md).
+As mr_tau prefers to communicate in TML, it is recommended to have a basic understanding of how TML works. You can find an introduction into TML [here](https://github.com/IDNI/TML/blob/master/README.md).<br><br>
 
 ### ▪ 2.1 Commands
 
 To speak out commands to mr_tau, you have to put a dot (.) in front of the command. If
 
-you don’t put a dot in front of your text, mr_tau understands it as TML.
+you don’t put a dot in front of your text, mr_tau understands it as TML.<br><br>
 
 ### ▪ 2.1.1 .Help
 
@@ -70,7 +70,7 @@ with him:
 
 *# Use ':SLOT' to switch to another slot. Initial slot is called 'default'.*
 
-*# REPL commands are prefixed by a comma '.'. Use command '.list.' to get list of commands. Use '.help(COMMAND).' to get help for a command.*
+*# REPL commands are prefixed by a comma '.'. Use command '.list.' to get list of commands. Use '.help(COMMAND).' to get help for a command.*<br><br>
 
 ### ▪ 2.1.2 .List
 
@@ -88,7 +88,7 @@ available to communicate with mr_tau.It will answer:
 *.list(relation REL SLOT).* 
 ```
 
- to *display relation REL from slot SLOT. Current slot is used if SLOT omitted.*
+ to *display relation REL from slot SLOT. Current slot is used if SLOT omitted.*<br><br>
 
 ### ▪ 2.1.3 .Killall
 
@@ -96,7 +96,7 @@ This command is used to instantly kill all running TML processes. mr_tau will
 
 answer:
 
-*# killing all TML processes*
+*# killing all TML processes*<br><br>
 
 ### ▪ 2.1.4 .Clear
 
@@ -116,7 +116,7 @@ and if you only wish to clear your program database use '.clear(rules)'.
 .clear(rules)
 ```
 
-### ▪ 2.1.5 .Add
+### <br>▪ 2.1.5 .Add
 
 Command '.add(rule RULE).' adds new rule 
 
@@ -130,7 +130,7 @@ or use '+RULE.' as a shortcut.
 +RULE.
 ```
 
-For an explanation of what a rule is, please refer to section [2.1.8 .Rules](https://www.notion.so/TML-Bot-Tutorial-24bbe9a0da404660a4886f62c63d45b7#71f2653188464eb1bce34998d61c679e).
+For an explanation of what a rule is, please refer to section [2.1.8 .Rules](https://www.notion.so/TML-Bot-Tutorial-24bbe9a0da404660a4886f62c63d45b7#71f2653188464eb1bce34998d61c679e).<br><br>
 
 ### ▪ 2.1.6 .Del
 
@@ -146,7 +146,7 @@ or use '-RULE.' as a shortcut.
 -RULE
 ```
 
-### ▪ 2.1.7 .Db
+### <br>▪ 2.1.7 .Db
 
 Command '.db.' or “.db(SLOT).” displays facts contained in the data database of
 
@@ -164,7 +164,7 @@ If your database is empty, mr_tau will answer:
 
 *## Listing database:*
 
-*## Database is empty*
+*## Database is empty*<br><br>
 
 ### ▪ 2.1.8 .Rules
 
@@ -179,35 +179,35 @@ Example:
 This rule states: “If x is a cat, then x is a mammal”.*
 
 *Command '.rules.' or '.rules(SLOT).' displays the list of rules (program
-database) of the SLOT (current slot is listed if omitted).*
+database) of the SLOT (current slot is listed if omitted).*<br><br>
 
 ### ▪ 2.1.9 .Try
 
 Command '.try.' or '.try(PROGRAM).' runs data and program databases (with
 
-PROGRAM if provided), displays result and does not update database.
+PROGRAM if provided), displays result and does not update database.<br><br>
 
 ### ▪ 2.2 .Run
 
 Command '.run.' or '.run(PROGRAM).' does the same as 'try' but 'run'
 
-updates the data database if try was satisfied and no error happened
+updates the data database if try was satisfied and no error happened<br><br>
 
 ### ▪ 2.2.1 .Slot
 
 Command '.slot.' shows current database slot.
 
-A slot can contain both facts and rules.
+A slot can contain both facts and rules.<br><br>
 
 ### ▪ 2.2.2 .List_Slots
 
-Command '.list_slots.' or '.list_slots(USER). shows list of a user's slot.
+Command '.list_slots.' or '.list_slots(USER). shows list of a user's slot.<br><br>
 
 ### ▪ 2.2.3 .Delete_Slot
 
 Command '.delete_slot(SLOT).' deletes the SLOT. Only user's own slots
 
-which aren't currently selected can be deleted. Use '/SLOT' as a shortcut.
+which aren't currently selected can be deleted. Use '/SLOT' as a shortcut.<br><br>
 
 ### ▪ 2.2.4 .Select
 
@@ -219,7 +219,7 @@ So you can use the “.select” command to switch in between your slots. Altern
 
 *:bigslot*
 
-Lets you switch from your current slot into the slot with the name “bigslot”.
+Lets you switch from your current slot into the slot with the name “bigslot”.<br><br>
 
 ### ▪ 2.2.5 .Unselect
 
@@ -233,7 +233,7 @@ VALUE argument matches the value currently set. Example:
 
 ***Mr_tau:***
 
-*## Unselected slot : bigslot*
+*## Unselected slot : bigslot*<br><br>
 
 ### ▪ 2.2.6 .Enable
 
@@ -241,27 +241,27 @@ Command '.enable(OPTION)' enables option. Run '.help(options)' to see list
 
 of options.
 
-Running ‘.help(options)’ provides you with all available options to enable/disable:
+Running ‘.help(options)’ provides you with all available options to enable/disable:<br><br>
 
 ### ▪ 2.2.6.1 Auto_print
 
-Enable 'auto_print' to automatically print the database after each run.
+Enable 'auto_print' to automatically print the database after each run.<br><br>
 
 ### ▪ 2.2.6.2 Print_steps
 
-Enable 'print_steps' to print steps.
+Enable 'print_steps' to print steps.<br><br>
 
 ### ▪ 2.2.6.3 Print_updates
 
-Enable 'auto_updates' to print updates from rules.
+Enable 'auto_updates' to print updates from rules.<br><br>
 
 ### ▪ 2.2.7 .Disable
 
-Command '.disable(OPTION)' disables option. Run '.help(options)' to see list of options.
+Command '.disable(OPTION)' disables option. Run '.help(options)' to see list of options.<br><br>
 
 ### ▪ 2.2.8 .Load
 
-Command '.load(SLOT).' to load facts from another SLOT (SLOT can be slot, slot@user or @user). Use '<SLOT' as a shortcut.
+Command '.load(SLOT).' to load facts from another SLOT (SLOT can be slot, slot@user or @user). Use '<SLOT' as a shortcut.<br><br>
 
 ### ▪ 2.2.9 .Intersect
 
@@ -306,7 +306,7 @@ Mr_tau:	b().
 **Me:		?i2**
 Mr_tau:	# Intersecting: i2
 Mr_tau:	# step: 0
-Mr_tau:	b().
+Mr_tau:	b().<br><br>
 
 ### ▪ 2.3 .Version
 
@@ -316,11 +316,11 @@ Command '.version.' displays version (commit) of TML used by bot.
 .version.
 ```
 
-### ▪ 2.3.1 .Help(COMMAND)
+### <br>▪ 2.3.1 .Help(COMMAND)
 
 Use this command to get explanatory information on any of the available commands. This document already contains the help information for all commands.
 
-## ▪ 2.4 Entering Facts
+## <br>▪ 2.4 Entering Facts
 
 mr_tau manages a database for each user. You can add facts to your database by entering it in the following format:
 
@@ -330,6 +330,6 @@ Usually, ‘RELATION NAME’ is being replaced with a verb but it can be anythin
 
 Example:
 
-*a(Peter human).*
+*a(Peter human).*<br><br><br><br><br>
 
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/tml-Bot-tutorial.md)

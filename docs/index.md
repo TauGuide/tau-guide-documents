@@ -5,19 +5,19 @@ disableTableOfContents: true
 ---
 
 Welcome to [tau.guide/documents](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 
-Tauchain and Agoras.
+Tauchain and Agoras.<br>
 
 ## Get Started
 
 There are three main ways to get started with Tauchain:
 
-1. [Tutorials](/docs/Tutorials/index.md): Step-by-step instructions on how to use Tau client and start a project.
-2. [Quick start](/docs/quick-start.md): What is Tau? User friendly materials to quickly get you up to speed.  
-3. [Buy Agoras](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md): Discover the best places to get Agoras
+1. [Tutorials](/docs/Tutorials/index.md): Step-by-step instructions on how to use Tau client and start a project. <br>
+2. [Quick start](/docs/quick-start.md): What is Tau? User friendly materials to quickly get you up to speed.  <br>
+3. [Buy Agoras](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md): Discover the best places to get Agoras. <br>
 
 ## Go further
 
-1. [Use](/docs/Tutorials/what-is-tauchain-tau.md#businessuse-cases): Learn about the many use cases and advantages of Tau.
+1. [Use](/docs/Tutorials/what-is-tauchain-tau.md#businessuse-cases): Learn about the many use cases and advantages of Tau.<br>
 
 2. Explore how Tauchain works behind the scenes:
 
@@ -27,11 +27,11 @@ There are three main ways to get started with Tauchain:
    - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tauchain.
    - [Tutorials](/docs/Tutorials/index.md) : All available "How to's...".
 <br>
-3. [Apps](/apps/) : Check out the growing list of Tauchain applications.
+3. [Apps](/apps/) : Check out the growing list of Tauchain applications.<br>
 
 ## Start contributing
 
 [IDNI are hiring](http://www.idni.org/careers/) : A list of available positions.
 Visit the [Contributing](/contributing/) section to find guides on the Tauchain community, code of conduct, and how to get started contributing to the Tauchain ecosystem.
-<br>
+<br><br>
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/index.md)

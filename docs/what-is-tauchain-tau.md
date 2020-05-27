@@ -24,7 +24,7 @@ Tau solves societal challenges with decentralised technology:
 **Technical**
 - A program in which its requirements and code are determined by its many users.
 - The theoretical nonexistence of one universal language to be suitable for all types of expression.
-- The Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases
+- The Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases<br><br>
 
 ---
 
@@ -36,16 +36,21 @@ Tau, by using a self defining and decidable logical framework, empowers people t
 
 Anyone can interact with the tauchain network and participate in this digital economy, without the need for third parties and without the risk of censorship.
 
-Tau uses a decidable logical framework which allows it to synthesize and execute code based on user specifications. Users can create their own teams under Tau to discuss and collaborate on a project with its own private knowledge base. After taking advantage of Tau's ability to scale discussions, teams can quickly reach a consensus on the specifications and Tau can automatically generate and execute code, according to those specifications.
+Tau uses a decidable logical framework which allows it to synthesize and execute code based on user specifications. Users can create their own teams under Tau to discuss and collaborate on a project with its own private knowledge base. After taking advantage of Tau's ability to scale discussions, teams can quickly reach a consensus on the specifications and Tau can automatically generate and execute code, according to those specifications.<br><br><br>
 
 ## **What is Tau Chain?**
 
 ### **History**
 
 - [Ohad Asor](https://tau.guide/#teams)
+
 - Zennet.sc
+
 - Old Tau: Neglected the social side and was also mistakenly relying on an undecidable logic, with  decidability being a main requirement.
-- [New Tau](http://www.idni.org/blog/the-new-tau)
+
+- [New Tau](http://www.idni.org/blog/the-new-tau) <br>
+
+  <br>
 
 ### **[Features](https://thecreativecrypto.com/the-first-million-person-conversation-interview-ohad-asor-of-tau-chain/)**
 
@@ -55,7 +60,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - Advanced currency
 - logical solver
 - internet of languages
-- [TML](https://www.notion.so/What-is-Tauchain-Tau-78295578914840ff8ef6ff616e9aafee#c9b132c8b4a745b899307a06ca9e7985) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085)
+- [TML](https://www.notion.so/What-is-Tauchain-Tau-78295578914840ff8ef6ff616e9aafee#c9b132c8b4a745b899307a06ca9e7985) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085) <br> <br><br>
 
 ## **Technical and societal aspects**
 
@@ -72,9 +77,9 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 [What%20is%20Tauchain%20Tau%2026e31153ed924b0f9959f95297d36804/zennetpricing.pdf](What%20is%20Tauchain%20Tau%2026e31153ed924b0f9959f95297d36804/zennetpricing.pdf)
 
-- probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)
+- probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)<br><br><br><br>
 
-### **TML**
+## **TML**
 
 **Social**
 
@@ -93,9 +98,11 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - binary decision diagrams used for performance of logical solver.
 
 > [Read more about the concepts behind TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau.md#understanding-tml-prolog---datalog---tau)
-> [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot
+> [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot <br>
 
-### **the Internet of Languages**
+<br>
+
+### **The Internet of Languages**
 
 **Social**
 
@@ -105,7 +112,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 **Technical**
 
 - IoL is referenced as the infrastructure
-- <insert here the arguments for the language of law, and the argument for the meta language>
+- <insert here the arguments for the language of law, and the argument for the meta language><br><br><br>
 
 ### **Governance**
 
@@ -117,8 +124,14 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 **Technical**
 
 - Tau doesn't guess the people's opinion. that's one reason we use logic, not ML for example
+
 - Why the logic was chosen with regard to partial fixed point: Tau Chain allows users to change the choice mechanism of itself by having clear rules of changing the rules, to change Tau's code with time recursion in order to deal with rules of changing the rules. This is an important aspect involved in the choice of fixed-point logic for TML, and λY calculus on the Beta (apropos, Bauer showed in "On Self-Interpreters For System-T and Other Typed λ-Calculi" that a language can self-interpret only if it has fixed point, which rules out total programming languages)
-- Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")
+
+- Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")<br><br>
+
+  ------
+
+  <br>
 
 ## **Tau**
 
@@ -131,13 +144,18 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 **Technical**
 
 - a collaboratively self-amending program that can be anything or many programs at once
-- Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.
+
+- Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.<br><br><br>
+
+  ------
+
+  <br>
 
 ## **Agoras**
 
-- Knowledge economy, [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)
+- Knowledge economy, [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)<br><br>
 
-### **knowledge market**
+### **Knowledge market**
 
 **Social**
 
@@ -146,21 +164,27 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 **Technical**
 
-- utilising the decentralised search engine and data storage
+- utilising the decentralised search engine and data storage<br><br>
 
-### **computational resources market**
+### Computational resources market
 
-- maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance
+- maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance<br><br>
 
-### **derivatives market (newly designed economy offering features like risk free interest without printing new money)**
+### derivatives market (newly designed economy offering features like risk free interest without printing new money)
 
 - advanced monetary system
+
 - the monetary features that Agoras will support
-- ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist
 
-## **Business/use cases**
+- ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist<br><br>
 
-Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:
+  ------
+
+  <br>
+
+## **<ins>Business/use cases</ins>**
+
+Tau can be anything that its users want it to be, as they ultimately collaboratively determine the very code of the network. Examples:<br>
 
 ### **automated scheduling**
 
@@ -203,6 +227,6 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
 - based on agoras' knowledge market
 - lives on knowledge society-framework Tau
 - an economic system that supports the production, pricing, shipment, and arena (agora), of some knowledge (the knowledge of the text on the web)
-- deeper and more meaningful knowledge than existing static searched based on thesaurus and ML that has no real understanding of the subjects
+- deeper and more meaningful knowledge than existing static searched based on thesaurus and ML that has no real understanding of the subjects<br><br><br>
 
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau/blob/master/Content.md)
