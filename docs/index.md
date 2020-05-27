@@ -31,7 +31,7 @@ There are three main ways to get started with Tauchain:
 
 ## Start contributing
 
-[IDNI are hiring](http://www.idni.org/careers/) : A list of available positions.
+[IDNI are hiring](http://www.idni.org/careers/) : A list of available positions.<br>
 Visit the [Contributing](/contributing/) section to find guides on the Tauchain community, code of conduct, and how to get started contributing to the Tauchain ecosystem.
 <br><br>
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/index.md)
