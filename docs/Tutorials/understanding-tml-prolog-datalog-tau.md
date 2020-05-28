@@ -2,13 +2,14 @@
 title: Understanding TML
 description: A deep dive into the tech behind Tau's Meta-Language (TML).
 disableTableOfContents: false
+order: 2
 ---
 
 # Understanding TML: Prolog -> Datalog -> Tau
 
 by Dana Edwards
 
-Source: 
+Source:
 
 [Understanding TML: Prolog -> Datalog -> Tau - Steemit](https://steemit.com/tauchain/@dana-edwards/understanding-tml-prolog-datalog-tau)
 
@@ -107,11 +108,11 @@ The structure of the data here are in the form of "bytes". As we can see, we are
 
 ## **References**
 
-1. [https://swish.swi-prolog.org/](https://swish.swi-prolog.org/) 
+1. [https://swish.swi-prolog.org/](https://swish.swi-prolog.org/)
 
 [SWISH -- SWI-Prolog for SHaring](https://swish.swi-prolog.org/)
 
-1. [https://github.com/IDNI/tau](https://github.com/IDNI/tau) 
+1. [https://github.com/IDNI/tau](https://github.com/IDNI/tau)
 
 [IDNI/TML](https://github.com/IDNI/tau)
 

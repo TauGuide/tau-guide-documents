@@ -2,6 +2,7 @@
 title: FAQs
 description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
 disableTableOfContents: false
+order: 2
 ---
 
 # Tauchain & Agoras FAQs
@@ -56,7 +57,7 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 1. **[Whitebit]**[https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
 2. **[BCEX]** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
-3. **[Sky]**  [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
+3. **[Sky]** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
    <br>
 
 ---
@@ -314,7 +315,7 @@ For example: If Bitcoin was hosted on Tau, how would they determine the BTC bloc
 
 _Ohad:_ Forks are a consequence when we reach a point where disagreements cannot be resolved. Discussions are the best way to resolve disagreements.<br>
 
-------
+---
 
 ### 27. Are there limitations to code synthesis?
 

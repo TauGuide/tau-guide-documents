@@ -2,6 +2,7 @@
 title: TML Bot Tutorial
 description: An easy-to-use guide to interact with the TML bot
 disableTableOfContents: false
+order: 1
 ---
 
 # TML Bot Tutorial
@@ -62,15 +63,15 @@ mr_tau then will provide you with information about how you can communicate
 
 with him:
 
-*# Each user can create slots and switch between them. Each slot has its own pair of a data database and a program database.*
+_# Each user can create slots and switch between them. Each slot has its own pair of a data database and a program database._
 
-*# Data database contains only facts which are updated by executing TML code.*
+_# Data database contains only facts which are updated by executing TML code._
 
-*# Program database contains rules. Use '+RULE' or '-RULE' to add/remove rule to/from a program database.*
+_# Program database contains rules. Use '+RULE' or '-RULE' to add/remove rule to/from a program database._
 
-*# Use ':SLOT' to switch to another slot. Initial slot is called 'default'.*
+_# Use ':SLOT' to switch to another slot. Initial slot is called 'default'._
 
-*# REPL commands are prefixed by a comma '.'. Use command '.list.' to get list of commands. Use '.help(COMMAND).' to get help for a command.*<br><br>
+_# REPL commands are prefixed by a comma '.'. Use command '.list.' to get list of commands. Use '.help(COMMAND).' to get help for a command._<br><br>
 
 ### ▪ 2.1.2 .List
 
@@ -78,17 +79,17 @@ This command serves to obtain a complete list of commands and input prefixes
 
 available to communicate with mr_tau.It will answer:
 
-*# Commands: help, list, killall, clear, add, del, db, rules, try, run, slot, list_slots, delete_slot, select, unselect, enable, disable, load, intersect, version. Use '.help(COMMAND).' to get help for the COMMAND.*
+_# Commands: help, list, killall, clear, add, del, db, rules, try, run, slot, list_slots, delete_slot, select, unselect, enable, disable, load, intersect, version. Use '.help(COMMAND).' to get help for the COMMAND._
 
-*# Input prefixes: . (REPL), + and - (add/del rule), : (selecting slot), / (deleting* # Input prefixes: . (REPL), + and - (add/del rule), : (selecting slot), / (deleting *get help for the PREFIX.* 
+_# Input prefixes: . (REPL), + and - (add/del rule), : (selecting slot), / (deleting_ # Input prefixes: . (REPL), + and - (add/del rule), : (selecting slot), / (deleting _get help for the PREFIX._
 
-*You can also write mr_tau:*
+_You can also write mr_tau:_
 
 ```
-*.list(relation REL SLOT).* 
+*.list(relation REL SLOT).*
 ```
 
- to *display relation REL from slot SLOT. Current slot is used if SLOT omitted.*<br><br>
+to _display relation REL from slot SLOT. Current slot is used if SLOT omitted._<br><br>
 
 ### ▪ 2.1.3 .Killall
 
@@ -96,15 +97,15 @@ This command is used to instantly kill all running TML processes. mr_tau will
 
 answer:
 
-*# killing all TML processes*<br><br>
+_# killing all TML processes_<br><br>
 
 ### ▪ 2.1.4 .Clear
 
 Entering this command will clear both your data and program database. mr_tau:
 
-*# Db cleared*
+_# Db cleared_
 
-If you wish to only clear your data database use '.clear(db)' 
+If you wish to only clear your data database use '.clear(db)'
 
 ```
 .clear(db)
@@ -118,7 +119,7 @@ and if you only wish to clear your program database use '.clear(rules)'.
 
 ### <br>▪ 2.1.5 .Add
 
-Command '.add(rule RULE).' adds new rule 
+Command '.add(rule RULE).' adds new rule
 
 ```
 .add(rule RULE).
@@ -134,7 +135,7 @@ For an explanation of what a rule is, please refer to section [2.1.8 .Rules](htt
 
 ### ▪ 2.1.6 .Del
 
-Command '.del(rule RULE).' deletes the RULE 
+Command '.del(rule RULE).' deletes the RULE
 
 ```
 .del(rule RULE).
@@ -150,7 +151,7 @@ or use '-RULE.' as a shortcut.
 
 Command '.db.' or “.db(SLOT).” displays facts contained in the data database of
 
-the SLOT (current slot is listed if omitted). 
+the SLOT (current slot is listed if omitted).
 
 ```
 .db.
@@ -162,24 +163,24 @@ the SLOT (current slot is listed if omitted).
 
 If your database is empty, mr_tau will answer:
 
-*## Listing database:*
+_## Listing database:_
 
-*## Database is empty*<br><br>
+_## Database is empty_<br><br>
 
 ### ▪ 2.1.8 .Rules
 
 A rule is anything containing “:-”. To a large degree, one can interpret “:-” as
 
-“defined as”. 
+“defined as”.
 
 Example:
 
-*a(mammal ?x) :- a(cat ?x) 
+\*a(mammal ?x) :- a(cat ?x)
 
-This rule states: “If x is a cat, then x is a mammal”.*
+This rule states: “If x is a cat, then x is a mammal”.\*
 
-*Command '.rules.' or '.rules(SLOT).' displays the list of rules (program
-database) of the SLOT (current slot is listed if omitted).*<br><br>
+_Command '.rules.' or '.rules(SLOT).' displays the list of rules (program
+database) of the SLOT (current slot is listed if omitted)._<br><br>
 
 ### ▪ 2.1.9 .Try
 
@@ -217,7 +218,7 @@ Command '.select(OPTION VALUE)' store a value by option. Only option
 
 So you can use the “.select” command to switch in between your slots. Alternatively, you could also write “:slot_name” to switch the slot. Example:
 
-*:bigslot*
+_:bigslot_
 
 Lets you switch from your current slot into the slot with the name “bigslot”.<br><br>
 
@@ -229,11 +230,11 @@ used with a value ('.unselect(OPTION VALUE)') option is cleared only if the
 
 VALUE argument matches the value currently set. Example:
 
-*.unselect (slot bigslot)*
+_.unselect (slot bigslot)_
 
-***Mr_tau:***
+**_Mr_tau:_**
 
-*## Unselected slot : bigslot*<br><br>
+_## Unselected slot : bigslot_<br><br>
 
 ### ▪ 2.2.6 .Enable
 
@@ -278,35 +279,35 @@ Note: When looking to intersect with a slot of another user, you have to add quo
 Intersect-Example:
 
 In this example, we create the slot “i1”, then add “a.b.” facts. Then, we create the slot “r”, load content of slot “i1” and then intersect it with slot “i2”:
-**Me:		:i1**
-Mr_tau:	# Selected slot : i1
-**Me:		a.b.**
-Mr_tau:	# elapsed: 0.25 ms
-Mr_tau:	# Total elapsed: 28 ms user: 0.00 s system: 0.00 s memory: 4008 Kb
-Mr_tau:	# step: 0
-Mr_tau:	a().
-Mr_tau:	b().
-**Me:		:i2**
-Mr_tau:	# Selected slot : i2
-**Me:		b.c.**
-Mr_tau:	# elapsed: 0.14 ms
-Mr_tau:	# Total elapsed: 15 ms user: 0.00 s system: 0.00 s memory: 4028 Kb
-Mr_tau:	# step: 0
-Mr_tau:	b().
-Mr_tau:	c().
-**Me:		:r**
-Mr_tau:	# Selected slot : r
-**Me:		<i1**
-Mr_tau:	# Loading data: i1
-Mr_tau:	# elapsed: 0.44 ms
-Mr_tau:	# Total elapsed: 30 ms user: 0.00 s system: 0.00 s memory: 4076 Kb
-Mr_tau:	# step: 0
-Mr_tau:	a().
-Mr_tau:	b().
-**Me:		?i2**
-Mr_tau:	# Intersecting: i2
-Mr_tau:	# step: 0
-Mr_tau:	b().<br><br>
+**Me: :i1**
+Mr_tau: # Selected slot : i1
+**Me: a.b.**
+Mr_tau: # elapsed: 0.25 ms
+Mr_tau: # Total elapsed: 28 ms user: 0.00 s system: 0.00 s memory: 4008 Kb
+Mr_tau: # step: 0
+Mr_tau: a().
+Mr_tau: b().
+**Me: :i2**
+Mr_tau: # Selected slot : i2
+**Me: b.c.**
+Mr_tau: # elapsed: 0.14 ms
+Mr_tau: # Total elapsed: 15 ms user: 0.00 s system: 0.00 s memory: 4028 Kb
+Mr_tau: # step: 0
+Mr_tau: b().
+Mr_tau: c().
+**Me: :r**
+Mr_tau: # Selected slot : r
+**Me: <i1**
+Mr_tau: # Loading data: i1
+Mr_tau: # elapsed: 0.44 ms
+Mr_tau: # Total elapsed: 30 ms user: 0.00 s system: 0.00 s memory: 4076 Kb
+Mr_tau: # step: 0
+Mr_tau: a().
+Mr_tau: b().
+**Me: ?i2**
+Mr_tau: # Intersecting: i2
+Mr_tau: # step: 0
+Mr_tau: b().<br><br>
 
 ### ▪ 2.3 .Version
 
@@ -330,6 +331,6 @@ Usually, ‘RELATION NAME’ is being replaced with a verb but it can be anythin
 
 Example:
 
-*a(Peter human).*<br><br><br><br><br>
+_a(Peter human)._<br><br><br><br><br>
 
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/tml-Bot-tutorial.md)
