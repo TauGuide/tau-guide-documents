@@ -1,6 +1,6 @@
 ---
 title: How to Buy Agoras
-description: Agoras: How to Buy
+description: "Agoras: How to Buy"
 disableTableOfContents: false
 order: 3
 ---
