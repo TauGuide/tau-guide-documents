@@ -1,19 +1,17 @@
 ---
 title: Tutorials
-description: Tau.Guide Turorials. The community resource to guide you through all aspects of Tau and Agoras.
+description: Tau.Guide Tutorials. The community resource to guide you through all aspects of Tau and Agoras.
 disableTableOfContents: true
 ---
 
 # Tutorials
 
-Introduction
+<br>
 
 Welcome to Tau.Guide! Great to have you here. Here we have a list of resources to guide you through all aspects of Tau and Agoras.
 
-> These resources are intended to cover all at an experienced level.
+> These resources are intended to cover all at an experienced level.<br>
 Please see our [Quick Start](tau-guide-documents/blob/master/docs/quick-start.md) page for more introductory materials.<br>
-
----
 
 ### <br>Tauchain Fundimentals
 
@@ -37,9 +35,9 @@ Please see our [Quick Start](tau-guide-documents/blob/master/docs/quick-start.md
 
 ### Additional Tutorials
 
-[How to Buy Agoras](/docs/tutorials/step-by-step-guide-how-to-buy-agoras.md)
+[Agoras: How to Buy ](/docs/tutorials/step-by-step-guide-how-to-buy-agoras.md)
 
-[How to Store Agoras](/docs/tutorials/step-by-step-guide-how-to-store-agoras.md)
+[Agoras: How to Store](/docs/tutorials/step-by-step-guide-how-to-store-agoras.md)
 
 ---
 

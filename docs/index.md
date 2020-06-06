@@ -1,10 +1,10 @@
 ---
 title: Introduction
-description: The one stop location for tutorials, guides, and information about Tauchain and Agoras
+description: The one stop location for tutorials, guides and information about Tauchain and Agoras
 disableTableOfContents: true
 ---
 
-Welcome to [tau.guide/documents](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 
+<br>Welcome to [tau.guide/documents](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 
 Tauchain and Agoras.<br>
 
 ## Get Started
@@ -13,7 +13,7 @@ There are three main ways to get started with Tauchain:
 
 1. [Tutorials](/docs/Tutorials/index.md): Step-by-step instructions on how to use Tau client and start a project. <br>
 2. [Quick start](/docs/quick-start.md): What is Tau? User friendly materials to quickly get you up to speed.  <br>
-3. [Buy Agoras](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md): Discover the best places to get Agoras. <br>
+3. [Buy Agoras](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md): Discover the best places to get Agoras. <br><br>
 
 ## Go further
 
@@ -25,9 +25,9 @@ There are three main ways to get started with Tauchain:
    - [TML](/docs/what-is-tauchain-tau.md#tml) : Learn more about Tau's Meta-Language.
    - [Agoras](/docs/what-is-tauchain-tau.md#agoras): Learn about the Agoras market at it's smart currency.
    - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tauchain.
-   - [Tutorials](/docs/Tutorials/index.md) : All available "How to's...".
+   - [Tutorials](/docs/Tutorials/index.md) : All available "How to's...". <br>
 <br>
-3. [Apps](/apps/) : Check out the growing list of Tauchain applications.<br>
+3. [Apps](/apps/) : Check out the growing list of Tauchain applications.<br><br>
 
 ## Start contributing
 

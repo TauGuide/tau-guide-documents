@@ -4,15 +4,15 @@ description: Quickly get up to speed on Tauchain and Agoras with our user friend
 disableTableOfContents: false
 ---
 
-Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. <br>
+<br>Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. <br>
 
-> #### This page is mostly non-technical; for a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/index.md)
+> ##### This page is mostly non-technical. For a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/index.md)<br>
 
 <br>
 
 ## <ins>An Introduction to Tauchain</ins>:
 
-Ohad Asor (Founder & CTO)
+<br>Ohad Asor (Founder & CTO)
 
 [![ An Introduction to Tauchain Video](http://img.youtube.com/vi/9rUjP6Bvz3U/0.jpg)](https://www.youtube.com/embed/9rUjP6Bvz3U)
 
@@ -75,7 +75,7 @@ Tau aims to become an indispensable technology. Once Tau has launched, any compa
 
 Tau is independent itself and has no tokens. However, Ohad is also building Agoras using tau tech, it will be the first automated marketplace over the Tau collaborative platform.
 
-> ### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md)
+> #### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md) <br>
 
 It has one of the fairest distributions in the cryptosphere. Ohad is only reserving 3% of the tokens for himself.<br><br>
 

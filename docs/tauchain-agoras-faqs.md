@@ -8,11 +8,7 @@ disableTableOfContents: false
 
 Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/embed/W0WhSrEqE7g)
 
----
-
-# Tauchain FAQs
-
-Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](/dev-video-updates).<br><br>
+<br>
 
 ### 1. What is Tauchain (Tau)?
 
@@ -29,7 +25,7 @@ Tau aims to become an indispensable technology. Once Tau has launched, any compa
 
 Tau is independent itself and has no tokens. However, Ohad is also building Agoras using tau tech, it will be the first automated marketplace over the Tau collaborative platform.
 
-> ### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md)
+> #### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md)<br>
 
 It has one of the fairest distributions in the cryptosphere. Ohad is only reserving 3% of the tokens for himself.<br><br>
 

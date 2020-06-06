@@ -11,10 +11,10 @@ by Dr Avishy Carmi & Ohad Asor
 ## Introduction
 
 Tau is a decentralised, self amending platform technology that allows a computer program to change based on the collective decision of it’s many users.
-Tau can do many things. The core bases for such a system sounds like a system that can do anything for you.<br><br>
-On the surface Tau is a social choice platform but the the social choice and the scaling of the discussions really come to support the aspect of collaboration. The aspect of collaboration supports the core thing, which is self amendment or change.<br><br>
+Tau can do many things. The core basis for such a system sounds like a system that can do anything for you.<br><br>
+On the surface Tau is a social choice platform but the social choice and the scaling of the discussions really come to support the aspect of collaboration. The aspect of collaboration supports the core thing, which is self amendment or change.<br><br>
 
-> We can basically say that that in reality, change is perhaps the only constant.<br>With tau, we have the same. <br>
+> We can basically say that in reality, change is perhaps the only constant.<br>With tau, we have the same. <br>
 
 <br>We have a system.  Part of that system are the users. The system should change all the time. Now, this leads to and implies recursion and if the system is complete then this leads to paradoxes. <br><br>
 
@@ -38,7 +38,7 @@ Retraction - Perhaps when a law is not applicable or is not realisable or is not
 
 ##### **<ins>Decidability</ins>** <br>
 
-Eventually we would like to get a verdict.whether this law give you the value that it promised and eventually you would like to turn it into an action so system needs to be decidable. so this free axiom delineates in a particular logic.<br><br>
+Eventually we would like to get a verdict. Whether this law gives you the value that it promised and eventually you would like to turn it into an action so system needs to be decidable. so this free axiom delineates in a particular logic.<br><br>
 
 ##### **<ins>Retration</ins>** <br>
 
