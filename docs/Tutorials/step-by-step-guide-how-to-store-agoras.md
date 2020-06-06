@@ -2,9 +2,10 @@
 title: "Agoras: How to Store"
 description: Step by step instructions on how to store Agoras.
 disableTableOfContents: false
+order: 4
 ---
 
-NEEDS UPDATING 
+NEEDS UPDATING
 
 # How to Store Agoras
 

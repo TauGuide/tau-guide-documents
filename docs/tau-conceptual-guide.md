@@ -1,7 +1,8 @@
 ---
-title: Conceptual Guide 
+title: Conceptual Guide
 description: A Conceptual Guide by Dr Avishy Carmi
 disableTableOfContents: true
+order: 4
 ---
 
 # TAU - Whitepaper
@@ -16,7 +17,7 @@ On the surface Tau is a social choice platform but the social choice and the sca
 
 > We can basically say that in reality, change is perhaps the only constant.<br>With tau, we have the same. <br>
 
-<br>We have a system.  Part of that system are the users. The system should change all the time. Now, this leads to and implies recursion and if the system is complete then this leads to paradoxes. <br><br>
+<br>We have a system. Part of that system are the users. The system should change all the time. Now, this leads to and implies recursion and if the system is complete then this leads to paradoxes. <br><br>
 
 The idea behind tau, based on axioms of the system, basically delineates a specific logic that avoids the paradoxes of self reference.<br><br>
 
@@ -26,7 +27,7 @@ The idea is that you have three axioms that allows you to realise the tau system
 
 1. Recursion
 
-2. Retraction 
+2. Retraction
 
 3. Decidability<br><br>
 
@@ -59,16 +60,13 @@ This basically corresponds to the second axiom of decidability and eventually yo
 
 So this is just another way of looking for getting these three axioms.<br>
 
-Eventually the system we are developing from theoretical aspect is a mathematical formal system so its supposed to be well defined with the axioms and then all the conciquenses will come over  and then we eventually get the practical system that supposed to work. <br>
+Eventually the system we are developing from theoretical aspect is a mathematical formal system so its supposed to be well defined with the axioms and then all the conciquenses will come over and then we eventually get the practical system that supposed to work. <br>
 
-
-
-### Summary: 
+### Summary:
 
 With Tau, we are have a system that aims to be self referential, self amending. Eventually it will be a culture that will evolve. A culture that reflects on itself and evolves over time.<br>
 
 In this culture there are constituents, the users that define the system. They are part of the system, there is no duality; in which you separate the users from the system. This whole thing is designed to "walk", to grow. The users will collaborate and discuss what laws will eventually drive the system. For that they’ll need discussion. They will need a platform that will allow them to choose what to choose over. Currently, no such system really exists.
-
 
 <br>
 

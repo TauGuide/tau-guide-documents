@@ -2,6 +2,7 @@
 title: Analysis of TauBot.TML
 description: An Analysis of Taubot.tml. The first application to be written in Tau's Meta-Language
 disableTableOfContents: true
+order: 0
 ---
 
 # Analysis of TauBot.TML
@@ -90,7 +91,7 @@ Here we can see that not only do we have rules but we also have variables. These
 
 So you can now see how to read all the database facts and rules for the TML Bot. To improve this bot we need the ability to read or to take input into the from users system. We can expect that this will be one of the next features coming at some point. There is also a need for useful builtins so that the bot can be made much more sophisticated and maybe even connect to a blockchain.<br><br>
 
->#### [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot<br>
+> #### [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot<br>
 
 <br>
 

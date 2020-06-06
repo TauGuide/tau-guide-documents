@@ -2,6 +2,7 @@
 title: Introduction
 description: The one stop location for tutorials, guides and information about Tauchain and Agoras
 disableTableOfContents: true
+order: 0
 ---
 
 <br>Welcome to [tau.guide/documents](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 

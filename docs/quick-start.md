@@ -2,6 +2,7 @@
 title: Quick Start
 description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
 disableTableOfContents: false
+order: 1
 ---
 
 <br>Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. <br>
@@ -21,7 +22,7 @@ disableTableOfContents: false
 > #### ⬇ **Quick Links:** <br>
 >
 > - **[DOWNLOAD](/)** : _Download the latest Tau Client to get started._ <br>
->- **[IDNI Playground](https://idni.multilink.cloud/login)** : _Test the discussion platform using the IDNI Playground_
+> - **[IDNI Playground](https://idni.multilink.cloud/login)** : _Test the discussion platform using the IDNI Playground_
 
 ---
 
@@ -29,7 +30,7 @@ disableTableOfContents: false
 
 ## Excellent Community Articles<br>
 
-### ▪ [Tauchain 101 - Essential reading](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)    
+### ▪ [Tauchain 101 - Essential reading](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)
 
 By Rok Sivante <br><br>
 
@@ -102,7 +103,7 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 1. **[Whitebit]**[https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
 2. **[BCEX]** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
-3. **[Sky]**  [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
+3. **[Sky]** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
    <br>
 
 ---
@@ -360,7 +361,7 @@ For example: If Bitcoin was hosted on Tau, how would they determine the BTC bloc
 
 _Ohad:_ Forks are a consequence when we reach a point where disagreements cannot be resolved. Discussions are the best way to resolve disagreements.<br>
 
-------
+---
 
 ### 27. Are there limitations to code synthesis?
 

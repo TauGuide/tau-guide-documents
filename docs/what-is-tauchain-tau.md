@@ -2,6 +2,7 @@
 title: Tau & Agoras Overview
 description: Quickly get up to speed on Tauchain and Agoras with our user friendly materials.
 disableTableOfContents: false
+order: 3
 ---
 
 # What is Tauchain (Tau)?
@@ -16,12 +17,14 @@ Tau-Chain (Tau) is an open source, decentralised network with a governance mecha
 
 Tau solves societal challenges with decentralised technology:
 
-**Social** 
-- The problem of scaling discussions and decision making (governance) 
+**Social**
+
+- The problem of scaling discussions and decision making (governance)
 - Collaborative discussion & decision making about a desired computer program, to then be translated into code.
 - Agoras solves the inability to directly monetize knowledge. It is nowadays impossible to directly monetise a piece of knowledge. We monetise knowledge only indirectly by being recognised as experts in some fields.
 
 **Technical**
+
 - A program in which its requirements and code are determined by its many users.
 - The theoretical nonexistence of one universal language to be suitable for all types of expression.
 - The Halting Problem or more generally Rice’s theorem, which demonstrate that reasoning over computer programs is mathematically impossible in most cases<br><br>
@@ -46,7 +49,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 - Zennet.sc
 
-- Old Tau: Neglected the social side and was also mistakenly relying on an undecidable logic, with  decidability being a main requirement.
+- Old Tau: Neglected the social side and was also mistakenly relying on an undecidable logic, with decidability being a main requirement.
 
 - [New Tau](http://www.idni.org/blog/the-new-tau) <br>
 
@@ -97,8 +100,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
 - binary decision diagrams used for performance of logical solver.
 
-> [Read more about the concepts behind TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau.md#understanding-tml-prolog---datalog---tau)
-> [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot <br>
+> [Read more about the concepts behind TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau.md#understanding-tml-prolog---datalog---tau) > [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot <br>
 
 <br>
 
@@ -129,7 +131,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 - Tau uses PFP logic known from Finite Model Theory with PSPACE-complete expressiveness, decidability and self-defining properties (Imhof, 1999 "Logics that define their own semantics")<br><br>
 
-  ------
+  ***
 
   <br>
 
@@ -147,7 +149,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 - Over Tau many drafts that propose Tau's next full code can be submitted by users. Using the logical formalism of these documents Tau can calculate the precise core that everyone agrees on, and list the points to be resolved. Users discuss the future Tau and the opinions map arises from the conversation, determining the next Tau.<br><br><br>
 
-  ------
+  ***
 
   <br>
 
@@ -178,7 +180,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 - ethical value systems in the broad sense, defining good and bad, better and worse as an economy without some subjective valuation or "utility function" can't exist<br><br>
 
-  ------
+  ***
 
   <br>
 
@@ -195,28 +197,28 @@ Tau can be anything that its users want it to be, as they ultimately collaborati
 - we cannot ever vote on whether something should be voted on in the first place
 - theoretical inability to comprehend the consequences of proposals which could compromise the security of the system
 - A [social choice](http://www.idni.org/blog/the-new-tau) mechanism where small or very large group of people repeatedly reach and follow agreements. A chronological and conceptually bottom-up order about the creation of a knowledge society.
-    - language transmitting one idea between two people - formalized in a machine comprehensible language - allows for easy explaining, easy understanding, and produces formalized knowledge.
-    - knowledge limits that affect flow and processing of information collaborative theory formation Ideas that are formalized in a machine comprehensible language allows users to translate it to other knowledge representation languages, to reorganize it or to compare it to other formalized ideas. From this Tau gains the ability to answer questions about an idea in a decidable manner, without the need to refer the question to the original idea's author
-    - discussion collaborative decision making methods of discussions so far suffer from very poor scaling voters go over equally-weighted one million proposals daily
-    - collaboration
-        - Scaling limits
-        - discuss, share and organize knowledge, detect consensus and disagreements, and coordinate actions in forms of programs
-        - automatically detect repeated argument by same person
-        - collecting what each person said during the discussion
-        - map all the agreement and disagreement points
-        - list all opinions and then who agrees with them rather (speakers per opinion rather opinions per speaker)
-        - organize the information put on the discussion in more organized and readable forms like a wiki
-        - comment automatically and automatically express your opinion, based on the information you provided in the past, and relative to the post you're autocommenting to.
-        - calculate the set of statements agreed by everyone, network wide, per team, per profiles connected to the users profile, per discussion, and so on.
-    - change (choice about choice)
-        - opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
-        - everyone has an equal right to propose what to vote over
-        - If rules can change themselves, they inevitably contradict themselves as they try to say something else. This is formalized in a paradox-free manner using recursion.
-    - knowledge market
-        - based on agoras'
-        - hardware rent market using Agoras' decentralised search engine
-        - a knowledge economy, on top of the knowledge society
-        - using decentralised search engines, data storage and computation
+  - language transmitting one idea between two people - formalized in a machine comprehensible language - allows for easy explaining, easy understanding, and produces formalized knowledge.
+  - knowledge limits that affect flow and processing of information collaborative theory formation Ideas that are formalized in a machine comprehensible language allows users to translate it to other knowledge representation languages, to reorganize it or to compare it to other formalized ideas. From this Tau gains the ability to answer questions about an idea in a decidable manner, without the need to refer the question to the original idea's author
+  - discussion collaborative decision making methods of discussions so far suffer from very poor scaling voters go over equally-weighted one million proposals daily
+  - collaboration
+    - Scaling limits
+    - discuss, share and organize knowledge, detect consensus and disagreements, and coordinate actions in forms of programs
+    - automatically detect repeated argument by same person
+    - collecting what each person said during the discussion
+    - map all the agreement and disagreement points
+    - list all opinions and then who agrees with them rather (speakers per opinion rather opinions per speaker)
+    - organize the information put on the discussion in more organized and readable forms like a wiki
+    - comment automatically and automatically express your opinion, based on the information you provided in the past, and relative to the post you're autocommenting to.
+    - calculate the set of statements agreed by everyone, network wide, per team, per profiles connected to the users profile, per discussion, and so on.
+  - change (choice about choice)
+    - opinions flow through certain pipes and reach the voting stage almost empty from the vast information gathered in the process
+    - everyone has an equal right to propose what to vote over
+    - If rules can change themselves, they inevitably contradict themselves as they try to say something else. This is formalized in a paradox-free manner using recursion.
+  - knowledge market
+    - based on agoras'
+    - hardware rent market using Agoras' decentralised search engine
+    - a knowledge economy, on top of the knowledge society
+    - using decentralised search engines, data storage and computation
 
 ### **Structured knowledge**
 
