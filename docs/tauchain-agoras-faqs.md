@@ -7,7 +7,7 @@ order: 2
 
 # Tauchain & Agoras FAQs
 
-Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/embed/W0WhSrEqE7g)
+Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g)
 
 <br>
 
