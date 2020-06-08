@@ -17,6 +17,8 @@ order: 1
 
 [![ An Introduction to Tauchain Video](http://img.youtube.com/vi/9rUjP6Bvz3U/0.jpg)](https://www.youtube.com/embed/9rUjP6Bvz3U)
 
+`youtube: https://www.youtube.com/watch?v=9rUjP6Bvz3U`
+
 ---
 
 > #### ⬇ **Quick Links:** <br>

@@ -19,7 +19,7 @@ Step 1: Install [SWI Prolog](http://www.swi-prolog.org/).
 
 Step 2: Watch this [video](https://www.youtube.com/watch?v=gJOZZvYijqk).:
 
-[https://www.youtube.com/watch?v=gJOZZvYijqk](https://www.youtube.com/watch?v=gJOZZvYijqk)
+`youtube: https://www.youtube.com/watch?v=gJOZZvYijqk`
 
 The basic concepts to learn to know Prolog/Datalog/Tau:
 
