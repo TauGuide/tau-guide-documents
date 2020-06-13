@@ -1,7 +1,7 @@
 ---
 title: Conceptual Guide
 description: A Conceptual Guide by Dr Avishy Carmi
-disableTableOfContents: true
+disableTableOfContents: False
 order: 4
 ---
 
@@ -31,17 +31,17 @@ The idea is that you have three axioms that allows you to realise the tau system
 
 3. Decidability<br><br>
 
-##### **<ins>Recursion</ins>** <br>
+##### ● **<ins>Recursion</ins>** <br>
 
 Talks about law of changing laws. You have a law and you wish to change it so you need a law of i11 and so on. Eventually you come up with idea that you need an unbounded recursion. now this is the first axiom.
 
-Retraction - Perhaps when a law is not applicable or is not realisable or is not moral, etc. you wish to restrict it. This implies that you live in a normal atomic world and this is what we talk about being in a non monotonic logic so you would like to retract the law.<br><br>
+Retraction - Perhaps when a law is not applicable or is not realisable or is not moral, etc. You wish to restrict it. This implies that you live in a normal atomic world and this is what we talk about being in a non monotonic logic so you would like to retract the law.<br><br>
 
-##### **<ins>Decidability</ins>** <br>
+##### **●** <ins>Decidability</ins><br>
 
 Eventually we would like to get a verdict. Whether this law gives you the value that it promised and eventually you would like to turn it into an action so system needs to be decidable. so this free axiom delineates in a particular logic.<br><br>
 
-##### **<ins>Retration</ins>** <br>
+##### **●** <ins>Retration</ins> <br>
 
 With recursion it tells us that we need a fixed point in the logic. Retraction says that, ok, it’s supposed to also be monotonic. So this leads us to something like partial fixed point. Eventually we have decidability and that tells you that the logic is supposed to be definable on finance structures.<br><br>
 
@@ -49,20 +49,20 @@ Okay, so now we come to the point we know that we are supposed to have partial f
 
 Morals and laws are 2 different things. My morals are about what is right and what is wrong. Laws are basically social agreements. Eventually we know that in our world people have traded laws for morals and morals for laws and perhaps more of the latter than the former. <br>
 
-The first users of the system can grow and evolve because of self amendment and all of the logic we have gatherred from discussions; eventually we can get a system where morals equal laws. <br><br>
+The first users of the system can grow and evolve because of self amendment and all of the logic we have gathered from discussions; eventually we can get a system where morals equal laws. <br><br>
 
 If you take a look at the three laws, we want to get free axioms from calculus of morals so one would say the following thing:<br>
 
-Concider morals; for a thing to be moral you have to approach though negation which means you have to remove all that is immoral from it. This corresponds with the law or axiom of retraction.<br>
-The other thing is that if you wish to avolve and add more laws to the system then you would have to decide when or not what you are to going to add is moral or not.<br>
+Consider morals; for a thing to be moral you have to approach though negation which means you have to remove all that is immoral from it. This corresponds with the law or axiom of retraction.<br>
+The other thing is that if you wish to evolve and add more laws to the system then you would have to decide when or not what you are to going to add is moral or not.<br>
 
 This basically corresponds to the second axiom of decidability and eventually you will have a lot of laws and some of the laws can be such that they will attest on their own morals and eventually you will get this self referential process again and one would like it to converge eventually and that means the law becomes a moral. Because when a moral attests to it’s own moral about being moral it will just be the same. <br>
 
 So this is just another way of looking for getting these three axioms.<br>
 
-Eventually the system we are developing from theoretical aspect is a mathematical formal system so its supposed to be well defined with the axioms and then all the conciquenses will come over and then we eventually get the practical system that supposed to work. <br>
+Eventually the system we are developing from theoretical aspect is a mathematical formal system so its supposed to be well defined with the axioms and then all the consequences will come over and then we eventually get the practical system that supposed to work. <br><br>
 
-### Summary:
+## Summary:
 
 With Tau, we are have a system that aims to be self referential, self amending. Eventually it will be a culture that will evolve. A culture that reflects on itself and evolves over time.<br>
 

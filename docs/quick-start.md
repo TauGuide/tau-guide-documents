@@ -7,7 +7,7 @@ order: 1
 
 <br>Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. <br>
 
-> ##### This page is mostly non-technical. For a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/index.md)<br>
+> ##### This page is mostly non-technical. For a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/)<br>
 
 <br>
 
@@ -15,9 +15,7 @@ order: 1
 
 <br>Ohad Asor (Founder & CTO)
 
-[![ An Introduction to Tauchain Video](http://img.youtube.com/vi/9rUjP6Bvz3U/0.jpg)](https://www.youtube.com/embed/9rUjP6Bvz3U)
-
-`youtube: https://www.youtube.com/watch?v=9rUjP6Bvz3U`
+`youtube: https://www.youtube.com/watch?v=9rUjP6Bvz3U`<br><br>
 
 ---
 
@@ -61,7 +59,11 @@ by Isar Flis <br><br><br>
 
 # Tauchain FAQs
 
-Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](/dev-video-updates).<br><br>
+Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g&list=PLav2klOnTUlNKDE1xYVHi9zn9cqgpZead).<br><br>
+
+> ###### Don't see your Question? [Ask it here](http://bit.ly/TauchainQuestionForm) and have it answered on the next monthly development video update. <br>
+
+<br>
 
 ### 1. What is Tauchain (Tau)?
 
@@ -78,7 +80,7 @@ Tau aims to become an indispensable technology. Once Tau has launched, any compa
 
 Tau is independent itself and has no tokens. However, Ohad is also building Agoras using tau tech, it will be the first automated marketplace over the Tau collaborative platform.
 
-> #### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md) <br>
+> ##### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras) <br>
 
 It has one of the fairest distributions in the cryptosphere. Ohad is only reserving 3% of the tokens for himself.<br><br>
 
@@ -345,13 +347,13 @@ You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progr
 
 You can read more about TML in our [Tutorials](http://tau.guide/docs/tutorials/) section:
 
-[TML Github Readme](https://github.com/IDNI/TML/blob/master/README.md) <br>
+[TML Github Readme](https://github.com/IDNI/TML/blob/master/README) <br>
 
-[Understanding TML: Prolog -> Datalog -> Tau](/docs/tutorials/understanding-tml-prolog-datalog-tau.md) <br>
+[Understanding TML: Prolog -> Datalog -> Tau](/docs/tutorials/understanding-tml-prolog-datalog-tau) <br>
 
-[Analysis of TauBot.TML](/docs/tutorials/analysis-of-taubot-tml.md) <br>
+[Analysis of TauBot.TML](/docs/tutorials/analysis-of-taubot-tml) <br>
 
-[TML Bot Tutorial](/docs/tutorials/tml-bot-Tutorial.md)<br>
+[TML Bot Tutorial](/docs/tutorials/tml-bot-Tutorial)<br>
 
 <br>
 
@@ -370,4 +372,4 @@ _Ohad:_ Forks are a consequence when we reach a point where disagreements cannot
 _Ohad:_ Yes, all logical systems have limitations. Most questions in the universe are too difficult to be practically solvable. But most problems in practice are likely solvable. Most importantly, we as humans don't have any more advantage over what's mathematically possible. The computer will have limitations, but it will certainly do better than us.<br>
 <br>
 
-✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/quick-start.md)
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/quick-start)

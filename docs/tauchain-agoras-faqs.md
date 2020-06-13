@@ -7,9 +7,11 @@ order: 2
 
 # Tauchain & Agoras FAQs
 
-Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g).
+Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g).<br>
 
-`youtube: https://www.youtube.com/watch?v=W0WhSrEqE7g`
+<br>
+
+> ###### Don't see your Question? [Ask it here](http://bit.ly/TauchainQuestionForm) and have it answered on the next monthly development video update. <br>
 
 <br>
 
@@ -63,9 +65,12 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 ### 5. How I hold my Agoras Tokens?
 
 You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.
-If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)
+If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)<br>
+<br>
 
-Pleas refer to our [How to Store Agoras](https://www.notion.so/How-to-Store-Agoras-66d92c0cc95e46d5896088808fc00615) tutorial.<br><br>
+> Pleas refer to our [How to Store Agoras](https://www.notion.so/How-to-Store-Agoras-66d92c0cc95e46d5896088808fc00615) tutorial.<br>
+
+<br>
 
 ---
 
@@ -87,7 +92,7 @@ Agoras represents one of the fairest fund raising and distributions of tokens in
 
 > The split will not affect your holdings or funds. Post split, the market capitalization of Agoras will remain the same, but the price per token will change proportionally to the split ratio. For example, if the price of 1 IDNI Agoras is $50, with a total of 42 million tokens the market capitalization will be $2.1 billion. Assuming you hold 1 IDNI Agoras (you have $50), after the split, you will get 2000 Agoras tokens worth $0.025 each. Your holding will remain the same (2000*$0.025 = $50) and Agoras market capitalization will remain the same (84 billion * 0.025 = \$2.1 billion).
 
-> The split is just technical, to support micro transactions over Agoras. It will not affect your holdings in terms of percents from the total supply.<br>
+> The split is just technical, to support micro transactions over Agoras. It will not affect your holdings in terms of percent from the total supply.<br>
 
 <br>
 
@@ -116,7 +121,10 @@ Two answers posted by Ohad on BTT with regards to the bonus:
 
 ### 8. What is the Roadmap for this project?
 
-See Development progress on our [Tauchain Project Roadmap](https://tau.guide/#development-progress)
+> See Development progress on our [Tauchain Project Roadmap](https://tau.guide/#development-progress) <br>
+
+<br>
+
 Tau progress can be generally defined by the following milestones:
 
 1. [TML (Tau Meta Language)](https://www.notion.so/TML.com) and Initial Network
@@ -138,7 +146,9 @@ Tau progress can be generally defined by the following milestones:
 
 ### 9. Who is the Lead Developer Ohad Asor?
 
-Read more about the [Tauchain Developers Team](http://tau.guide/#teams)
+> Read more about the [Tauchain Developers Team](http://tau.guide/#teams)<br>
+
+<br>
 
 Ohad Asor is an accomplished mathematician, programmer, computer scientist and logician.
 Ohad went to university at the age of 13, and is regarded by many as a true genius even among prodigies. He has devoted almost all his spare time to rigorous academic studies, and as a result, has developed extensive knowledge that few experts could match.
@@ -237,17 +247,21 @@ Another point is that many security questions revolve around the intended or uni
 ### 19. Tau vs Ethereum?
 
 They're barely comparable any more. The Old Tau mainly relied on reasoning over code by using decidable languages, which Ethereum doesn't have as they opted for Turing Complete smart contracts. That way, smart contracts under Old Tau can only lead to intended consequences. <br>
-Tau design has changed a lot since then to focus on scaling discussion, collaborative decision making and automatic code production based on those decisions. It is no longer something that's similar to Ethereum in any meaningful way. <br>
+Tau design has changed a lot since then to focus on scaling discussion, collaborative decision making and automatic code production based on those decisions. It is no longer something that's similar to Ethereum in any meaningful way. <br><be>
 
-Read more about [The New Tau](http://www.idni.org/blog/the-new-tau).<br><br>
+> Read more about [The New Tau](http://www.idni.org/blog/the-new-tau).<br>
+
+<br>
 
 ---
 
 ### 20. Tau vs tezos. What's the difference between the two projects?
 
-As described in the **3 laws of laws**, we require rules over the network to be written in a decidable language. Tezos doesn't support decidability. It is Turing complete. Furthermore, Tezos's social-choice mechanism is based on voting, and voting cannot fairly scale. <br>
+As described in the **3 laws of laws**, we require rules over the network to be written in a decidable language. Tezos doesn't support decidability. It is Turing complete. Furthermore, Tezos's social-choice mechanism is based on voting, and voting cannot fairly scale. <br><br>
 
-Read more From Izar Flis's [Tau vs Tezos Article](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)<br><br>
+> Read more with Izar Flis's [Tau vs Tezos Article](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)<br>
+
+<br>
 
 ---
 
@@ -285,9 +299,11 @@ Anyone who can spare a few minutes can test them out directly right now using th
 
 _Ohad_: If I had any specific time frame in my mind, I wouldn't keep it from anyone. I simply don't know. I don't want to over hype this, but once we have a functioning collaborative development platform, then things can happen very fast, very theoretically speaking, to build Tau or Agoras or many other things, 10,000 devs can do it overnight once the collaborative system functions. : )
 
-We just need a critical mass of developers and things can accelerate greatly long before the entire roadmap is finished.
+We just need a critical mass of developers and things can accelerate greatly long before the entire roadmap is finished.<br><br>
 
-You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progress).<br><br>
+> You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progress).<br>
+
+<br>
 
 ---
 
@@ -318,6 +334,6 @@ _Ohad:_ Forks are a consequence when we reach a point where disagreements cannot
 ### 27. Are there limitations to code synthesis?
 
 _Ohad:_ Yes, all logical systems have limitations. Most questions in the universe are too difficult to be practically solvable. But most problems in practice are likely solvable. Most importantly, we as humans don't have any more advantage over what's mathematically possible. The computer will have limitations, but it will certainly do better than us.<br>
-<br>
+<br><br>
 
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/tauchain-agoras-faqs.md)
