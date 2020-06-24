@@ -224,7 +224,7 @@ Machine comprehensible languages will become increasingly easier and more access
 Tau will also allow the masses to propose what to vote over rather than just have the ability to vote.
 Under Agoras we'll have a fairer economy that's controlled by the people. Efficiency of markets is defined by economists by the speed at which information propagates. The faster, the less information asymmetry and thus the fairer the market. And because information propagates orders of magnitudes faster, it is much fairer.
 
-10 years from now, I see the Agoras' knowledge market aloowing more incentives for people to create and share knowledge. There will exist pure knowledge to cash transactions, and it may be possible that all the knowledge in the world is more valuable than all the real estate in the world. This represents the scale of the value of our network. Agoras gives a direct valuation of knowledge.<br><br>
+10 years from now, I see the Agoras' knowledge market allowing more incentives for people to create and share knowledge. There will exist pure knowledge to cash transactions, and it may be possible that all the knowledge in the world is more valuable than all the real estate in the world. This represents the scale of the value of our network. Agoras gives a direct valuation of knowledge.<br><br>
 
 ---
 
