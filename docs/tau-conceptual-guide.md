@@ -31,17 +31,17 @@ The idea is that you have three axioms that allows you to realise the tau system
 
 3. Decidability<br><br>
 
-##### ● **<ins>Recursion</ins>** <br>
+##### <ins>Recursion</ins> <br>
 
 Talks about law of changing laws. You have a law and you wish to change it so you need a law of i11 and so on. Eventually you come up with idea that you need an unbounded recursion. now this is the first axiom.
 
 Retraction - Perhaps when a law is not applicable or is not realisable or is not moral, etc. You wish to restrict it. This implies that you live in a normal atomic world and this is what we talk about being in a non monotonic logic so you would like to retract the law.<br><br>
 
-##### **●** <ins>Decidability</ins><br>
+##### <ins>Decidability</ins><br>
 
 Eventually we would like to get a verdict. Whether this law gives you the value that it promised and eventually you would like to turn it into an action so system needs to be decidable. so this free axiom delineates in a particular logic.<br><br>
 
-##### **●** <ins>Retration</ins> <br>
+##### <ins>Retration</ins> <br>
 
 With recursion it tells us that we need a fixed point in the logic. Retraction says that, ok, it’s supposed to also be monotonic. So this leads us to something like partial fixed point. Eventually we have decidability and that tells you that the logic is supposed to be definable on finance structures.<br><br>
 
