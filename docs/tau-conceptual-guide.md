@@ -21,7 +21,7 @@ On the surface Tau is a social choice platform but the social choice and the sca
 
 The idea behind tau, based on axioms of the system, basically delineates a specific logic that avoids the paradoxes of self reference.<br><br>
 
-### The 3 law of laws<br>
+### The 3 law of laws
 
 The idea is that you have three axioms that allows you to realise the tau system. These axioms are:
 
