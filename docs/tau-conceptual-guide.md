@@ -7,7 +7,7 @@ order: 4
 
 # TAU - Whitepaper
 
-by Dr Avishy Carmi & Ohad Asor
+by Dr Avishy Carmi & Ohad Asor<br>
 
 ## Introduction
 
@@ -31,15 +31,15 @@ The idea is that you have three axioms that allow you to realise the tau system.
 
 3. Decidability<br><br>
 
-##### Recursion
+##### -Recursion
 
 We talk about law of changing laws. For instance, you have a law and you wish to change it. So you need a law of i11 and so on. Eventually you come up with idea that you need an unbounded recursion. now this is the first axiom.<br><bt>
 
-**Retraction**
+**-Retraction**
 
 Perhaps when a law is not applicable or is not realisable or is not moral, etc. You wish to restrict it. This implies that you live in a non-monotomic world so using non-monotonic logic you'd like to retract the law.<br><br>
 
-##### Decidability
+##### -Decidability
 
 Eventually, we would like to get a verdict and realise if this law gives the value that it promised. Eventually, we would like to turn it into an action so the system needs to be decidable. This third axiom delineates in a particular logic.<br><br>
 
@@ -62,12 +62,10 @@ So this is just another way of looking for getting these three axioms.<br><br>
 
 The system we are developing from a theoretical aspect is a mathematical formal system. Being well defined with the discussed axioms. The consequences of which will come, eventually producing the practical system. <br><br>
 
-## Summary:
+## Summary
 
 With Tau, we are have a system that aims to be self referential and self amending. Eventually, it will be a culture that will evolve. A culture that reflects on itself and evolves over time.<br>
 
 In this culture there are constituents, the users that define the system. They are part of the system; there is no duality in which you separate the users from the system. This whole thing is designed to "walk", to grow. The users will collaborate and discuss what laws will eventually drive the system. For that they’ll need discussion. They will need a platform that will allow them to choose what to choose over. Currently, no such system really exists.
-
-<br>
 
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau/blob/master/Content.md)
