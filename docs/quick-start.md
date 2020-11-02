@@ -22,6 +22,7 @@ order: 1
 > #### ⬇ **Quick Links:** <br>
 >
 > - **[DOWNLOAD](/)** : _Download the latest Tau Client to get started._ <br>
+> - **[AgorasLive](/)** : _Visit MVP Agoras Live._ <br>
 > - **[IDNI Playground](https://idni.multilink.cloud/login)** : _Test the discussion platform using the IDNI Playground_
 
 ---

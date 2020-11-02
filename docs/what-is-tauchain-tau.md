@@ -13,7 +13,7 @@ Tau-Chain (Tau) is an open source, decentralised network with a governance mecha
 
 ---
 
-### Tau as a Solution
+### What Problems is Tau Solving
 
 Tau solves societal challenges with decentralised technology:
 
