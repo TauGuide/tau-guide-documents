@@ -19,7 +19,7 @@ Welcome to Tau.Guide! Great to have you here. Here we have a list of resources t
 
 ---
 
-[What is Tauchain (Tau)?](/docs/tutorials/what-is-tauchain) 
+[What is Tauchain (Tau)?](/docs/Tutorials/what-is-tauchain) 
 
 [What is TML & The Internet of Languages](/docs/what-is-tml-the-internet-of-languages) 
 
@@ -29,17 +29,17 @@ Welcome to Tau.Guide! Great to have you here. Here we have a list of resources t
 
 ---
 
-[TML Bot Tutorial](/docs/tutorials/tml-bot-Tutorial.md)
+[TML Bot Tutorial](/docs/Tutorials/tml-bot-tutorial)
 
-[Understanding TML: Prolog -> Datalog -> Tau](/docs/tutorials/understanding-tml-prolog-datalog-tau.md)
+[Understanding TML: Prolog -> Datalog -> Tau](/docs/Tutorials/understanding-tml-prolog-datalog-tau)
 
-[Analysis of TauBot.TML](/docs/tutorials/analysis-of-taubot-tml.md)<br><br>
+[Analysis of TauBot.TML](/docs/Tutorials/analysis-of-taubot-tml)<br><br>
 
 ### Additional Tutorials
 
-[Agoras: How to Buy ](/docs/tutorials/step-by-step-guide-how-to-buy-agoras)
+[Agoras: How to Buy ](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras)
 
-[Agoras: How to Store](/docs/tutorials/step-by-step-guide-how-to-store-agoras.md)
+[Agoras: How to Store](/docs/Tutorials/step-by-step-guide-how-to-store-agoras)
 
 ---
 
