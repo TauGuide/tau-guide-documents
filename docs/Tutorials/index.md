@@ -37,7 +37,7 @@ Welcome to Tau.Guide! Great to have you here. Here we have a list of resources t
 
 ### Additional Tutorials
 
-[Agoras: How to Buy ](/docs/tutorials/step-by-step-guide-how-to-buy-agoras.md)
+[Agoras: How to Buy ](/docs/tutorials/step-by-step-guide-how-to-buy-agoras)
 
 [Agoras: How to Store](/docs/tutorials/step-by-step-guide-how-to-store-agoras.md)
 
