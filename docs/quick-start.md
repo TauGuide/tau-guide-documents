@@ -124,7 +124,7 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.
 If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)
 
-Pleas refer to our [How to Store Agoras](docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
+Please refer to our [How to Store Agoras](https://tau.guide/docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
 
 ---
 
