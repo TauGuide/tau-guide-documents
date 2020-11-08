@@ -93,7 +93,7 @@ It has one of the fairest distributions in the cryptosphere. Ohad is only reserv
 
 ### 3. What is Agoras and Agoras.Live?
 
-Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](Tau's revolutionary features).
+Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](/docs/tau-conceptual-guide/#the-3-laws-of-laws/).
 
 Agoras itself is comprised of 3 distinct parts:
 

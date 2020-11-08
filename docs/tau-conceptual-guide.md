@@ -23,7 +23,7 @@ On the surface Tau is a social choice platform but the social choice and the sca
 
 The idea behind tau, based on axioms of the system, basically delineates a specific logic that avoids the paradoxes of self reference.<br><br>
 
-### The 3 law of laws
+### The 3 laws of laws
 
 The idea is that you have three axioms that allow you to realise the tau system. These axioms are:
 
@@ -39,7 +39,7 @@ We talk about law of changing laws. For instance, you have a law and you wish to
 
 **-Retraction**
 
-Perhaps when a law is not applicable or is not realisable or is not moral, etc. You wish to restrict it. This implies that you live in a non-monotomic world so using non-monotonic logic you'd like to retract the law.<br><br>
+Perhaps when a law is not applicable or is not realisable or is not moral, etc. You wish to restrict it. This implies that you live in a non-monatomic world so using non-monotonic logic you'd like to retract the law.<br><br>
 
 ##### -Decidability
 
