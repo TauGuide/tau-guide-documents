@@ -13,7 +13,7 @@ Tau-Chain (Tau) is an open source, decentralised network with a governance mecha
 
 ---
 
-### What Problems is Tau Solving
+### What Problems is Tau Solving?
 
 Tau solves societal challenges with decentralised technology:
 
@@ -41,7 +41,7 @@ Anyone can interact with the tauchain network and participate in this digital ec
 
 Tau uses a decidable logical framework which allows it to synthesize and execute code based on user specifications. Users can create their own teams under Tau to discuss and collaborate on a project with its own private knowledge base. After taking advantage of Tau's ability to scale discussions, teams can quickly reach a consensus on the specifications and Tau can automatically generate and execute code, according to those specifications.<br><br><br>
 
-## **What is Tau Chain?**
+## **What is Tau-Chain?**
 
 ### **History**
 
@@ -78,7 +78,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - featuring a decentralised search engine that, to some probabilistic extent, ensures that the index contains the correct knowledge (isn't modified, replaced, or omitted).
 - using a pricing [formula](http://zennet.sc/zennetpricing.pdf) to eliminate the risk of mispricing, a risk that can be significantly exploited.
 
-[What%20is%20Tauchain%20Tau%2026e31153ed924b0f9959f95297d36804/zennetpricing.pdf](What%20is%20Tauchain%20Tau%2026e31153ed924b0f9959f95297d36804/zennetpricing.pdf)
+[Ohad's Pricing Formula](http://zennet.sc/zennetpricing.pdf)
 
 - probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)<br><br><br><br>
 
@@ -86,19 +86,19 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 **Social**
 
-- there can not be a single universal language as no one language is optimal or adequate for all needs.
-- nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages, until someone in the future will develop such an ability, if any.
-- languages can be evolved and become more and more human-convenient over time, since Tau leaves the languages end open to development and change. It is not only a self-defining program to evolve according to its users, but even the languages it supports are self-defining and self-evolving by its users.
-- there are many formalisms of natural language that are close to natural language and comfortable for humans to work with (what we refer to "simple enough English that machines can understand")
+- There can not be a single universal language as no one language is optimal or adequate for all needs.
+- Nobody knows how machines can use human languages, therefore tau can't use natural languages but machine comprehensible languages, until someone in the future will develop such an ability, if any.
+- Languages can be evolved and become more and more human-convenient over time, since Tau leaves the languages end open to development and change. It is not only a self-defining program to evolve according to its users, but even the languages it supports are self-defining and self-evolving by its users.
+- There are many formalisms of natural language that are close to natural language and comfortable for humans to work with (what we refer to "simple enough English that machines can understand")
 
 **Technical**
 
 - TML is intended to be a compiler-compiler, to allow translation from one language to another. to define a new language would mean to define how it translates from an existing language. by that the choice of language of expression (among the languages to be available over time in the internet of languages), becomes irrelevant.
-- machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
-- a meta-language that can define new languages and is able to redefine itself and change, a self-amending language
-- users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
+- Machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
+- A meta-language that can define new languages and is able to redefine itself and change, a self-amending language
+- Users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
 - Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
-- binary decision diagrams used for performance of logical solver.
+- Binary decision diagrams used for performance of logical solver.
 
 > [Read more about the concepts behind TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau.md#understanding-tml-prolog---datalog---tau) > [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot <br>
 
