@@ -9,7 +9,7 @@ order: 4
 
 by Dr Avishy Carmi<br>
 
->[**Read official whitepaper**](https://www.idni.org/whitepaper_community_draft.pdf) <br>
+>[**Read the Official Tau-chain and Agoras Whitepaper**](https://www.idni.org/whitepaper_community_draft.pdf) <br>
 
 ## Introduction & Overview
 
