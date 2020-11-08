@@ -91,7 +91,7 @@ It has one of the fairest distributions in the cryptosphere. Ohad is only reserv
 
 ---
 
-### 3. What is Agoras?
+### 3. What is Agoras and Agoras.Live?
 
 Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](Tau's revolutionary features).
 
@@ -100,6 +100,8 @@ Agoras itself is comprised of 3 distinct parts:
 - Automated Knowledge Economy.
 - Computational Resource Market.
 - Advanced Currency with Derivatives Features.<br><br>
+
+Agoras.Live is a decentralised service open market where users can trade knowledge with one another.
 
 ---
 
@@ -122,7 +124,7 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.
 If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)
 
-Pleas refer to our [How to Store Agoras](https://www.notion.so/How-to-Store-Agoras-66d92c0cc95e46d5896088808fc00615) tutorial.<br><br>
+Pleas refer to our [How to Store Agoras](docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
 
 ---
 
@@ -182,7 +184,7 @@ Tau progress can be generally defined by the following milestones:
 4. The Tau Blockchain Network
 5. Agoras
 
-- AgorasLive Platform
+- **Agoras.Live** Platform: A decentralised service open market where users can trade knowledge with one another.
 
 - **TML (Tau Meta Language):** A programming language that describes other languages as there isn't a universal language that's best for all purposes.
   Self definition, Futamura's Projections and Internet of Languages - The latter allows languages to coexist, but we leave this until later to focus on the next milestone:
@@ -271,7 +273,7 @@ Machine comprehensible languages will become increasingly easier and more access
 Tau will also allow the masses to propose what to vote over rather than just have the ability to vote.
 Under Agoras we'll have a fairer economy that's controlled by the people. Efficiency of markets is defined by economists by the speed at which information propagates. The faster, the less information asymmetry and thus the fairer the market. And because information propagates orders of magnitudes faster, it is much fairer.
 
-10 years from now, I see the Agoras' knowledge market aloowing more incentives for people to create and share knowledge. There will exist pure knowledge to cash transactions, and it may be possible that all the knowledge in the world is more valuable than all the real estate in the world. This represents the scale of the value of our network. Agoras gives a direct valuation of knowledge.<br><br>
+10 years from now, I see the Agoras' knowledge market allowing more incentives for people to create and share knowledge. There will exist pure knowledge to cash transactions, and it may be possible that all the knowledge in the world is more valuable than all the real estate in the world. This represents the scale of the value of our network. Agoras gives a direct valuation of knowledge.<br><br>
 
 ---
 
@@ -300,7 +302,7 @@ Read more about [The New Tau](http://www.idni.org/blog/the-new-tau).<br><br>
 
 ---
 
-### 20. Tau vs tezos. What's the difference between the two projects?
+### 20. Tau vs Tezos. What's the difference between the two projects?
 
 As described in the **3 laws of laws**, we require rules over the network to be written in a decidable language. Tezos doesn't support decidability. It is Turing complete. Furthermore, Tezos's social-choice mechanism is based on voting, and voting cannot fairly scale. <br>
 
@@ -350,15 +352,15 @@ You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progr
 
 ### 25. How can learn to code in TML?
 
-You can read more about TML in our [Tutorials](http://tau.guide/docs/tutorials/) section:
+You can read more about TML in our [Tutorials](http://tau.guide/docs/Tutorials/) section:
 
 [TML Github Readme](https://github.com/IDNI/TML/blob/master/README) <br>
 
-[Understanding TML: Prolog -> Datalog -> Tau](/docs/tutorials/understanding-tml-prolog-datalog-tau) <br>
+[Understanding TML: Prolog -> Datalog -> Tau](/docs/Tutorials/understanding-tml-prolog-datalog-tau) <br>
 
-[Analysis of TauBot.TML](/docs/tutorials/analysis-of-taubot-tml) <br>
+[Analysis of TauBot.TML](/docs/Tutorials/analysis-of-taubot-tml) <br>
 
-[TML Bot Tutorial](/docs/tutorials/tml-bot-Tutorial)<br>
+[TML Bot Tutorial](/docs/Tutorials/tml-bot-Tutorial)<br>
 
 <br>
 

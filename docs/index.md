@@ -1,16 +1,16 @@
 ---
 title: Introduction
-description: The one stop location for tutorials, guides and information about Tauchain and Agoras
+description: The one stop location for tutorials, guides and information about Tau-chain and Agoras
 disableTableOfContents: true
 order: 0
 ---
 
-<br>Welcome to [tau.guide/documents](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 
-Tauchain and Agoras.<br>
+<br>Welcome to [tau.guide/docs](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 
+Tau-chain and Agoras.<br>
 
 ## Get Started
 
-There are three main ways to get started with Tauchain:<br>
+There are three main ways to get started with Tau-chain:<br>
 
 1. [Tutorials](/docs/Tutorials/): Step-by-step instructions on how to use Tau client and start a project. <br>
 2. [Quick start](/docs/quick-start/): What is Tau? User friendly materials to quickly get you up to speed.  <br>
@@ -20,19 +20,19 @@ There are three main ways to get started with Tauchain:<br>
 
 1. [Use](/docs/what-is-tauchain-tau/#insbusinessuse-casesins): Learn about the many use cases and advantages of Tau.<br>
 
-2. Explore how Tauchain works behind the scenes:
+2. Explore how Tau-chain works behind the scenes:
 
-   - [Tauchain & Agoras FAQs](/docs/tauchain-agoras-faqs): Tauchain and Agoras' Frequently Asked Questions
+   - [Tau-chain & Agoras FAQs](/docs/tauchain-agoras-faqs): Tau-chain and Agoras' Frequently Asked Questions
    - [TML](/docs/what-is-tauchain-tau/#tml) : Learn more about Tau's Meta-Language.
    - [Agoras](/docs/what-is-tauchain-tau#agoras): Learn about the Agoras market at it's smart currency.
-   - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tauchain.
+   - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tau-chain.
    - [Tutorials](/docs/Tutorials) : All available "How to's...". <br>
 <br>
-3. [Apps](/apps/) : Check out the growing list of Tauchain applications.<br><br>
+3. [Apps](/apps/) : Check out the growing list of Tau-chain applications.<br><br>
 
 ## Start contributing
 
 [IDNI are hiring](http://www.idni.org/careers/) : A list of available positions.<br>
-Visit the [Contributing](https://github.com/TauGuide/tau-guide-documents) section to find guides on the Tauchain community, code of conduct, and how to get started contributing to the Tauchain ecosystem.
+Visit the [Contributing](https://github.com/TauGuide/tau-guide-documents) section to find guides on the Tau-chain community, code of conduct, and how to get started contributing to the Tau-chain ecosystem.
 <br><br>
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/tree/master/docs)
