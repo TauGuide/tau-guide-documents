@@ -1,7 +1,7 @@
 ---
 title: Conceptual Guide
 description: A Conceptual Guide by Dr Avishy Carmi
-disableTableOfContents: True
+disableTableOfContents: false
 order: 4
 ---
 
@@ -9,7 +9,7 @@ order: 4
 
 by Dr Avishy Carmi<br>
 
->[**Read official whitepaper**](Docs\tau-agoras-whitepaper\) <br>
+>[**Read official whitepaper**](https://www.idni.org/whitepaper_community_draft.pdf) <br>
 
 ## Introduction & Overview
 
@@ -316,14 +316,14 @@ DATALOG with evaluation operator collapses to P-DATALOG.
 
 How can a very large group of people reach a collective decision? Tau offers a new
 paradigm to address this long-standing problem, a paradigm which we refer to as
-Human-Machine-Human Communicationthat solves this problem to a very large and
+Human-Machine-Human Communication that solves this problem to a very large and
 generic extent. Tau is therefore useful for all kinds of collaborative theory formation
 and decision making and not only regarding its own code, as we shall emphasize later
 on. We can even argue that our solution is a complete resolution of the problem: x
 more participants will indeed yield at least x10 more outcome, in sharp contrast to how
 discussions currently scale^2. This set of solutions is rooted in two concepts which will be
-explained shortly: the first is the usage ofmachine-comprehensiblelanguages, and the
-second is theability to maintain small scale aspectsof discussions and decision making
+explained shortly: the first is the usage of machine-comprehensible languages, and the
+second is the ability to maintain small scale aspects of discussions and decision making
 on a large scale. But before we touch those two points let us discuss a bit legislation
 and voting.
 When considering a large scale collaborative effort of legislation (or any other theory
@@ -333,7 +333,7 @@ voting: even though it’s possible to let everyone an effective and equal right
 is still impossible to let everyone an effective and equal right to propose what to vote
 over, since even if everyone got an equal right to propose, how one is even going to
 read millions of proposals a day? This makes the equal proposing right ineffective. We
-conclude thatvoting cannot effectively scale and stay fair at the same time.
+conclude that voting cannot effectively scale and stay fair at the same time.
 Furthermore, this difficulty of discussion scaling holds even if we assume that all
 
 (^2) Discussions scale even more poorly than other settings arising in economics. Typically economical

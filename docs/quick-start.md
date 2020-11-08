@@ -5,13 +5,13 @@ disableTableOfContents: false
 order: 1
 ---
 
-<br>Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tauchain project. <br>
+<br>Welcome to tau.guide's quick introductory resources. Intended to help you learn more about the Tau-chain project. <br>
 
-> ##### This page is mostly non-technical. For a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/)<br>
+> ##### This page is mostly non-technical. For a more granular look at the Tau-chain framework, head to our [Tau-chain Tutorials](/docs/Tutorials/)<br>
 
 <br>
 
-## <ins>An Introduction to Tauchain</ins>:
+## <ins>An Introduction to Tau-chain</ins>:
 
 <br>Ohad Asor (Founder & CTO)
 
@@ -21,9 +21,13 @@ order: 1
 
 > #### ⬇ **Quick Links:** <br>
 >
-> - **[DOWNLOAD](/)** : _Download the latest Tau Client to get started._ <br>
-> - **[AgorasLive](/)** : _Visit MVP Agoras Live._ <br>
-> - **[IDNI Playground](https://idni.multilink.cloud/login)** : _Test the discussion platform using the IDNI Playground_
+> - **[Tau-chain & Agoras Whitepaper](https://www.idni.org/whitepaper_community_draft.pdf)** : _An in-depth description of the project_ <br>
+>
+> - **[TML Playground](https://tml.idni.org)** : Try out Tau's Meta-Language features.
+>
+> - **[Agoras.Live]()** : _Visit MVP Agoras Live (Currently in development)._ <br>
+>
+>   
 
 ---
 
@@ -31,16 +35,16 @@ order: 1
 
 ## Excellent Community Articles<br>
 
-### ▪ [Tauchain 101 - Essential reading](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)
+### ▪ [Tau-chain 101 - Essential reading](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)
 
 By Rok Sivante <br><br>
 
-### ▪ [What is Tauchain](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)
+### ▪ [What is Tau-chain](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)
 
 By Kevin Wong <br>
 <br>
 
-### ▪ [Tauchain - A self amending program](https://steemit.com/tau-chain/@flis/the-vision-of-tau-chain-a-blockchain-based-self-amending-program-designed-to-scale-human-collaboration-and-knowledge-building)
+### ▪ [Tau-chain - A self amending program](https://steemit.com/tau-chain/@flis/the-vision-of-tau-chain-a-blockchain-based-self-amending-program-designed-to-scale-human-collaboration-and-knowledge-building)
 
 by Isar Flis <br><br>
 
@@ -48,17 +52,17 @@ by Isar Flis <br><br>
 
 by trafalgar (Miau Miau) <br><br>
 
-### ▪ [Simplifying Tauchain](https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain)
+### ▪ [Simplifying Tau-chain](https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain)
 
 By Rok Sivante <br><br>
 
-### ▪ [Tauchain vs Tezos](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)
+### ▪ [Tau-chain vs Tezos](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)
 
 by Isar Flis <br><br><br>
 
 ---
 
-# Tauchain FAQs
+# Tau-chain FAQs
 
 Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g&list=PLav2klOnTUlNKDE1xYVHi9zn9cqgpZead).<br><br>
 
@@ -66,7 +70,7 @@ Here is a collection of commonly asked questions. Gathered from [socials](http:/
 
 <br>
 
-### 1. What is Tauchain (Tau)?
+### 1. What is Tau-chain (Tau)?
 
 Tau is a blockchain platform that will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks to human advancement including social governance and knowledge creation.
 
@@ -77,7 +81,7 @@ Tau aims to become an indispensable technology. Once Tau has launched, any compa
 
 ---
 
-### 2. How do I invest in tau?
+### 2. How do I invest in Tau?
 
 Tau is independent itself and has no tokens. However, Ohad is also building Agoras using tau tech, it will be the first automated marketplace over the Tau collaborative platform.
 
@@ -106,9 +110,9 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **[Whitebit]**[https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
-2. **[BCEX]** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
-3. **[Sky]** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
+1. **[Whitebit]**[https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
+
+   <br>
    <br>
 
 ---
@@ -124,7 +128,7 @@ Pleas refer to our [How to Store Agoras](https://www.notion.so/How-to-Store-Agor
 
 ### 6. How are Agoras tokens to be distributed?
 
-Check out [Tau.guide's Agoras distribution graph](http://tausupport.ecommerce-api.tk/#knowledge-data)
+Check out [Tau.guide's Agoras distribution graph](https://tau.guide/#market)
 
 There are a total of 42 million Agoras tokens in existence representing 100% of future circulating supply.
 
@@ -169,10 +173,10 @@ Two answers posted by Ohad on BTT with regards to the bonus:
 
 ### 8. What is the Roadmap for this project?
 
-See Development progress on our [Tauchain Project Roadmap](https://tau.guide/#development-progress)
+See Development progress on our [Tau-chain Project Roadmap](https://tau.guide/#development-progress)
 Tau progress can be generally defined by the following milestones:
 
-1. [TML (Tau Meta Language)](https://www.notion.so/TML.com) and Initial Network
+1. TML (Tau Meta Language) and Initial Network
 2. Collaborative Discussions Platform (alpha)
 3. Automated Code Synthesis of Programs (beta)
 4. The Tau Blockchain Network
@@ -191,7 +195,7 @@ Tau progress can be generally defined by the following milestones:
 
 ### 9. Who is the Lead Developer Ohad Asor?
 
-Read more about the [Tauchain Developers Team](http://tau.guide/#teams)
+Read more about the [Tau-chain Developers Team](http://tau.guide/#teams)
 
 Ohad Asor is an accomplished mathematician, programmer, computer scientist and logician.
 Ohad went to university at the age of 13, and is regarded by many as a true genius even among prodigies. He has devoted almost all his spare time to rigorous academic studies, and as a result, has developed extensive knowledge that few experts could match.
@@ -203,7 +207,7 @@ We very much welcome technical questions. Please submit to either the [Monthy QA
 
 ---
 
-### 10. Where can I see the Tauchain code?
+### 10. Where can I see the Tau-chain code?
 
 The Tauchain github repository is here [https://github.com/IDNI](https://github.com/IDNI) <br><br>
 
@@ -221,7 +225,7 @@ For the ability to soundly and collaboratively reach decisions that affect the w
 
 ---
 
-### 12. Can Tauchain's code be stolen?
+### 12. Can Tau-chain's code be stolen?
 
 **_Is it possible for another more established project to steal Tauchain's code as it's open source? Do we have steps to prevent this?_**
 
@@ -229,7 +233,7 @@ _Ohad:_ Generally speaking, stealing code to compete in the same market is not a
 
 ---
 
-### 13. Why does Tauchain need a Blockchain or DAG?
+### 13. Why does Tau-chain need a Blockchain or DAG?
 
 The design of Tau allows it's own code to update due to consensus of countless opinions of it's users in real time his allows each successive block to update itself based on the rules of the previous block automatically, bringing us the first true form of scalable governance.<br> <br>
 
@@ -256,7 +260,7 @@ If people post statements you find to be false, unfounded or misleading, you can
 
 ---
 
-### 16. Where is Tauchain in 10 years if everything goes well?
+### 16. Where is Tau-chain in 10 years if everything goes well?
 
 In many ways. Let me give a non practical solution to every problem in the world: Just take the 1 million smartest people to have a discussion and they're likely solve the problem. In practice this doesn't work because a discussion of a million people is impossible to conduct. But this is possible with Tau. We can have a discussion between millions of people where the information doesn't get lost in the noise, where each valuable information retains its place because the machine will draw an opinion map and calculate who agrees with whom, who disagrees with whom which will allow large scale collaborative decision making.
 
@@ -271,7 +275,7 @@ Under Agoras we'll have a fairer economy that's controlled by the people. Effici
 
 ---
 
-### 17. Can Tauchain be used by anyone or only programmers?
+### 17. Can Tau-chain be used by anyone or only programmers?
 
 Ultimately Tau is designed to be used by everyone. However, at the beginning of Alpha, before the Internet of Languages, the only language will be TML.
 
