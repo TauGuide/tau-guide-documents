@@ -12,7 +12,7 @@ Tau-chain and Agoras.<br>
 
 There are three main ways to get started with Tau-chain:<br>
 
-1. [Tutorials](/docs/Tutorials/): Step-by-step instructions on how to use Tau client and start a project. <br>
+1. [Tutorials](/docs/Tutorials/): Step-by-step instructions on how to use Tau and start a project. <br>
 2. [Quick start](/docs/quick-start/): What is Tau? User friendly materials to quickly get you up to speed.  <br>
 3. [Buy Agoras](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras/): Discover the best places to get Agoras. <br><br>
 
