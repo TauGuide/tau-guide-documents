@@ -64,7 +64,7 @@ by Isar Flis <br><br><br>
 
 # Tau-chain FAQs
 
-Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g&list=PLav2klOnTUlNKDE1xYVHi9zn9cqgpZead).<br><br>
+Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://tau.guide/#news).<br><br>
 
 > ###### Don't see your Question? [Ask it here](http://bit.ly/TauchainQuestionForm) and have it answered on the next monthly development video update. <br>
 
@@ -72,12 +72,12 @@ Here is a collection of commonly asked questions. Gathered from [socials](http:/
 
 ### 1. What is Tau-chain (Tau)?
 
-Tau is a blockchain platform that will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks to human advancement including social governance and knowledge creation.
+Tau plans to be a platform that will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks in human discussion. Advancements of which include social governance and knowledge creation.
 
 By using a self defining and decidable logical framework, Tau is the first in this space to be able to gather data voluntarily submitted by its users and logically deduce valuable knowledge over a network secured with blockchain technology.
 What this means is that in effect, we can scale collaborative endeavors between thousands of mathematicians, doctors, computer scientists, engineers and other experts to greatly accelerate the production of knowledge.
 
-Tau aims to become an indispensable technology. Once Tau has launched, any company, nation or organisation not using the collaborative power of the network will be rendered obsolete.<br><br>
+Tau aims to become an indispensable technology. Once Tau has launched, any company, nation or organisation not using the collaborative power of the network will likely be at a disadvantage.<br><br>
 
 ---
 
@@ -93,7 +93,7 @@ It has one of the fairest distributions in the cryptosphere. Ohad is only reserv
 
 ### 3. What is Agoras and Agoras.Live?
 
-Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](/docs/tau-conceptual-guide/#the-3-laws-of-laws/).
+Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](/docs/tau-conceptual-guide/#the-3-laws-of-laws).
 
 Agoras itself is comprised of 3 distinct parts:
 
