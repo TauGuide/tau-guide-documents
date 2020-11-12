@@ -28,7 +28,7 @@ There are three main ways to get started with Tau-chain:<br>
    - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tau-chain.
    - [Tutorials](/docs/Tutorials) : All available "How to's...". <br>
 <br>
-3. [Apps](/apps/) : Check out the growing list of Tau-chain applications.<br><br>
+3. [Apps](/docs/Tutorials/tml-Bot-tutorial) : Check out the growing list of Tau-chain applications.<br><br>
 
 ## Start contributing
 
