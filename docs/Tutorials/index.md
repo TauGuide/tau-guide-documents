@@ -19,11 +19,11 @@ Welcome to Tau.Guide! Great to have you here. Here we have a list of resources t
 
 ---
 
-[What is Tauchain (Tau)?](/docs/Tutorials/what-is-tauchain) 
+[What is Tauchain (Tau)?](/docs/tau-conceptual-guide) 
 
-[What is TML & The Internet of Languages](/docs/what-is-tml-the-internet-of-languages) 
+[What is TML & The Internet of Languages](/docs/tau-conceptual-guide/#261-tau-meta-language) 
 
-[What is Agoras](/docs/What-is-Agoras-9be1cf55e80e45ecb93dafa4f902d5d9) :<br><br>
+[What is Agoras](/docs/tau-conceptual-guide/#3-agoras) :<br><br>
 
 ### Intermediate Tutorials
 
@@ -43,4 +43,4 @@ Welcome to Tau.Guide! Great to have you here. Here we have a list of resources t
 
 ---
 
-<br><br><br>✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/Tutorials/index.md)
+<br><br><br>✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/index.md)
