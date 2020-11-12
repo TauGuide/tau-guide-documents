@@ -224,8 +224,7 @@ gets to decide how the next version will be like? Usually only a development tea
 decides so, possibly taking into consideration the users’ inputs, but how can we have
 software that is solely controlled by its many users? This is what Tau is about. Over
 Tau, the developers are no one else but the users themselves, in a way that can actually
-work on a large scale. Furthermore, on Tau, the software’s requirements and specifica-
-tion are identified with its code. By that users don’t need to describe the “how” but
+work on a large scale. Furthermore, on Tau, the software’s requirements and specification are identified with its code. By that users don’t need to describe the “how” but
 only the “what”.
 
 ```
@@ -254,7 +253,7 @@ of discussion in formal languages, another process, denoted by Y. Tau is the cas
 X=Y.
 To put it even more shortly: Tau, is a discussion about Tau. In particular, Tau is
 a machine-aided process of understanding each other.
-Agoras is a network with a cryptocurrency^1 to be implemented over Tau allowing
+Agoras is a network with a cryptocurrency^¹ to be implemented over Tau allowing
 the following features:
 
 - Self-Definition: Built over the Tau technology, Agoras is a software effectively
@@ -277,7 +276,7 @@ the reader in trying to complement the picture by revisiting it. Additionally, t
 the surrounding capabilities (mainly logic, contracts, and proofs) give rise to a more
 sophisticated design.
 
-(^1) In contrast to Tau which has no currency or any other monetary aspect.
+(^¹) In contrast to Tau which has no currency or any other monetary aspect.
 
 
 Another remark is that this paper sometimes refers to Tau and Agoras in a present
@@ -454,7 +453,7 @@ It should be noted that, inevitably, Tau has no access to truths, only to opinio
 might argue whether humans have access to truths, and we’re not going to get into this
 point, we only state the obvious that machines have no access to what we intuitively
 consider as physical truth^9. Tau has no way to verify the correctness of statements like
-“the Sun is made of hydrogen” or “the Sun is made of cheese”^10. By that, Tau can never
+“the Sun is made of hydrogen” or “the Sun is made of cheese”¹⁰. By that, Tau can never
 say who is right and which opinion is correct^11. However it can infer certain kinds of
 truths and falsehoods in the case of tautologies and contradictions. A contradictory
 opinion is always false, and is a case where we can indeed point to a physical falsehood.
@@ -817,7 +816,7 @@ can be considered as adequate for serving as a language for law, or more accurat
 the language specifics don’t matter, we seek for a logic that may soundly represent laws.
 We present three requirements from a logic for law (the “three laws of laws”) which will
 lead us to a certain logical formalism.
-We seek for a class of expressions L that is suitable for representing laws, and we
+We seek for a class of expressions 𝓛 that is suitable for representing laws, and we
 now list some requirements from 𝓛 ^26. The first two requirements are very natural but
 pose a significant restriction on the required language:
 
@@ -888,7 +887,7 @@ be able to interpret a proposed law in order to have access to its semantics, an
 decide whether this proposed law is accepted or rejected.
 This leads us to formalize the third requirement from the laws of laws:
 
-- Self-Interpretation: L should contain a self-interpreter, which in particular
+- Self-Interpretation: 𝓛 should contain a self-interpreter, which in particular
     implies thatLis closed under recursion and self-reference in an unrestricted way
 
 (^31).
@@ -922,16 +921,15 @@ It also implies non-monotonicity, cf. footnote in Appendix C regarding Datalog+E
 ```
 #### 2.5.2 Derivation of the Logic
 
-We first show how nontrivial the self-interpretation requirement is. The following the-
-orem and proof are slightly modified versions of those in [4, 5, 7] and demonstrate the
+We first show how nontrivial the self-interpretation requirement is. The following theorem and proof are slightly modified versions of those in [4, 5, 7] and demonstrate the
 well-known result stating that no total language may self interpret:
 
-Theorem 1.LetLbe any set of programs that is closed under self-interpretation and
-under Boolean operations. ThenLis not total, namely it is not defined on all its possible
-inputs, or in other words,Lcontains machines that do not halt on some elements of
+Theorem 1.Let 𝓛 be any set of programs that is closed under self-interpretation and
+under Boolean operations. Then 𝓛 is not total, namely it is not defined on all its possible
+inputs, or in other words, 𝓛 contains machines that do not halt on some elements of
 X.
 
-Proof. Given the assumptions we construct a nonhalting program inL. By assumption
+Proof. Given the assumptions we construct a non halting program in 𝓛. By assumption
 we can write eval as
 
 ```
@@ -939,7 +937,7 @@ eval(x, i) :=ifx=Q(p)thenp(i)else 0 (2.1)
 Consider the function
 ```
 evil(x) :=if eval(x, x) = 0then 1 else 0
-By the closure assumption and by the assumption that eval∈ L, clearly evil∈ L.
+By the closure assumption and by the assumption that eval∈ 𝓛, clearly evil∈ 𝓛.
 By definition,
 
 ```
@@ -973,7 +971,7 @@ law is unprotected against undesired law change, or,not everything is judgeable.
 Proof. We have pointed out that without self-interpretation the law cannot interpret a
 newly proposed law and by that cannot protect itself under undesired law change. If the
 language of law doesn’t support self-interpretation, then in particular any specific law
-cannot support it. But if we support self-interpretation, we can construct a nonhalting
+cannot support it. But if we support self-interpretation, we can construct a non halting
 machine as in Theorem 1, which means that there are situations in which no legal/illegal
 value may be assigned.
 
