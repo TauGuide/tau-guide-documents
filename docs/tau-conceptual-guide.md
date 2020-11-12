@@ -7,7 +7,7 @@ order: 4
 
 # TAU - Conceptual Guide
 
-by Dr Avishy Carmi<br>
+by [Prof. Dr. Avishy Carmi](https://tau.guide/#teams)<br>
 
 >[**Read the Official Tau-chain and Agoras Whitepaper**](https://www.idni.org/whitepaper_community_draft.pdf) <br>
 
@@ -113,11 +113,9 @@ of information. This observation renders intelligence as the only valuable resou
 When one speaks of intelligence one often distinguishes between humans and ma-
 chines. It seems that in each case intelligence bears a different meaning, and indeed,
 the ultimate goal of general artificial intelligence is to escalate machine intelligence to
-human level. Intelligence is a rather complex term, encompassing many categories per-
-taining to mental faculties and the intellect. One thing is, however, clear: it evolves
+human level. Intelligence is a rather complex term, encompassing many categories pertaining to mental faculties and the intellect. One thing is, however, clear: it evolves
 with time. Here, we may ask two questions. The first one is why should intelligence
-at all evolve? and the second one is by what means. The answer to the first ques-
-tion may be that as all other processes in nature, so does intelligence strive to flourish
+at all evolve? and the second one is by what means. The answer to the first question may be that as all other processes in nature, so does intelligence strive to flourish
 by constantly confronting new conditions that carry the imperishable promise of new
 problems. The answer to the second question is that in most part intelligence evolves
 by means of communication between individuals, cultures, and species.
@@ -133,8 +131,7 @@ other words, humans and machines speak in languages that they both understand. T
 paper provides justifications why should formal logic be used in this kind of human-
 machine-human communication. Importantly, it postulates there is no single language
 adequate for all means and hence suggests a (Tau) meta-language, TML, designed for
-constructing languages and translators among them. This underlies the concept termed
-herethe internet of languages.
+constructing languages and translators among them. This underlies the concept termed here the internet of languages.
 Tau truly is a self-amending system governed by the process of social choice. On
 
 
@@ -236,23 +233,18 @@ Figure 1.1: Tau’s Workflow
 ```
 Our focus is how to make this work in practice on
 a large scale with many users. Achieving such a goal
-turns out to involve addressing certain difficult prob-
-lems, in particular the problem of very poor scalability
-of discussions, avoidance of logical paradoxes, and im-
-possibilities that typically arise from self-amendment.
+turns out to involve addressing certain difficult problems, in particular the problem of very poor scalability
+of discussions, avoidance of logical paradoxes, and impossibilities that typically arise from self-amendment.
 The proposed solutions are interesting in their own
 right and can be used on many other similar settings,
-e.g. for modern democracy, sound legislation, collab-
-orative software development, and managing a large
-body of knowledge such as that which arises in aca-
-demic research or large organizations. One crucial ingredient in this enterprise is the
-usage offormal languagesas shall be described below.
+e.g. for modern democracy, sound legislation, collaborative software development, and managing a large
+body of knowledge such as that which arises in academic research or large organizations. One crucial ingredient in this enterprise is the
+usage of formal languages as shall be described below.
 We argue that the process of users collaboratively deciding on Tau’s next code is
 the same as the process of legislation. Laws have not only the aspect of just being laws
 but also the process of reaching an agreement for what the laws should be, and more
 importantly, how laws change with time. Tau is a process of legislation where the law
 is nothing but Tau’s code. We shall therefore significantly focus on law and legislation,
-
 
 and the reader may bear in mind that those processes are just another way of looking
 at the Tau process defined in the next paragraph.
@@ -261,14 +253,13 @@ Consider a process, denoted by X, of [many] people, forming and following, by th
 of discussion in formal languages, another process, denoted by Y. Tau is the case where
 X=Y.
 To put it even more shortly: Tau, is a discussion about Tau. In particular, Tau is
-a machine-aided process ofunderstanding each other.
+a machine-aided process of understanding each other.
 Agoras is a network with a cryptocurrency^1 to be implemented over Tau allowing
 the following features:
 
 - Self-Definition: Built over the Tau technology, Agoras is a software effectively
     controlled by its many users.
-- Knowledge Economy: Leveraging Tau’s knowledge representation and collab-
-    orative formalization features in order to allow knowledge owners and creators to
+- Knowledge Economy: Leveraging Tau’s knowledge representation and collaborative formalization features in order to allow knowledge owners and creators to
     offer it for paid usage, as well as for knowledge seekers to efficiently locate and
     purchase knowledge.
 - Computational Resources Market: The ability to rent and rent-out forms
@@ -282,8 +273,7 @@ It should be remarked that the design presented here subsumes an old design pres
 at [11] which was found to be mistaken, as well as neglecting vital aspects related to
 self-amending systems e.g. how to scale up social choice while avoiding self-amendment
 paradoxes. The old design has to be completely discarded and there’s no benefit for
-the reader in trying to complement the picture by revisiting it. Additionally, the com-
-putational resources market is different from Zennet’s which is described in [10], for
+the reader in trying to complement the picture by revisiting it. Additionally, the computational resources market is different from Zennet’s which is described in [10], for
 the surrounding capabilities (mainly logic, contracts, and proofs) give rise to a more
 sophisticated design.
 
@@ -340,7 +330,7 @@ Furthermore, this difficulty of discussion scaling holds even if we assume that 
 settings scale under the “Law of Diminishing Returns”: twice more workers typically don’t yield twice
 the outcome, but less. This is commonly formalized by stating that the second derivative of the utility
 function is negative, or in other words, convexity. This is one of the main reasons that convexity plays
-an important role in economics, and one of the main assumptions onanyeconomical utility function
+an important role in economics, and one of the main assumptions on any economical utility function
 is convexity. However discussions scale much worse: their utility (e.g. the amount of knowledge, or
 agreements, becoming accessible and useful to the participants) does not merely exhibit a negative
 second derivative w.r.t. the number of participants, but commonly even a negative first derivative,
@@ -348,7 +338,6 @@ since having too many participants in a discussion commonly reduces the outcome,
 increasing it proportionally.
 Note that differentiability and convexity here are in a generalized sense: for discrete variables, taking
 the differences would serve the same goals and arguments for the law of diminishing returns.
-
 
 participants are polite, smart, open minded, love each other, and behave perfectly. It
 should be noted that other projects that deal with helping discussions indeed tend to
@@ -360,14 +349,14 @@ hierarchies of decision makers, who in particular get to decide what people may 
 over. But then the vast amounts of knowledge and the varying preferences of the
 voters are not reflected in the proposals, because, in the better case, the data fails
 to propagate up the hierarchies due to information-handling bottlenecks, preventing
-humans from processing large amounts of information inanyform^3. Voting is therefore
+humans from processing large amounts of information in any form^3. Voting is therefore
 carried out over alternatives almost void of truly relevant considerations.
-In small groupswe rarely even consider voting. People simply say what they
+In small groups we rarely even consider voting. People simply say what they
 have to say and this by itself is enough for the participants to understand each other’s
 opinion and where they agree or disagree with each other. The participants don’t
 need to vote because they already know what the voting result would be, since all
 the information is already presented, implicitly or explicitly, in what they say. Put it
-differently, theopinion map naturally arises from things said duringdiscussion. How
+differently, the opinion map naturally arises from things said during discussion. How
 can we achieve this in the larger scale, in which we have a discussion among a large
 amount of participants yet we are still able to recover the opinion map?
 This is made possible with the help of machines, but it comes with a significant
@@ -378,8 +367,7 @@ languages, and more specifically, we consider languages which are, or translatab
 logical formulas. More on the language aspect of Tau will be emphasized on subsections
 2.5 and 2.6, but we first move on to describe other elements of the system.
 
-(^3) Let alone other bottlenecks which may or may not be solved by imposing certain flows and behav-
-iors. 4
+(^3) Let alone other bottlenecks which may or may not be solved by imposing certain flows and behaviors. 4
 In fact not all such languages are adequate for this case, and we shall emphasize later on about
 the logical aspects required in order to make this work.
 
@@ -395,8 +383,7 @@ formal languages and further aspects derived from that. The main components of t
 system are therefore:
 
 - Discussions: Ability to have discussions using formal languages. Discussions
-    include opinions, questions, and answers. Discussions may also be implicit: spho-
-    radic posts and comment across the network, yet about the same subject, may be
+    include opinions, questions, and answers. Discussions may also be implicit: sporadic posts and comment across the network, yet about the same subject, may be
     counted as such.
 - Worldviews: Being user profiles and representing the totality of all the user’s
     opinions expressed over the system.
@@ -404,27 +391,26 @@ system are therefore:
 - Permissions: Allow only certain groups of people (e.g. friends) to have access
     to the users’ worldview or parts of it. Similarly for teams.
 - Query: Users are able to run semantic queries over worldviews and discussions,
-    and virtually any data present on the platform. This amounts to machines an-
-    swering questions in a precise way.
+    and virtually any data present on the platform. This amounts to machines answering questions in a precise way.
 - Agree/Disagree: Users are able to click “agree” or “disagree” on other users’
     posts. This is considered as merely a shorthand as if the user posted the same
     opinion (or its negation, respectively). Similarly, users may agree/disagree on
     which question is interesting, see below for questions vs. answers over the system.
 - Trust: Automatically agree with certain users about certain topics.
-- Consensus:Calculate what all or most of the discussion’s participants agree on.
+- Consensus: Calculate what all or most of the discussion’s participants agree on.
     Users are able to configure much broader definitions of what “consensus” means.
 
 
-- Opinion Map:A more detailed report of all opinions expressed in a discussion,
+- Opinion Map: A more detailed report of all opinions expressed in a discussion,
     ordered by implication in the logical sense^5. Observe that although we can expect
     a discussion of four people to contain four different opinions, we do not expect a
     discussion of a million people to contain a million different opinions, but many
     participants will hold the same (or overlapping) opinions and/or agree with each
     other.
-- Contradiction Resolution:When a contradiction arises inside a worldview or
+- Contradiction Resolution: When a contradiction arises inside a worldview or
     between users (whether in the same discussion or not), the system will report the
     contradiction and offer ways to resolve it.
-- Autocomment:Tau will be able to automatically comment on topics, optionally
+- Auto comment: Tau will be able to automatically comment on topics, optionally
     with the user’s review and approval, based on previous posts from the same user
     regarding that topic.^6
 - Synthesize: In the case of a discussion about a specification of some desired
@@ -434,7 +420,7 @@ In addition we have the following features which arise from the Internet of Lang
 a design allowing to define new languages and translate between them, discussed in
 detail at 2.6:
 
-- Add Language:Support a new language over the network, or a new version of an
+- Add Language: Support a new language over the network, or a new version of an
     existing language, by submitting a translator guiding how to translate documents
     in that language into an already-existing language.
 - Translate: Translate (compile) a document from one language defined over the
@@ -528,7 +514,6 @@ nothing to do with the nature of truth but with the human nature.
 (^14) Open/Closed world assumptions are fundamental notions in the fields of databases and knowledge
 representation.
 
-
 information. The machine should not return any new information, it will only use the
 information that we gave it^15.
 In contrast, by “questions” we refer to questions in which we don’t expect to have
@@ -556,10 +541,7 @@ merely organizes what we say and is able to do so since we encode our informatio
 way accessible to it. A user can broadcast an idea to another user, and at this narrow
 scope of communicating an idea between people we can already enjoy three benefits:
 easy explaining, easy understanding, and formalizing knowledge as a byproduct. We
-justify this claim heuristically by first presenting a working definition for “understand-
-
-(^15) This in sharp contrast to machine-learning kind of AI. Tau is about logical AI, while machine learn-
-ing is about statistics under zero knowledge about the measured population, and therefore frequently
+justify this claim heuristically by first presenting a working definition for “understand"(^15) This in sharp contrast to machine-learning kind of AI. Tau is about logical AI, while machine learning is about statistics under zero knowledge about the measured population, and therefore frequently
 returns wrong answers even for simple questions like addition of integers. There’s much more to say
 about the relatively-little expressiveness of machine learning compared to logic. From a descriptive
 complexity point of view, machine learning is known to lie in the complexity class P, while common
@@ -577,16 +559,11 @@ Figure 2.1: Understanding Each Other
 Over Tau the explainer doesn’t need
 to make other users understand (the tar-
 get users), but only making the machine
-understand. This task might be sim-
-pler on some aspects and more complex
+understand. This task might be simpler on some aspects and more complex
 on others, as machines are certainly less
-bound to organization and scale than hu-
-mans and further can assist the formaliza-
-tion process, but on the other hand ma-
-chines have a language barrier aside their
+bound to organization and scale than humans and further can assist the formalization process, but on the other hand machines have a language barrier aside their
 inaccessibility to the human nature. Having achieved an idea formalized in a formal
-language, the target users can now not only translate it to other knowledge represen-
-tation languages, or to organize it as they see fit, or to compare it to other formalized
+language, the target users can now not only translate it to other knowledge representation languages, or to organize it as they see fit, or to compare it to other formalized
 ideas, but they can also ask the machine all questions they got. Since the machine
 understood the subject completely by our definition of “understanding” above, it can
 help the target users understand it as well because it can answer all the users’ questions,
@@ -608,14 +585,13 @@ downloads that next block and invokes itself under its new definition. As we sha
 (^17) In particular, due to Gödel’s incompleteness, we can safely claim that no one will ever fully
 understand arithmetic.
 
-
 our logic of choice will include a self-interpreter and built-in quoting and evaluation
 operators, and by that Tau need not replace its code and externally run it, but it can
 simply call the evaluation operator over the quoted code inside the blockchain and
 by that replay the blockchain from the genesis block to its current block, resulting,
 among other desired outcomes, with a proof-carrying execution that justifies the whole
 blockchain’s history up to the last block^18.
-Furthermore, a special step between consensus and the next version is introdced,
+Furthermore, a special step between consensus and the next version is introduced,
 call it “application”. After users have said their opinion and a consensus is reached,
 the change doesn’t occur right away, but the users have to also agree to apply the
 change, and if they don’t, the discussion continues and may or may not reach a different
@@ -717,7 +693,6 @@ Satoshi Nakamoto [8] was the first to come up with an approximate solution which
 
 (^20) Waiting is also a possible solution as proposed by Buridan, but is not guaranteed to work.
 
-
 is based on cryptographic assumptions. This solution is very expensive (and not only in
 financial terms) and therefore is highly unrecommended for cases where decentralized
 timestamp is simply not required. However, it is required at the scope of Tau.
@@ -725,7 +700,7 @@ Tau’s blockchain is a ledger of its own code. Each block contains the current 
 code and the next block contains the next code, in a fashion similar to “auto-update”^21.
 The time-ordering of those codes is vital: if clients are not aligned regarding which
 code version to choose, they may break down the ability to even communicate over the
-network with one another, e.g. in case that the network protocol has been modifided
+network with one another, e.g. in case that the network protocol has been modified
 in a non-backward-compatible way.
 One might ask: which kind of blockchain algorithm will Tau use? And the answer
 is trivial: it’ll use whatever its users want it to use. If one day a better decentralized
@@ -735,8 +710,7 @@ update.
 ### 2.4 Collaborative Software Development
 
 Tau has four main guidelines relevant for collaborative software development: correct-
-by-construction software, knowledge-oriented programming, consensus-oriented pro-
-gramming, andcode reuse.
+by-construction software, knowledge-oriented programming, consensus-oriented programming, and code reuse.
 Correct-by-construction software is obtained by the use of declarative programming,
 a paradigm where programmers define only the “what” and not the “how”. As an
 example, suppose we have a body of code and we would like to add additional constraints
@@ -747,30 +721,27 @@ of course, opens the door to a lot of human mistakes^22.
 But what if we could just append a clause to the program expressing the above
 constraint? In case where that constraint is well-defined, it should be possible for
 a machine that gets to understand it to track the program’s flow and prevent sending
-private data. For this we’ll need the mathematical possibiliy of reasoning over programs,
+private data. For this we’ll need the mathematical possibility of reasoning over programs,
 hence decidability of the language over such tasks is required.
 
 (^21) This is the process of “changing the law”, as we mentioned above, and will emphasize more below.
 (^22) The amount of human mistakes and bugs during software development, is so huge, that arguably
 non-programmers highly underestimate them.
 
-
 We therefore observe that declarative programming largely removes the need of
-taking care of the program’s control flow, and we can focus on the program’sspecification
-ratherimplementation. The field of taking a program’s specification and converting it
+taking care of the program’s control flow, and we can focus on the program’s specification
+rather implementation. The field of taking a program’s specification and converting it
 into an implementation is called Software Synthesis^23. Programmers therefore need to
 care only about the specification, and the rest can and should be automatic.
 This specification, or in other words: the software’s requirements, is mostly not
 defined by the programmer, but by the programmer’s client. The clients need to say
-which software they want, and programmers code them. Once, by declarative program-
-ming, we identify the requirements with the code, the borders between programmers
+which software they want, and programmers code them. Once, by declarative programming, we identify the requirements with the code, the borders between programmers
 and users (or entities that order programming work from programmers), are blurred.
-However, a specification has to becompletein the sense that the machine can always
+However, a specification has to be complete in the sense that the machine can always
 deduce the unique action to perform next. To go back to our example, we will need a
 complete specification of what “private data” and “send over the network” means.
 This brings us to knowledge-oriented programming. Over Tau a large amount of
-knowledge will be formalized, either directly for the sake of having a body of formal-
-izing knowledge, or as a byproduct of discussions. Once enough formalized knowledge
+knowledge will be formalized, either directly for the sake of having a body of formalizing knowledge, or as a byproduct of discussions. Once enough formalized knowledge
 becomes available, even non-programmers will be able to say “I’d like this software to
 be secure, by this and that definition of security which I adapted from an expert that I
 trust”, and a software will simply become secure by the mere utterance of this sentence.
@@ -790,7 +761,6 @@ conversion into code. This approach may work very slowly in practice, to an impr
 Synthesis is therefore about a certain kind of optimization. That said, there may be more aspects for
 such optimizations that may not involve code synthesis methods.
 
-
 the code^24. But since we reduce the coding task into that of knowledge representation,
 knowledge may then be very easily reused. No one will have to define the same thing
 twice anymore, and no integration efforts will be required anymore.
@@ -798,7 +768,7 @@ In addition, and this is relevant not only to code but also to knowledge formali
 in general, we obtain a characteristic which is so good to the extent that it is an
 economical anomaly: the law of diminishing returns becomes the law of increasing
 returns, because writing new code or formalizing new knowledge becomes easier as
-more code and knoweldge already exist in the system.
+more code and knowledge already exist in the system.
 
 ### 2.5 Logics for Laws
 
@@ -823,12 +793,9 @@ Playing with words and taking them into any desired direction, consciously or no
 with good or bad intentions, was always there since humanity acquired language skills.
 The worst lies contain only truths, and the worst crimes are licensed, and arguments
 can be given to justify almost anything. This “crisis of truth” is the foundation of
-the post-modern stream in philosophy, notably the Deconstructivist approach which
+the post-modern stream in philosophy, notably the Deconstructivist approach which <br>
 
-(^24) Yet another peculiar fact in software development which non-programmers might not fully appre-
-ciate. Indeed rewrite is most commonly cheaper than maintaining existing code, if written by different
-people, or even by the same person after some time, a time which is usually surprisingly short.
-
+(^24) Yet another peculiar fact in software development which non-programmers might not fully appreciate. Indeed rewrite is most commonly cheaper than maintaining existing code, if written by different people, or even by the same person after some time, a time which is usually surprisingly short.<br>
 
 demonstrates how texts may be interpreted in many contradicting ways. "There is no
 one truth" is the basis of post-modernism. But can we at least have some island of
@@ -845,16 +812,16 @@ something nontrivial be said about laws in such a generality that does not assum
 thing further about the nature or purpose or scope of those laws? We derive nontrivial
 statements indeed by considering the effectiveness of the representation of law, and the
 case of changing the law.
-Moreover, we say absolutly nothing about the law itself, but only ask which language
-can be considred as adequate for serving as a language for law, or more accurately, since
+Moreover, we say absolutely nothing about the law itself, but only ask which language
+can be considered as adequate for serving as a language for law, or more accurately, since
 the language specifics don’t matter, we seek for a logic that may soundly represent laws.
 We present three requirements from a logic for law (the “three laws of laws”) which will
 lead us to a certain logical formalism.
-We seek for a class of expressionsLthat is suitable for representing laws, and we
-now list some requirements fromL^26. The first two requirements are very natural but
+We seek for a class of expressions L that is suitable for representing laws, and we
+now list some requirements from 𝓛 ^26. The first two requirements are very natural but
 pose a significant restriction on the required language:
 
-- Decidability: It shouldn’t take infinite time in order to answer whether some-
+- **Decidability**: It shouldn’t take infinite time in order to answer whether some-
     thing is legal or not. We require to always have the ability to get answers, and
 
 (^25) The necessity of the “undefined” value will be clear below. “Undefined” does not mean “unspecified”.
@@ -862,8 +829,8 @@ It is more like a machine that never halts and therefore has no return value at 
 that may call it will also never halt therefore also take the status of “undefined”. Another way to look
 at it: division by zero is not “unknown”, but is truly undefined. Any formula that contains division by
 zero, is not true or false, but is simply undefined.
-(^26) We shall begin with treatingLas a set of Turing machines, a view which is justified by the
-decidability requirement below, however, equivalently,Lmay also be considered as a programming
+(^26) We shall begin with treating 𝓛 as a set of Turing machines, a view which is justified by the
+decidability requirement below, however, equivalently, 𝓛 may also be considered as a programming
 language (and the set of Turing machines it represents is the set of all programs on that language), or,
 as a decidable (hence computable) logic. Our goal is to find a logical language that will capture this
 set of machines.
@@ -874,8 +841,8 @@ in particular, within finite time. This leads us to considerLas aset of Turing
 machines.
 ```
 - Closure under Boolean Operations: The language should be closed under
-    if-then-else with equality-to-zero conditionals, so iff, g, hare programs inL, then
-    so is “iff(x) = 0theng(x)elseh(x)”. In other words,Lshould be closed under
+    if-then-else with equality-to-zero conditionals, so if f, g, hare programs in 𝓛, then
+    so is “if f (𝒳) = 0 then g (𝒳) else h (𝒳)”. In other words, 𝓛 should be closed under
     union, intersection, and complementation^27.
 
 The next requirement arises when considering the case of changing the law. Suppose
