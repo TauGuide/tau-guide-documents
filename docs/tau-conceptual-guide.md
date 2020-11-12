@@ -134,11 +134,10 @@ adequate for all means and hence suggests a (Tau) meta-language, TML, designed f
 constructing languages and translators among them. This underlies the concept termed here the internet of languages.
 Tau truly is a self-amending system governed by the process of social choice. On
 
-
 Tau users discuss and decide on various issues and that includes Tau’s own code. Tau
 hence evolves based on the collective decisions of its users. In the paper this aspect is
 paralleled with the process of legislation. Indeed, society constantly changes its rulers,
-its laws and behaviours, by casting votes as part of various electoral systems. The key
+its laws and behaviors, by casting votes as part of various electoral systems. The key
 difference from Tau is that in Tau users can equally discuss what to choose from rather
 than just choosing. Again, this is made possible as Tau is designed to retain those
 precious traits of small scale discussions, such as sharing opinions and choice about
@@ -218,41 +217,19 @@ Tau-chain, or simply Tau, is a decentralized blockchain network offering innovat
 social-choice methods in order to determine its own next version, and by that being
 controlled solely and effectively by its many users. Tau’s users specify what they want
 the system to be like, and subsequently Tau auto-updates itself according to the users’
-consensus.
+consensus. <br>
 Software being updated and auto-updated is now a matter of every day. But who
 gets to decide how the next version will be like? Usually only a development team
 decides so, possibly taking into consideration the users’ inputs, but how can we have
 software that is solely controlled by its many users? This is what Tau is about. Over
-Tau, the developers are no one else but the users themselves, in a way that can actually
-work on a large scale. Furthermore, on Tau, the software’s requirements and specification are identified with its code. By that users don’t need to describe the “how” but
-only the “what”.
+Tau, the developers are no one else but the users themselves, in a way that can actually work on a large scale. Furthermore, on Tau, the software’s requirements and specification are identified with its code. By that users don’t need to describe the “how” but only the “what”. <br>
 
 ```
-Figure 1.1: Tau’s Workflow
-```
-Our focus is how to make this work in practice on
-a large scale with many users. Achieving such a goal
-turns out to involve addressing certain difficult problems, in particular the problem of very poor scalability
-of discussions, avoidance of logical paradoxes, and impossibilities that typically arise from self-amendment.
-The proposed solutions are interesting in their own
-right and can be used on many other similar settings,
-e.g. for modern democracy, sound legislation, collaborative software development, and managing a large
-body of knowledge such as that which arises in academic research or large organizations. One crucial ingredient in this enterprise is the
-usage of formal languages as shall be described below.
-We argue that the process of users collaboratively deciding on Tau’s next code is
-the same as the process of legislation. Laws have not only the aspect of just being laws
-but also the process of reaching an agreement for what the laws should be, and more
-importantly, how laws change with time. Tau is a process of legislation where the law
-is nothing but Tau’s code. We shall therefore significantly focus on law and legislation,
 
-and the reader may bear in mind that those processes are just another way of looking
-at the Tau process defined in the next paragraph.
-We now give a succinct definition of Tau to be unpacked in the course of this paper:
-Consider a process, denoted by X, of [many] people, forming and following, by the way
-of discussion in formal languages, another process, denoted by Y. Tau is the case where
-X=Y.
+```
+Our focus is how to make this work in practice on a large scale with many users. Achieving such a goal turns out to involve addressing certain difficult problems, in particular the problem of very poor scalability of discussions, avoidance of logical paradoxes, and impossibilities that typically arise from self-amendment. The proposed solutions are interesting in their own right and can be used on many other similar settings, e.g. for modern democracy, sound legislation, collaborative software development, and managing a large body of knowledge such as that which arises in academic research or large organizations. One crucial ingredient in this enterprise is the usage of formal languages as shall be described below. <br>We argue that the process of users collaboratively deciding on Tau’s next code is the same as the process of legislation. Laws have not only the aspect of just being laws but also the process of reaching an agreement for what the laws should be, and more importantly, how laws change with time. Tau is a process of legislation where the law is nothing but Tau’s code.<br>We shall therefore significantly focus on law and legislation, and the reader may bear in mind that those processes are just another way of looking at the Tau process defined in the next paragraph. We now give a succinct definition of Tau to be unpacked in the course of this paper: Consider a process, denoted by X, of [many] people, forming and following, by the way of discussion in formal languages, another process, denoted by Y. Tau is the case where X=Y. <br>
 To put it even more shortly: Tau, is a discussion about Tau. In particular, Tau is
-a machine-aided process of understanding each other.
+a machine-aided process of understanding each other.<br>
 Agoras is a network with a cryptocurrency^¹ to be implemented over Tau allowing
 the following features:
 
@@ -268,35 +245,27 @@ the following features:
     market and by that implement risk-free interest without any creation of new coins,
     using the concept of zero-delta portfolios.
 
-It should be remarked that the design presented here subsumes an old design presented
-at [11] which was found to be mistaken, as well as neglecting vital aspects related to
-self-amending systems e.g. how to scale up social choice while avoiding self-amendment
-paradoxes. The old design has to be completely discarded and there’s no benefit for
-the reader in trying to complement the picture by revisiting it. Additionally, the computational resources market is different from Zennet’s which is described in [10], for
-the surrounding capabilities (mainly logic, contracts, and proofs) give rise to a more
-sophisticated design.
+It should be remarked that the design presented here subsumes an old design presented at [11] which was found to be mistaken, as well as neglecting vital aspects related to self-amending systems e.g. how to scale up social choice while avoiding self-amendment paradoxes. The old design has to be completely discarded and there’s no benefit for the reader in trying to complement the picture by revisiting it. Additionally, the computational resources market is different from Zennet’s which is described in [10], for the surrounding capabilities (mainly logic, contracts, and proofs) give rise to a more sophisticated design.<br>
 
-(^¹) In contrast to Tau which has no currency or any other monetary aspect.
+------
 
+*¹ In contrast to Tau which has no currency or any other monetary aspect.*<br>
+
+------
 
 Another remark is that this paper sometimes refers to Tau and Agoras in a present
 tense, e.g. “Agoras does...”, but Tau and Agoras are still not ready as for the time of
-writing these lines.
-This paper is organized as follows. In the first section we discuss Tau. First,
-starting from presenting the paradigm of human-machine-human communication and
-the main features of the system, as well as how to scale discussions. Then we continue
+writing these lines.<br>
+This paper is organized as follows. In the first section we discuss Tau. First, starting from presenting the paradigm of human-machine-human communication and the main features of the system, as well as how to scale discussions. Then we continue
 with aspects of decision making. Afterwards we speak about collaborative software
-development, and then we move to describe our main theoretical contribution being the
-laws of laws and logics that admit them. We conclude with the internet of languages.
+development, and then we move to describe our main theoretical contribution being the laws of laws and logics that admit them. We conclude with the internet of languages.<br>
 The second section is about Agoras, first describing contracts and then moving on
 to economics of knowledge, and concluding with computational resources market and
-derivatives market.
-On the last section we present a taste of the long-term impact of the system.
+derivatives market.<br>
+On the last section we present a taste of the long-term impact of the system.<br>
 Five appendices follow: The first is a summary of the main problems and questions
 answered on this paper. The second describes a bit of classical choice theory and
-compares it to our setting. The third corresponds with Suber’s view on self-amendment.
-The fourth sketches the P-DATALOG langauge, and the fifth presents a proof that P-
-DATALOG with evaluation operator collapses to P-DATALOG.
+compares it to our setting. The third corresponds with Suber’s view on self-amendment. The fourth sketches the P-DATALOG language, and the fifth presents a proof that P- DATALOG with evaluation operator collapses to P-DATALOG.
 
 
 ## 2 Tau-Chain
@@ -310,11 +279,7 @@ generic extent. Tau is therefore useful for all kinds of collaborative theory fo
 and decision making and not only regarding its own code, as we shall emphasize later
 on. We can even argue that our solution is a complete resolution of the problem: x
 more participants will indeed yield at least x10 more outcome, in sharp contrast to how
-discussions currently scale^2. This set of solutions is rooted in two concepts which will be
-explained shortly: the first is the usage of machine-comprehensible languages, and the
-second is the ability to maintain small scale aspects of discussions and decision making
-on a large scale. But before we touch those two points let us discuss a bit legislation
-and voting.
+discussions currently scale^2. This set of solutions is rooted in two concepts which will be explained shortly: the first is the usage of machine-comprehensible languages, and the second is the ability to maintain small scale aspects of discussions and decision making on a large scale. But before we touch those two points let us discuss a bit legislation and voting.<br>
 When considering a large scale collaborative effort of legislation (or any other theory
 formation), voting commonly comes to mind. Indeed legislation of state laws typically
 involves forms of voting. However there is a certain major scaling limitation related to
@@ -322,60 +287,55 @@ voting: even though it’s possible to let everyone an effective and equal right
 is still impossible to let everyone an effective and equal right to propose what to vote
 over, since even if everyone got an equal right to propose, how one is even going to
 read millions of proposals a day? This makes the equal proposing right ineffective. We
-conclude that voting cannot effectively scale and stay fair at the same time.
+conclude that voting cannot effectively scale and stay fair at the same time.<br>
 Furthermore, this difficulty of discussion scaling holds even if we assume that all
 
-(^2) Discussions scale even more poorly than other settings arising in economics. Typically economical
-settings scale under the “Law of Diminishing Returns”: twice more workers typically don’t yield twice
-the outcome, but less. This is commonly formalized by stating that the second derivative of the utility
-function is negative, or in other words, convexity. This is one of the main reasons that convexity plays
-an important role in economics, and one of the main assumptions on any economical utility function
-is convexity. However discussions scale much worse: their utility (e.g. the amount of knowledge, or
-agreements, becoming accessible and useful to the participants) does not merely exhibit a negative
-second derivative w.r.t. the number of participants, but commonly even a negative first derivative,
-since having too many participants in a discussion commonly reduces the outcome, not only not
-increasing it proportionally.
-Note that differentiability and convexity here are in a generalized sense: for discrete variables, taking
-the differences would serve the same goals and arguments for the law of diminishing returns.
+------
+
+*² Discussions scale even more poorly than other settings arising in economics. Typically economical settings scale under the “Law of Diminishing Returns”: twice more workers typically don’t yield twice the outcome, but less. This is commonly formalized by stating that the second derivative of the utility function is negative, or in other words, convexity. This is one of the main reasons that convexity plays an important role in economics, and one of the main assumptions on any economical utility function is convexity. However discussions scale much worse: their utility (e.g. the amount of knowledge, or agreements, becoming accessible and useful to the participants) does not merely exhibit a negative second derivative w.r.t. the number of participants, but commonly even a negative first derivative, since having too many participants in a discussion commonly reduces the outcome, not only not increasing it proportionally.<br>
+Note that differentiability and convexity here are in a generalized sense: for discrete variables, taking the differences would serve the same goals and arguments for the law of diminishing returns.*
+
+------
 
 participants are polite, smart, open minded, love each other, and behave perfectly. It
 should be noted that other projects that deal with helping discussions indeed tend to
 deal with managing the absence of such reality, of everyone being “perfect”. However
 we deal with a much more fundamental bottleneck which remains in-place even if the
-“perfectness” assumption holds.
+“perfectness” assumption holds.<br>
 In everyday life, large scale decision making is commonly addressed by creating
 hierarchies of decision makers, who in particular get to decide what people may vote
 over. But then the vast amounts of knowledge and the varying preferences of the
 voters are not reflected in the proposals, because, in the better case, the data fails
 to propagate up the hierarchies due to information-handling bottlenecks, preventing
-humans from processing large amounts of information in any form^3. Voting is therefore
-carried out over alternatives almost void of truly relevant considerations.
-In small groups we rarely even consider voting. People simply say what they
+humans from processing large amounts of information in any form^3. Voting is therefore carried out over alternatives almost void of truly relevant considerations.<br>
+
+**In small groups** we rarely even consider voting. People simply say what they
 have to say and this by itself is enough for the participants to understand each other’s
 opinion and where they agree or disagree with each other. The participants don’t
 need to vote because they already know what the voting result would be, since all
 the information is already presented, implicitly or explicitly, in what they say. Put it
 differently, the opinion map naturally arises from things said during discussion. How
 can we achieve this in the larger scale, in which we have a discussion among a large
-amount of participants yet we are still able to recover the opinion map?
+amount of participants yet we are still able to recover the opinion map?<br>
+
 This is made possible with the help of machines, but it comes with a significant
 cost: participants in a discussion will have to speak in a language that is understood by
-machines^4. When this is the case, the machine is then able to calculate the opinion map
-(and the agreements/disagreements/consensus). We refer to such languages as formal
-languages, and more specifically, we consider languages which are, or translatable into,
-logical formulas. More on the language aspect of Tau will be emphasized on subsections
-2.5 and 2.6, but we first move on to describe other elements of the system.
+machines^4. When this is the case, the machine is then able to calculate the opinion map(and the agreements/disagreements/consensus). We refer to such languages as formal languages, and more specifically, we consider languages which are, or translatable into, *logical formulas*. More on the language aspect of Tau will be emphasized on subsections 2.5 and 2.6, but we first move on to describe other elements of the system.
 
-(^3) Let alone other bottlenecks which may or may not be solved by imposing certain flows and behaviors. 4
-In fact not all such languages are adequate for this case, and we shall emphasize later on about
-the logical aspects required in order to make this work.
+------
+
+*³ Let alone other bottlenecks which may or may not be solved by imposing certain flows and behaviors. <br>⁴ In fact not all such languages are adequate for this case, and we shall emphasize later on about the logical aspects required in order to make this work.*
+
+------
+
+
 
 
 ### 2.2 Large-Scale Discussion Platform
 
 Maintaining aspects of small-scale discussions in the large scale, we’d like users to
 simply say their opinions without any need to organize them, yet all viewpoints and
-the relations between them should be automatically inferred.
+the relations between them should be automatically inferred.<br>
 Tau takes the form of a discussion platform and a social network similar to existing
 ones, with friends and posts and comments. The main difference is that users write in
 formal languages and further aspects derived from that. The main components of the
@@ -401,7 +361,7 @@ system are therefore:
 
 
 - Opinion Map: A more detailed report of all opinions expressed in a discussion,
-    ordered by implication in the logical sense^5. Observe that although we can expect
+    ordered by implication in the logical sense⁵. Observe that although we can expect
     a discussion of four people to contain four different opinions, we do not expect a
     discussion of a million people to contain a million different opinions, but many
     participants will hold the same (or overlapping) opinions and/or agree with each
@@ -411,9 +371,9 @@ system are therefore:
     contradiction and offer ways to resolve it.
 - Auto comment: Tau will be able to automatically comment on topics, optionally
     with the user’s review and approval, based on previous posts from the same user
-    regarding that topic.^6
+    regarding that topic.⁶
 - Synthesize: In the case of a discussion about a specification of some desired
-    software^7 , to synthesize code that meets the consensus over this specification.
+    software⁷ , to synthesize code that meets the consensus over this specification.
 
 In addition we have the following features which arise from the Internet of Languages,
 a design allowing to define new languages and translate between them, discussed in
@@ -430,18 +390,14 @@ detail at 2.6:
 A user’s worldview is the collection of all opinions expressed by that user in the form of
 posts and discussions and agreeing/disagreeing. Similarly, a worldview contains which
 
-(^5) e.g. “X and Y” implies both X and Y, or in other words, “X intersect Y” is a subset of both X and
-Y, or, “A is a special case of B”. 6
-Tau will never guess your opinion, not even an educated guess. This demonstrates both the power
-and the necessity of logic-based AI in contrast to machine learning which is probabilistic in nature. 7
-Including the specification of the system itself.
+------
 
+⁵ e.g. “X and Y” implies both X and Y, or in other words, “X intersect Y” is a subset of both X and Y, or, “A is a special case of B”. <br>⁶ Tau will never guess your opinion, not even an educated guess. This demonstrates both the power and the necessity of logic-based AI in contrast to machine learning which is probabilistic in nature. <br>⁷ Including the specification of the system itself.
 
-questions the user has marked as “interesting”^8. Users can then query not only their
-own worldview but also other users’ worldview, provided that they gave permissions for
-other users to view their worldview or part of it. By that users can find other users with
-similar ideas or common interesting questions. One can only imagine the implications
-of this for recruiting, research, business partnerships, and even dating.
+------
+
+questions the user has marked as “interesting”⁸. Users can then query not only their
+own worldview but also other users’ worldview, provided that they gave permissions for other users to view their worldview or part of it. By that users can find other users with similar ideas or common interesting questions. One can only imagine the implications of this for recruiting, research, business partnerships, and even dating.<br>
 Teams are groups of people with a common cause or common questions to discuss
 and answer. A team creator may arbitrarily choose its initial rules. One special team
 would be the one that determines the next Tau code. Who will participate in this team
