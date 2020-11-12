@@ -5,46 +5,60 @@ disableTableOfContents: false
 order: 2
 ---
 
-# Tauchain & Agoras FAQs
+# Tau-chain FAQs
 
-Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://www.youtube.com/watch?v=W0WhSrEqE7g).<br>
-
-<br>
+Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://tau.guide/#news).<br><br>
 
 > ###### Don't see your Question? [Ask it here](http://bit.ly/TauchainQuestionForm) and have it answered on the next monthly development video update. <br>
 
 <br>
 
-### 1. What is Tauchain (Tau)?
+### 1. What is Tau-chain (Tau)?
 
-Tau is a blockchain platform that will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks to human advancement including social governance and knowledge creation.
+Tau plans to be a system for large-scale collaboration about virtually anything, but especially, about itself. Tau is a software effectively defined by its users. Users say, using formal languages, what they want the system to be like, and the system auto-updates itself according to the users’ consensus.<br>
 
-By using a self defining and decidable logical framework, Tau is the first in this space to be able to gather data voluntarily submitted by its users and logically deduce valuable knowledge over a network secured with blockchain technology.
-What this means is that in effect, we can scale collaborative endeavors between thousands of mathematicians, doctors, computer scientists, engineers and other experts to greatly accelerate the production of knowledge.
+For this to work, several fundamental problems have to be solved. For example: how can a large group of people (say millions) have a meaningful discussion? How can a large group of people take a collaborative decision? Voting, for example, cannot scale and stay fair at the same time, because even if everyone got an equal right to vote, they still don’t have an equal right to propose what to vote over, because even if they had, who is going to even read a million proposals a day?<br>
 
-Tau aims to become an indispensable technology. Once Tau has launched, any company, nation or organisation not using the collaborative power of the network will be rendered obsolete.<br><br>
+This is all solved under the assumption that users use formal languages, and, together with our large-scale communication paradigm which we call human-machine-human communication.<br>
+
+It will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks in human discussion. Advancements of which include social governance and knowledge creation.<br>
+
+By using a self defining and decidable logical framework, Tau is the first in this space to be able to logically deduce valuable knowledge over a network secured with blockchain technology by gathering data voluntarily submitted by its users.<br>
+
+What this means is that in effect, we can scale collaborative endeavors between thousands of mathematicians, doctors, computer scientists, engineers and other experts to greatly accelerate the production of knowledge.<br>
+
+Tau aims to become an indispensable technology. Once Tau has launched, any company, nation or organisation not using the collaborative power of the network will likely be at a disadvantage.<br><br>
+
+[Please refer to our guide and the project's Whitepaper](https://tau.guide/docs/tau-conceptual-guide/) for a more in depth view of Tau-chain and Agoras.
 
 ---
 
-### 2. How do I invest in tau?
+### 2. How do I invest in Tau?
 
 Tau is independent itself and has no tokens. However, Ohad is also building Agoras using tau tech, it will be the first automated marketplace over the Tau collaborative platform.
 
-> #### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras.md)<br>
+> ##### 📌 [Buy and Sell Agoras Here](/docs/Tutorials/step-by-step-guide-how-to-buy-agoras) <br>
 
 It has one of the fairest distributions in the cryptosphere. Ohad is only reserving 3% of the tokens for himself.<br><br>
 
 ---
 
-### 3. What is Agoras?
+### 3. What is Agoras and Agoras.Live?
 
-Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](Tau's revolutionary features).
+Agoras will be an integral platform built over the Tau network and will serve as the primary economy that'll take full advantage of [Tau's advanced features](/docs/tau-conceptual-guide/#the-3-laws-of-laws).
 
 Agoras itself is comprised of 3 distinct parts:
 
 - Automated Knowledge Economy.
+
 - Computational Resource Market.
+
 - Advanced Currency with Derivatives Features.<br><br>
+
+  It's a cryptocurrency that is powered with the Tau technology and so it is controlled solely and effectively by its users. It also facilitates, for the first time, a knowledge market, featuring knowledge-cash transactions. It will also support a computational resources market and a derivatives market allowing advanced monetary features, for example: the ability to get risk-free interest without printing new coins. <br><br>
+  For now the token only marks holdings in the future Agoras coin, when it’ll be ready. The Agoras tokens and coins will be the currency of very new and very big economies, as big as the economical value of knowledge and of computational resources.<br><br>
+
+Agoras.Live is an open market where users can trade knowledge with one another.
 
 ---
 
@@ -55,9 +69,9 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **[Whitebit]**[https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)
-2. **[BCEX]** [https://www.bcex.top/trade/agrs2btc](https://www.bcex.top/trade/agrs2btc)
-3. **[Sky]** [https://www.sky.io/exchange/AGRS_USDT](https://www.sky.io/exchange/AGRS_USDT)
+1. **Whitebit Exchange**<br>[https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
+
+   <br>
    <br>
 
 ---
@@ -65,18 +79,15 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 ### 5. How I hold my Agoras Tokens?
 
 You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.
-If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)<br>
-<br>
+If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)
 
-> Pleas refer to our [How to Store Agoras](https://www.notion.so/How-to-Store-Agoras-66d92c0cc95e46d5896088808fc00615) tutorial.<br>
-
-<br>
+Please refer to our [How to Store Agoras](https://tau.guide/docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
 
 ---
 
 ### 6. How are Agoras tokens to be distributed?
 
-Check out [Tau.guide's Agoras distribution graph](http://tausupport.ecommerce-api.tk/#knowledge-data)
+Check out [Tau.guide's Agoras distribution graph](https://tau.guide/#market)
 
 There are a total of 42 million Agoras tokens in existence representing 100% of future circulating supply.
 
@@ -92,7 +103,7 @@ Agoras represents one of the fairest fund raising and distributions of tokens in
 
 > The split will not affect your holdings or funds. Post split, the market capitalization of Agoras will remain the same, but the price per token will change proportionally to the split ratio. For example, if the price of 1 IDNI Agoras is $50, with a total of 42 million tokens the market capitalization will be $2.1 billion. Assuming you hold 1 IDNI Agoras (you have $50), after the split, you will get 2000 Agoras tokens worth $0.025 each. Your holding will remain the same (2000*$0.025 = $50) and Agoras market capitalization will remain the same (84 billion * 0.025 = \$2.1 billion).
 
-> The split is just technical, to support micro transactions over Agoras. It will not affect your holdings in terms of percent from the total supply.<br>
+> The split is just technical, to support micro transactions over Agoras. It will not affect your holdings in terms of percents from the total supply.<br>
 
 <br>
 
@@ -121,19 +132,16 @@ Two answers posted by Ohad on BTT with regards to the bonus:
 
 ### 8. What is the Roadmap for this project?
 
-> See Development progress on our [Tauchain Project Roadmap](https://tau.guide/#development-progress) <br>
-
-<br>
-
+See Development progress on our [Tau-chain Project Roadmap](https://tau.guide/#development-progress)
 Tau progress can be generally defined by the following milestones:
 
-1. [TML (Tau Meta Language)](https://www.notion.so/TML.com) and Initial Network
+1. TML (Tau Meta Language) and Initial Network
 2. Collaborative Discussions Platform (alpha)
 3. Automated Code Synthesis of Programs (beta)
 4. The Tau Blockchain Network
 5. Agoras
 
-- AgorasLive Platform
+- **Agoras.Live** Platform: A decentralised service open market where users can trade knowledge with one another.
 
 - **TML (Tau Meta Language):** A programming language that describes other languages as there isn't a universal language that's best for all purposes.
   Self definition, Futamura's Projections and Internet of Languages - The latter allows languages to coexist, but we leave this until later to focus on the next milestone:
@@ -146,9 +154,7 @@ Tau progress can be generally defined by the following milestones:
 
 ### 9. Who is the Lead Developer Ohad Asor?
 
-> Read more about the [Tauchain Developers Team](http://tau.guide/#teams)<br>
-
-<br>
+Read more about the [Tau-chain Developers Team](http://tau.guide/#teams)
 
 Ohad Asor is an accomplished mathematician, programmer, computer scientist and logician.
 Ohad went to university at the age of 13, and is regarded by many as a true genius even among prodigies. He has devoted almost all his spare time to rigorous academic studies, and as a result, has developed extensive knowledge that few experts could match.
@@ -160,9 +166,9 @@ We very much welcome technical questions. Please submit to either the [Monthy QA
 
 ---
 
-### 10. Where can I see the Tauchain code?
+### 10. Where can I see the Tau-chain code?
 
-The Tauchain github repository is here [https://github.com/IDNI](https://github.com/IDNI) <br><br>
+The Tau-chain github repository is here [https://github.com/IDNI](https://github.com/IDNI) <br><br>
 
 ---
 
@@ -178,15 +184,15 @@ For the ability to soundly and collaboratively reach decisions that affect the w
 
 ---
 
-### 12. Can Tauchain's code be stolen?
+### 12. Can Tau-chain's code be stolen?
 
-**_Is it possible for another more established project to steal Tauchain's code as it's open source? Do we have steps to prevent this?_**
+**_Is it possible for another more established project to steal Tau-chain's code as it's open source? Do we have steps to prevent this?_**
 
 _Ohad:_ Generally speaking, stealing code to compete in the same market is not a successful business strategy as you're always a few steps behind. Additionally, you can only steal what's visible so far as opposed to the total vision which is not yet all coded. <br><br>
 
 ---
 
-### 13. Why does Tauchain need a Blockchain or DAG?
+### 13. Why does Tau-chain need a Blockchain or DAG?
 
 The design of Tau allows it's own code to update due to consensus of countless opinions of it's users in real time his allows each successive block to update itself based on the rules of the previous block automatically, bringing us the first true form of scalable governance.<br> <br>
 
@@ -213,7 +219,7 @@ If people post statements you find to be false, unfounded or misleading, you can
 
 ---
 
-### 16. Where is Tauchain in 10 years if everything goes well?
+### 16. Where is Tau-chain in 10 years if everything goes well?
 
 In many ways. Let me give a non practical solution to every problem in the world: Just take the 1 million smartest people to have a discussion and they're likely solve the problem. In practice this doesn't work because a discussion of a million people is impossible to conduct. But this is possible with Tau. We can have a discussion between millions of people where the information doesn't get lost in the noise, where each valuable information retains its place because the machine will draw an opinion map and calculate who agrees with whom, who disagrees with whom which will allow large scale collaborative decision making.
 
@@ -228,7 +234,7 @@ Under Agoras we'll have a fairer economy that's controlled by the people. Effici
 
 ---
 
-### 17. Can Tauchain be used by anyone or only programmers?
+### 17. Can Tau-chain be used by anyone or only programmers?
 
 Ultimately Tau is designed to be used by everyone. However, at the beginning of Alpha, before the Internet of Languages, the only language will be TML.
 
@@ -247,21 +253,17 @@ Another point is that many security questions revolve around the intended or uni
 ### 19. Tau vs Ethereum?
 
 They're barely comparable any more. The Old Tau mainly relied on reasoning over code by using decidable languages, which Ethereum doesn't have as they opted for Turing Complete smart contracts. That way, smart contracts under Old Tau can only lead to intended consequences. <br>
-Tau design has changed a lot since then to focus on scaling discussion, collaborative decision making and automatic code production based on those decisions. It is no longer something that's similar to Ethereum in any meaningful way. <br><be>
+Tau design has changed a lot since then to focus on scaling discussion, collaborative decision making and automatic code production based on those decisions. It is no longer something that's similar to Ethereum in any meaningful way. <br>
 
-> Read more about [The New Tau](http://www.idni.org/blog/the-new-tau).<br>
-
-<br>
+Read more about [The New Tau](http://www.idni.org/blog/the-new-tau).<br><br>
 
 ---
 
-### 20. Tau vs tezos. What's the difference between the two projects?
+### 20. Tau vs Tezos. What's the difference between the two projects?
 
-As described in the **3 laws of laws**, we require rules over the network to be written in a decidable language. Tezos doesn't support decidability. It is Turing complete. Furthermore, Tezos's social-choice mechanism is based on voting, and voting cannot fairly scale. <br><br>
+As described in the **3 laws of laws**, we require rules over the network to be written in a decidable language. Tezos doesn't support decidability. It is Turing complete. Furthermore, Tezos's social-choice mechanism is based on voting, and voting cannot fairly scale. <br>
 
-> Read more with Izar Flis's [Tau vs Tezos Article](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)<br>
-
-<br>
+Read more From Izar Flis's [Tau vs Tezos Article](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)<br><br>
 
 ---
 
@@ -299,25 +301,23 @@ Anyone who can spare a few minutes can test them out directly right now using th
 
 _Ohad_: If I had any specific time frame in my mind, I wouldn't keep it from anyone. I simply don't know. I don't want to over hype this, but once we have a functioning collaborative development platform, then things can happen very fast, very theoretically speaking, to build Tau or Agoras or many other things, 10,000 devs can do it overnight once the collaborative system functions. : )
 
-We just need a critical mass of developers and things can accelerate greatly long before the entire roadmap is finished.<br><br>
+We just need a critical mass of developers and things can accelerate greatly long before the entire roadmap is finished.
 
-> You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progress).<br>
-
-<br>
+You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progress).<br><br>
 
 ---
 
 ### 25. How can learn to code in TML?
 
-You can read more about TML in our [Tutorials](http://tau.guide/docs/tutorials/) section:
+You can read more about TML in our [Tutorials](http://tau.guide/docs/Tutorials/) section:
 
-[TML Github Readme](https://github.com/IDNI/TML/blob/master/README.md) <br>
+[TML Github Readme](https://github.com/IDNI/TML/blob/master/README) <br>
 
-[Understanding TML: Prolog -> Datalog -> Tau](/docs/tutorials/understanding-tml-prolog-datalog-tau.md) <br>
+[Understanding TML: Prolog -> Datalog -> Tau](/docs/Tutorials/understanding-tml-prolog-datalog-tau) <br>
 
-[Analysis of TauBot.TML](/docs/tutorials/analysis-of-taubot-tml.md) <br>
+[Analysis of TauBot.TML](/docs/Tutorials/analysis-of-taubot-tml) <br>
 
-[TML Bot Tutorial](/docs/tutorials/tml-bot-Tutorial.md)<br>
+[TML Bot Tutorial](/docs/Tutorials/tml-bot-Tutorial)<br>
 
 <br>
 
@@ -334,6 +334,6 @@ _Ohad:_ Forks are a consequence when we reach a point where disagreements cannot
 ### 27. Are there limitations to code synthesis?
 
 _Ohad:_ Yes, all logical systems have limitations. Most questions in the universe are too difficult to be practically solvable. But most problems in practice are likely solvable. Most importantly, we as humans don't have any more advantage over what's mathematically possible. The computer will have limitations, but it will certainly do better than us.<br>
-<br><br>
+<br>
 
 ✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/tauchain-agoras-faqs.md)

@@ -72,12 +72,21 @@ Here is a collection of commonly asked questions. Gathered from [socials](http:/
 
 ### 1. What is Tau-chain (Tau)?
 
-Tau plans to be a platform that will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks in human discussion. Advancements of which include social governance and knowledge creation.
+Tau plans to be a system for large-scale collaboration about virtually anything, but especially, about itself. Tau is a software effectively defined by its users. Users say, using formal languages, what they want the system to be like, and the system auto-updates itself according to the users’ consensus.<br>
 
-By using a self defining and decidable logical framework, Tau is the first in this space to be able to gather data voluntarily submitted by its users and logically deduce valuable knowledge over a network secured with blockchain technology.
-What this means is that in effect, we can scale collaborative endeavors between thousands of mathematicians, doctors, computer scientists, engineers and other experts to greatly accelerate the production of knowledge.
+For this to work, several fundamental problems have to be solved. For example: how can a large group of people (say millions) have a meaningful discussion? How can a large group of people take a collaborative decision? Voting, for example, cannot scale and stay fair at the same time, because even if everyone got an equal right to vote, they still don’t have an equal right to propose what to vote over, because even if they had, who is going to even read a million proposals a day?<br>
+
+This is all solved under the assumption that users use formal languages, and, together with our large-scale communication paradigm which we call human-machine-human communication.<br>
+
+It will allow for on-the-fly logical consensus detection which enables it to scale some of the largest bottlenecks in human discussion. Advancements of which include social governance and knowledge creation.<br>
+
+By using a self defining and decidable logical framework, Tau is the first in this space to be able to logically deduce valuable knowledge over a network secured with blockchain technology by gathering data voluntarily submitted by its users.<br>
+
+What this means is that in effect, we can scale collaborative endeavors between thousands of mathematicians, doctors, computer scientists, engineers and other experts to greatly accelerate the production of knowledge.<br>
 
 Tau aims to become an indispensable technology. Once Tau has launched, any company, nation or organisation not using the collaborative power of the network will likely be at a disadvantage.<br><br>
+
+[Please refer to our guide and the project's Whitepaper](https://tau.guide/docs/tau-conceptual-guide/) for a more in depth view of Tau-chain and Agoras.
 
 ---
 
@@ -98,10 +107,15 @@ Agoras will be an integral platform built over the Tau network and will serve as
 Agoras itself is comprised of 3 distinct parts:
 
 - Automated Knowledge Economy.
+
 - Computational Resource Market.
+
 - Advanced Currency with Derivatives Features.<br><br>
 
-Agoras.Live is a decentralised service open market where users can trade knowledge with one another.
+  It's a cryptocurrency that is powered with the Tau technology and so it is controlled solely and effectively by its users. It also facilitates, for the first time, a knowledge market, featuring knowledge-cash transactions. It will also support a computational resources market and a derivatives market allowing advanced monetary features, for example: the ability to get risk-free interest without printing new coins. <br><br>
+  For now the token only marks holdings in the future Agoras coin, when it’ll be ready. The Agoras tokens and coins will be the currency of very new and very big economies, as big as the economical value of knowledge and of computational resources.<br><br>
+
+Agoras.Live is an open market where users can trade knowledge with one another.
 
 ---
 
@@ -112,7 +126,7 @@ Currently, these tokens are in the form of an Omni Asset based on the Bitcoin bl
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **[Whitebit]**[https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
+1. **Whitebit Exchange**<br>[https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
 
    <br>
    <br>

@@ -29,7 +29,7 @@ Welcome to Tau.Guide! Great to have you here. Here we have a list of resources t
 
 ---
 
-[TML Bot Tutorial](/docs/Tutorials/tml-bot-tutorial)
+[TML Bot Tutorial](/docs/Tutorials/tml-Bot-tutorial/)
 
 [Understanding TML: Prolog -> Datalog -> Tau](/docs/Tutorials/understanding-tml-prolog-datalog-tau)
 
