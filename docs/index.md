@@ -23,7 +23,7 @@ There are three main ways to get started with Tau-chain:<br>
 2. Explore how Tau-chain works behind the scenes:
 
    - [Tau-chain & Agoras FAQs](/docs/tauchain-agoras-faqs): Tau-chain and Agoras' Frequently Asked Questions
-   - [TML](/docs/what-is-tauchain-tau/#tml) : Learn more about Tau's Meta-Language.
+   - [TML](/docs/what-is-tauchain-tau/#tau-meta-language-tml-overview) : Learn more about Tau's Meta-Language.
    - [Agoras](/docs/what-is-tauchain-tau#agoras): Learn about the Agoras market at it's smart currency.
    - [Conceptual Guide](/docs/tau-conceptual-guide): Read high-level overviews of Tau-chain.
    - [Tutorials](/docs/Tutorials) : All available "How to's...". <br>

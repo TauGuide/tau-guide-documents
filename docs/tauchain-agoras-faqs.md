@@ -5,7 +5,7 @@ disableTableOfContents: false
 order: 2
 ---
 
-# Tau-chain FAQs
+# Tau-chain & Agoras FAQs
 
 Here is a collection of commonly asked questions. Gathered from [socials](http://tau.guide/social) and the team's [development video updates](https://tau.guide/#news).<br><br>
 

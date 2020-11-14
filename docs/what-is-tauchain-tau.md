@@ -84,8 +84,6 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 ## **Tau Meta-language (TML) Overview**
 
-<br>
-
 > This is an overview. If you'd like to learn more<br>
 > [Read about TML, in detail, within the whitepaper](docs/tau-conceptual-guide/#261-tau-meta-language)
 
@@ -162,6 +160,11 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 ## **Agoras**
 
+> This is an overview. If you'd like to learn more<br>
+> [Read about Agoras, in detail, within the whitepaper](docs/tau-conceptual-guide/#3-agoras)
+
+<br>
+
 - Knowledge economy, [named](https://github.com/naturalog/Bitagoras) after the Ancient Agora of Athens)<br><br>
 
 ### **Knowledge market**
@@ -179,7 +182,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 - maintainers index the knowledge on the web, charge a fee for answers on queries that depends on the amount of usage and the cost of maintenance<br><br>
 
-### derivatives market (newly designed economy offering features like risk free interest without printing new money)
+### Derivatives market (newly designed economy offering features like risk free interest without printing new money)
 
 - advanced monetary system
 
