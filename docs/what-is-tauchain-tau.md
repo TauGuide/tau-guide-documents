@@ -161,7 +161,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 ## **Agoras**
 
 > This is an overview. If you'd like to learn more<br>
-> [Read about Agoras, in detail, within the whitepaper](docs/tau-conceptual-guide/#3-agoras)
+> [Read about Agoras, in detail, within the whitepaper](https://tau.guide/docs/tau-conceptual-guide/#3-agoras)
 
 <br>
 
