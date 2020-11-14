@@ -63,7 +63,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - Advanced currency
 - logical solver
 - internet of languages
-- [TML](docs/tau-conceptual-guide/#261-tau-meta-language) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085) <br> <br><br>
+- [TML](docs/tau-conceptual-guide/#tau-meta-language-tml-overview) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085) <br> <br><br>
 
 ## **Technical and societal aspects**
 
