@@ -5,7 +5,7 @@ disableTableOfContents: false
 order: 3
 ---
 
-# What is Tauchain (Tau)?
+# What is Tau-chain (Tau)?
 
 ## Summary
 
@@ -63,7 +63,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 - Advanced currency
 - logical solver
 - internet of languages
-- [TML](https://www.notion.so/What-is-Tauchain-Tau-78295578914840ff8ef6ff616e9aafee#c9b132c8b4a745b899307a06ca9e7985) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085) <br> <br><br>
+- [TML](docs/tau-conceptual-guide/#261-tau-meta-language) : A fully declarative logic programming language that satisfies 3 requirements for the language: decidability, non monotonic logic, self define-ability [https://youtu.be/8QZDYIO1EGA?t=1085](https://youtu.be/8QZDYIO1EGA?t=1085) <br> <br><br>
 
 ## **Technical and societal aspects**
 
@@ -80,9 +80,16 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 [Ohad's Pricing Formula](http://zennet.sc/zennetpricing.pdf)
 
-- probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields ^10 less risk)<br><br><br><br>
+- probabilistically verify unverifiable computations by calculating the same thing more than once (by randomly choosing more providers), so increasing the cost linearly, decreases the risk exponentially (e.g. x10 more cost yields¹⁰ less risk)<br><br><br><br>
 
-## **TML**
+## **Tau Meta-language (TML) Overview**
+
+<br>
+
+> This is an overview. If you'd like to learn more<br>
+> [Read about TML, in detail, within the whitepaper](docs/tau-conceptual-guide/#261-tau-meta-language)
+
+<br>
 
 **Social**
 
@@ -93,14 +100,14 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 
 **Technical**
 
-- TML is intended to be a compiler-compiler, to allow translation from one language to another. to define a new language would mean to define how it translates from an existing language. by that the choice of language of expression (among the languages to be available over time in the internet of languages), becomes irrelevant.
+- TML is intended to be a compiler-compiler, to allow translation from one language to another. To define a new language would mean to define how it translates from an existing language. by that the choice of language of expression (among the languages to be available over time in the internet of languages), becomes irrelevant.
 - Machines need to understand the meaning of what we say, but computers expect operational information, while humans use declarative language. In Tau people focus on the "know-what" and machines figure out the "know-how". Tau uses formal logic as it is natural to humans and something machines can work with (cf. "Knowledge Representation and Classical Logic" by Lifschitz et al)
 - A meta-language that can define new languages and is able to redefine itself and change, a self-amending language
 - Users define new languages by specifying logical formulas to describe what it means for two documents in different languages to have the same meaning. To define a new language, one needs to define how it translates into an existing language while preserving semantics.
 - Tau uses Partial Evaluation to prevent considering the logic of the language(s) again and again with every compilation of documents written in it. This adds desirable features for a compiler-compiler, in the form of Futamura projections.
 - Binary decision diagrams used for performance of logical solver.
 
-> [Read more about the concepts behind TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau.md#understanding-tml-prolog---datalog---tau) > [Use TML.bot](docs/Tutorials/tml-Bot-tutorial.md) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot <br>
+> [Read more about the concepts behind<br> TML and Logic Programming](docs/Tutorials/understanding-tml-prolog-datalog-tau/#understanding-tml-prolog---datalog---tau) <br>Or<br>[Use TML.bot](docs/Tutorials/tml-Bot-tutorial) : Get first hand TML experience with an easy-to-use guide to interact with the TML bot <br>
 
 <br>
 

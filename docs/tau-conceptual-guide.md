@@ -408,24 +408,24 @@ and how, is left for this very team to decide, as we shall describe more later o
 It should be noted that, inevitably, Tau has no access to truths, only to opinions. One
 might argue whether humans have access to truths, and we’re not going to get into this
 point, we only state the obvious that machines have no access to what we intuitively
-consider as physical truth^9. Tau has no way to verify the correctness of statements like
+consider as physical truth⁹. Tau has no way to verify the correctness of statements like
 “the Sun is made of hydrogen” or “the Sun is made of cheese”¹⁰. By that, Tau can never
-say who is right and which opinion is correct^11. However it can infer certain kinds of
+say who is right and which opinion is correct¹¹. However it can infer certain kinds of
 truths and falsehoods in the case of tautologies and contradictions. A contradictory
 opinion is always false, and is a case where we can indeed point to a physical falsehood.
 The equivalent holds for tautologies.
 The more opinions stated about a certain topic, the higher the probability that
-a contradiction will arise^12. We can therefore approximate the truth by the way of
+a contradiction will arise¹². We can therefore approximate the truth by the way of
 elaboration, and choose to accept certain opinions as truths or falsehoods by the way
 of debate, challenging each side to give more statements on the subject and by that
 
 (^8) The nature of questions over Tau will be discussed below.
-(^9) In contrast to mathematical truths, which are no different than tautologies, and by that say nothing
+⁹ In contrast to mathematical truths, which are no different than tautologies, and by that say nothing
 nontrivial about the “real world” other than “a contradiction may never exist”. 10
 Even if we equip machines with sensors, e.g. camera and microphone, it is always possible to “fool”
 it by letting it see any predetermined inputs, and it will never know whether its sensory inputs are
 “real”, “fake”, or “compromised”.
-(^11) In particular, Tau should not be seen as a tool for avoiding “fake news”, except in special cases as
+¹¹ In particular, Tau should not be seen as a tool for avoiding “fake news”, except in special cases as
 we explain right away. We mention “fake news” because a question commonly arising among people
 hearing about Tau and its logic and truth aspects, is whether Tau can solve this problem, and the
 answer is mostly negative indeed.
