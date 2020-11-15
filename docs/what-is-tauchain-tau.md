@@ -85,7 +85,7 @@ Tau uses a decidable logical framework which allows it to synthesize and execute
 ## **Tau Meta-language (TML) Overview**
 
 > This is an overview. If you'd like to learn more<br>
-> [Read about TML, in detail, within the whitepaper](docs/tau-conceptual-guide/#261-tau-meta-language)
+> [Read about TML, in detail, within the whitepaper](/docs/tau-conceptual-guide/#261-tau-meta-language)
 
 <br>
 
