@@ -5,7 +5,7 @@ disableTableOfContents: true
 order: 0
 ---
 
-<br>Welcome to [tau.guide/docs](tau.guide/documents), the unofficial community driven set of resources to help you learn more about 
+<br>Welcome to [tau.guide/docs](https://tau.guide/docs), the unofficial community driven set of resources to help you learn more about 
 Tau-chain and Agoras.<br>
 
 ## Get Started
