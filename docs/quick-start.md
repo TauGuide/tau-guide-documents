@@ -183,7 +183,7 @@ If you decided not to lock your tokens, you will get up to 15%, depending on the
 \*holding period = time from August 1, 2017 to the bonus distribution
 
 Two answers posted by Ohad on BTT with regards to the bonus:
-[https://bitcointalk.org/index.php?topic=950309.msg20380555#msg20380555](https://bitcointalk.org/index.php?topic=950309.msg20380555#msg20380555)[https://bitcointalk.org/index.php?topic= 950309.msg17841993#msg17841993](https://bitcointalk.org/index.php?topic=%20950309.msg17841993#msg17841993) <br><br>
+[https://bitcointalk.org/index.php?topic=950309.msg20380555](https://bitcointalk.org/index.php?topic=950309.msg20380555#msg20380555)<br>[https://bitcointalk.org/index.php?topic= 950309.msg17841993](https://bitcointalk.org/index.php?topic=%20950309.msg17841993#msg17841993) <br><br>
 
 ---
 
