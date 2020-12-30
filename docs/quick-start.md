@@ -360,7 +360,7 @@ _Ohad_: If I had any specific time frame in my mind, I wouldn't keep it from any
 
 We just need a critical mass of developers and things can accelerate greatly long before the entire roadmap is finished.
 
-You can follow [The Tau Devlopment Roadmap](https://tau.guide/#development-progress).<br><br>
+You can follow [The Tau Devlopment Roadmap](https://tau.guide/#roadmap).<br><br>
 
 ---
 
