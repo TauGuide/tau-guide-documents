@@ -22,7 +22,6 @@ order: 3
 1. **[Whitebit]** AGRS (Omni / ERC-20) - BTC
 
    <br>
-   [http://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)  
 
    <br>
 
