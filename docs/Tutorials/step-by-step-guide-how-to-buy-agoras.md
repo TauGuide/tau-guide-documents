@@ -31,7 +31,7 @@ order: 3
 
    <br><br>
 
-3. **[Bittrex]**  <br>***[DO NOT DEPOSIT OMNI BASED TOKENS, ONLY DEPOSIT ERC-20 AGORAS]*** *<br> <br>
+3. **[Bittrex]**  <br>***[DO NOT DEPOSIT OMNI BASED TOKENS, ONLY DEPOSIT ERC-20 AGORAS]*** <br> <br>
    https://global.bittrex.com/Market/Index?MarketName=USDT-AGRS <br>
 
    https://global.bittrex.com/Market/Index?MarketName=BTC-AGRS
