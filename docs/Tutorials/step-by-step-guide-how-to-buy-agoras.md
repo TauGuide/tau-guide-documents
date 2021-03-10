@@ -19,19 +19,24 @@ order: 3
 
 
 
-1. **[Whitebit]** [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)  
+1. **[Whitebit]** AGRS (Omni / ERC-20) - BTC
 
    <br>
-   
-   White bit is offering a swap of omni Agrs tokens to ERC-20 tokens. Users can deposit both Omni and ERC-20 Assets at the [Whitebit](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3) exchange.
-   
-   <br><br>
+    [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3)  <br><br>
 
-2. **[Uniswap]** https://info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d
+   Whitebit is offering a swap of omni Agoras tokens to ERC-20 tokens. Users can deposit both Omni and ERC-20 Assets at the [Whitebit](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3) exchange.
 
    <br><br>
 
-3. **[Bittrex]**  <br>***[DO NOT DEPOSIT OMNI BASED TOKENS, ONLY DEPOSIT ERC-20 AGORAS]*** <br> <br>[https://global.bittrex.com/Market/Index?MarketName=USDT-AGRS](https://bittrex.com/Account/Register?referralCode=VHC-MQT-SNY) <br>[https://global.bittrex.com/Market/Index?MarketName=BTC-AGRS](https://bittrex.com/Account/Register?referralCode=VHC-MQT-SNY) <br>
+2. **[Uniswap]** AGRS (ERC-20) - ERC-20
+
+   <br>
+
+   https://info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d
+
+   <br><br>
+
+3. **[Bittrex]**  <br>***[DO NOT DEPOSIT OMNI BASED TOKENS, ONLY DEPOSIT ERC-20 AGORAS]*** <br> <br>[https://global.bittrex.com/Market/Index?MarketName=USDT-AGRS](https://bittrex.com/Account/Register?referralCode=VHC-MQT-SNY) <br><br>[https://global.bittrex.com/Market/Index?MarketName=BTC-AGRS](https://bittrex.com/Account/Register?referralCode=VHC-MQT-SNY) <br>
 
 <br>
 
