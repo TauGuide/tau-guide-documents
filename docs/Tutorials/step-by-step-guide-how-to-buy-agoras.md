@@ -31,40 +31,39 @@ order: 3
 
    <br><br>
 
-3. **[Bittrex]**  <br>***[DO NOT DEPOSIT OMNI BASED TOKENS, ONLY DEPOSIT ERC-20 AGORAS]*** <br> <br>
-   https://global.bittrex.com/Market/Index?MarketName=USDT-AGRS <br>
-
-   https://global.bittrex.com/Market/Index?MarketName=BTC-AGRS
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
-
-   <br>
+3. **[Bittrex]**  <br>***[DO NOT DEPOSIT OMNI BASED TOKENS, ONLY DEPOSIT ERC-20 AGORAS]*** <br> <br>[https://global.bittrex.com/Market/Index?MarketName=USDT-AGRS](https://bittrex.com/Account/Register?referralCode=VHC-MQT-SNY) <br>
+   
+[https://global.bittrex.com/Market/Index?MarketName=BTC-AGRS](https://bittrex.com/Account/Register?referralCode=VHC-MQT-SNY) <br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
+   
+<br>
 
 
 
