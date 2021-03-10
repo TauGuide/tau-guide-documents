@@ -23,6 +23,8 @@ order: 3
 
    <br>
 
+   [https://whitebit.com/trade/AGRS_BTC](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d30)
+
    <br>
 
    Whitebit is offering a swap of omni Agoras tokens to ERC-20 tokens. Users can deposit both Omni and ERC-20 Assets at the [Whitebit](https://whitebit.com/referral/098933e1-7b46-4178-a6f3-e27a00d020d3) exchange.
