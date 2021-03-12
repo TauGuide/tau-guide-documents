@@ -121,24 +121,32 @@ Agoras.Live is an open market where users can trade knowledge with one another.
 
 ### 4. Where can I buy Tau/Agoras?
 
-Tau itself has no token much in the same way as the internet, as a piece of technology, has no need for a token. However, the best way to invest in this project is by purchasing Agoras tokens, which will be the primary currency of the marketplace to be built over Tau.
-Currently, these tokens are in the form of an Omni Asset based on the Bitcoin blockchain.
+Tau itself has no token much in the same way as the internet, as a piece of technology, has no need for a token. However, the best way to invest in this project is by purchasing Agoras tokens, which will be the primary currency of the marketplace to be built over Tau. <br>
+Currently, there is a total of 42 million tokens. Accumulatively, in the form of both Omni Asset (based on the Bitcoin blockchain) and ERC-20 (based on Ethereum blockchain). <br>The [Agoras swap from Omni to ERC-20](https://www.tauchainfans.com/Blog/General/FAQ--The-swap-of-AGRS-tokens-from-Omni-to-ERC20/102) took place 2021 Q1. The swap was to increase the community base, increase ease in listing on additional exchanges and to provide additional secure storage options for token holders.
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **Whitebit Exchange**<br>[https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
+1. **Whitebit Exchange**  [ Accepts both OMNI and ERC-20 Agoras ]<br> [https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
 
-   <br>
+2. **Uniswap v2** [ **ONLY** accepts ERC-20 Agoras ]<br>[info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d](https://info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d)
+
+3. **Bittrex** [ **ONLY** accepts ERC-20 Agoras - **DO NOT DEPOSIT OMNI Agoras** ]
+
+   [global.bittrex.com/Market/Index?MarketName=USDT-AGRS](https://bit.ly/bittrex-agrs)<br><br>[global.bittrex.com/Market/Index?MarketName=BTC-AGRS](https://bit.ly/bittrex-agrs) <br>
+
    <br>
 
 ---
 
 ### 5. How I hold my Agoras Tokens?
 
-You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.
-If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet]()
+You can hold your ERC-20 Agoras tokens in [Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015489011-How-to-manage-ERC-20-Tokens).
+**DO NOT SEND YOUR OMNI AGORAS TO METAMASK**<br><br>
 
-Please refer to our [How to Store Agoras](https://tau.guide/docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
+You can hold your Omni Agoras tokens in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.<br>**DO NOT SEND YOUR ERC-20 AGORAS TO A BITCOIN ADDRESS**<br><br>
+If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet]() <br>
+
+Kindly refer to our [How to Store Agoras](https://tau.guide/docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
 
 ---
 
@@ -393,4 +401,5 @@ _Ohad:_ Forks are a consequence when we reach a point where disagreements cannot
 _Ohad:_ Yes, all logical systems have limitations. Most questions in the universe are too difficult to be practically solvable. But most problems in practice are likely solvable. Most importantly, we as humans don't have any more advantage over what's mathematically possible. The computer will have limitations, but it will certainly do better than us.<br>
 <br>
 
-✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/quick-start)
+✎[Edit this page on GitHub](https://github.com/TauGuide/tau-guide-documents/blob/master/docs/quick-start.md)
+

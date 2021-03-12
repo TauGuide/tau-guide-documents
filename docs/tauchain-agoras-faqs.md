@@ -64,24 +64,32 @@ Agoras.Live is an open market where users can trade knowledge with one another.
 
 ### 4. Where can I buy Tau/Agoras?
 
-Tau itself has no token much in the same way as the internet, as a piece of technology, has no need for a token. However, the best way to invest in this project is by purchasing Agoras tokens, which will be the primary currency of the marketplace to be built over Tau.
-Currently, these tokens are in the form of an Omni Asset based on the Bitcoin blockchain.
+Tau itself has no token much in the same way as the internet, as a piece of technology, has no need for a token. However, the best way to invest in this project is by purchasing Agoras tokens, which will be the primary currency of the marketplace to be built over Tau. <br>
+Currently, there is a total of 42 million tokens. Accumulatively, in the form of both Omni Asset (based on the Bitcoin blockchain) and ERC-20 (based on Ethereum blockchain). <br>The [Agoras swap from Omni to ERC-20](https://www.tauchainfans.com/Blog/General/FAQ--The-swap-of-AGRS-tokens-from-Omni-to-ERC20/102) took place 2021 Q1. The swap was to increase the community base, increase ease in listing on additional exchanges and to provide additional secure storage options for token holders.
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **Whitebit Exchange**<br>[https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
+1. **Whitebit Exchange**  [ Accepts both OMNI and ERC-20 Agoras ]<br> [https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
 
-   <br>
+2. **Uniswap v2** [ **ONLY** accepts ERC-20 Agoras ]<br>[info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d](https://info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d)
+
+3. **Bittrex** [ **ONLY** accepts ERC-20 Agoras - **DO NOT DEPOSIT OMNI Agoras** ]
+
+   [global.bittrex.com/Market/Index?MarketName=USDT-AGRS](https://bit.ly/bittrex-agrs)<br><br>[global.bittrex.com/Market/Index?MarketName=BTC-AGRS](https://bit.ly/bittrex-agrs) <br>
+
    <br>
 
 ---
 
 ### 5. How I hold my Agoras Tokens?
 
-You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.
-If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)
+You can hold your ERC-20 Agoras tokens in [Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015489011-How-to-manage-ERC-20-Tokens).
+**DO NOT SEND YOUR OMNI AGORAS TO METAMASK**<br><br>
 
-Please refer to our [How to Store Agoras](https://tau.guide/docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
+You can hold your Omni Agoras tokens in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.<br>**DO NOT SEND YOUR ERC-20 AGORAS TO A BITCOIN ADDRESS**<br><br>
+If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet]() <br>
+
+Kindly refer to our [How to Store Agoras](https://tau.guide/docs/Tutorials/step-by-step-guide-how-to-store-agoras) tutorial.<br><br>
 
 ---
 
@@ -126,7 +134,7 @@ If you decided not to lock your tokens, you will get up to 15%, depending on the
 \*holding period = time from August 1, 2017 to the bonus distribution
 
 Two answers posted by Ohad on BTT with regards to the bonus:
-[https://bitcointalk.org/index.php?topic=950309.msg20380555#msg20380555](https://bitcointalk.org/index.php?topic=950309.msg20380555#msg20380555)[https://bitcointalk.org/index.php?topic= 950309.msg17841993#msg17841993](https://bitcointalk.org/index.php?topic=%20950309.msg17841993#msg17841993) <br><br>
+[https://bitcointalk.org/index.php?topic=950309.msg20380555](https://bitcointalk.org/index.php?topic=950309.msg20380555#msg20380555)<br>[https://bitcointalk.org/index.php?topic= 950309.msg17841993](https://bitcointalk.org/index.php?topic=%20950309.msg17841993#msg17841993) <br><br>
 
 ---
 
@@ -168,7 +176,7 @@ We very much welcome technical questions. Please submit to either the [Monthy QA
 
 ### 10. Where can I see the Tau-chain code?
 
-The Tau-chain github repository is here [https://github.com/IDNI](https://github.com/IDNI) <br><br>
+The Tauchain github repository is here [https://github.com/IDNI](https://github.com/IDNI) <br><br>
 
 ---
 
@@ -186,7 +194,7 @@ For the ability to soundly and collaboratively reach decisions that affect the w
 
 ### 12. Can Tau-chain's code be stolen?
 
-**_Is it possible for another more established project to steal Tau-chain's code as it's open source? Do we have steps to prevent this?_**
+**_Is it possible for another more established project to steal Tauchain's code as it's open source? Do we have steps to prevent this?_**
 
 _Ohad:_ Generally speaking, stealing code to compete in the same market is not a successful business strategy as you're always a few steps behind. Additionally, you can only steal what's visible so far as opposed to the total vision which is not yet all coded. <br><br>
 
