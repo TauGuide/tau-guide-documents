@@ -122,13 +122,13 @@ Agoras.Live is an open market where users can trade knowledge with one another.
 ### 4. Where can I buy Tau/Agoras?
 
 Tau itself has no token much in the same way as the internet, as a piece of technology, has no need for a token. However, the best way to invest in this project is by purchasing Agoras tokens, which will be the primary currency of the marketplace to be built over Tau. <br>
-Currently, there is a total of 42 million tokens. Accumulatively, in the form of both Omni Asset (based on the Bitcoin blockchain) and ERC-20 (based on Ethereum blockchain). <br>The [Agoras swap from Omni to ERC-20](https://www.tauchainfans.com/Blog/General/FAQ--The-swap-of-AGRS-tokens-from-Omni-to-ERC20/102) took place 2021 Q1. The swap was to increase the community base, increase ease in listing on additional exchanges and to provide additional secure storage options for token holders.
+Currently, there is a total of 42 million tokens. Accumulatively, in the form of both Omni Asset (based on the Bitcoin blockchain) and ERC-20 (based on Ethereum blockchain). <br>The [Agoras swap from Omni to ERC-20](https://www.tauchainfans.com/Blog/General/FAQ--The-swap-of-AGRS-tokens-from-Omni-to-ERC20/102) took place 2021 Q1. The swap was to increase the community base, increase ease in listing on additional exchanges and to provide additional secure storage options for token holders.<br><br>
 
 **Agoras is actively trading on the following exchanges:**
 
-1. **Whitebit Exchange**  [ Accepts both OMNI and ERC-20 Agoras ]<br> [https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)
+1. **Whitebit Exchange**  [ Accepts both OMNI and ERC-20 Agoras ]<br> [https://whitebit.com/trade/AGRS_BTC](bit.ly/whtiebit)<br><br>
 
-2. **Uniswap v2** [ **ONLY** accepts ERC-20 Agoras ]<br>[info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d](https://info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d)
+2. **Uniswap v2** [ **ONLY** accepts ERC-20 Agoras ]<br>[info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d](https://info.uniswap.org/pair/0xd89f1ef41a40db980883c4518387e682cdf83c7d)<br><br>
 
 3. **Bittrex** [ **ONLY** accepts ERC-20 Agoras - **DO NOT DEPOSIT OMNI Agoras** ]
 
@@ -140,7 +140,7 @@ Currently, there is a total of 42 million tokens. Accumulatively, in the form of
 
 ### 5. How I hold my Agoras Tokens?
 
-You can hold your ERC-20 Agoras tokens in [Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015489011-How-to-manage-ERC-20-Tokens).
+You can hold your ERC-20 Agoras tokens in [Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015489011-How-to-manage-ERC-20-Tokens).<br>
 **DO NOT SEND YOUR OMNI AGORAS TO METAMASK**<br><br>
 
 You can hold your Omni Agoras tokens in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.<br>**DO NOT SEND YOUR ERC-20 AGORAS TO A BITCOIN ADDRESS**<br><br>
