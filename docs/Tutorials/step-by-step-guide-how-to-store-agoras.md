@@ -9,10 +9,11 @@ order: 4
 
 # How to Store Agoras
 
-> You may hold your Agoras in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.<br>
-> If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet](https://www.notion.so/importyourprivatekey.Omni)
-
-
+> You can hold your ERC-20 Agoras tokens in [Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015489011-How-to-manage-ERC-20-Tokens).<br>
+> **DO NOT SEND YOUR OMNI AGORAS TO METAMASK**<br><br>
+>
+> You can hold your Omni Agoras tokens in your [omni wallet](https://www.omniwallet.org/), or in any Bitcoin address to which you possess the private key such as a paper wallet.<br>**DO NOT SEND YOUR ERC-20 AGORAS TO A BITCOIN ADDRESS**<br><br>
+> If you use the latter method and wish to send Agoras out, you'll first have to [import your private key to Omni Wallet]() <br>
 
 <br>
 
