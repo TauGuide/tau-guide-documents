@@ -5,11 +5,11 @@ disableTableOfContents: false
 order: 3
 ---
 
-# What is Tau-chain (Tau)?
+# What is Tauchain (Tau)?
 
 ## Summary
 
-Tau-Chain (Tau) is an open source, decentralised network with a governance mechanism that uses user discussions to create a scalable, self defining and dynamic system. Tau’s large-scale discussion platform can detect consensus points or disagreements between all users and execute or self-implement the network instructions in real time . Agoras token will leverage Tau’s technology to have an economy governed by its users. Agoras tokens aim to enable markets for knowledge, computational resources, and derivatives
+Tauchain (Tau) is an open source, decentralised network with a governance mechanism that uses user discussions to create a scalable, self defining and dynamic system. Tau’s large-scale discussion platform can detect consensus points or disagreements between all users and execute or self-implement the network instructions in real time . Agoras token will leverage Tau’s technology to have an economy governed by its users. Agoras tokens aim to enable markets for knowledge, computational resources, and derivatives
 
 ---
 
@@ -41,7 +41,7 @@ Anyone can interact with the tauchain network and participate in this digital ec
 
 Tau uses a decidable logical framework which allows it to synthesize and execute code based on user specifications. Users can create their own teams under Tau to discuss and collaborate on a project with its own private knowledge base. After taking advantage of Tau's ability to scale discussions, teams can quickly reach a consensus on the specifications and Tau can automatically generate and execute code, according to those specifications.<br><br><br>
 
-## **What is Tau-Chain?**
+## **What is Tauchain?**
 
 ### **History**
 

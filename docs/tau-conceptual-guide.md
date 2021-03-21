@@ -9,7 +9,7 @@ order: 4
 
 by [Prof. Dr. Avishy Carmi](https://tau.guide/#teams)<br>
 
->[**Read the Official Tau-chain and Agoras Whitepaper**](https://www.idni.org/whitepaper_community_draft.pdf) <br>
+>[**Read the Official Tauchain and Agoras Whitepaper**](https://www.idni.org/whitepaper_community_draft.pdf) <br>
 
 ## Introduction & Overview
 
@@ -73,7 +73,7 @@ In this culture there are constituents, the users that define the system. They a
 
 ***
 
-## Tau-Chain and Agoras Whitepaper
+## Tauchain and Agoras Whitepaper
 
 #### Ohad Asor
 
@@ -90,7 +90,7 @@ Draft for Community Review
 ```
 ```
 Abstract
-We describe the systems Tau-Chain and Agoras, the former being a peer-to-
+We describe the systems Tauchain and Agoras, the former being a peer-to-
 peer network which is fully and effectively defined by its users, and the latter
 being an economy built on those capabilities, facilitating economics of knowl-
 edge among other supporting aspects. Tau is a next-generation intelligent social
@@ -124,7 +124,7 @@ designed to discuss problems and their potential solutions. And yet it seems tha
 most pressing problems, those which concern large social constructs such as societies
 and nations, cannot be solved via discussions. If we follow the above reasoning the limits
 on the scale of discussions makes a major barrier in the course of human evolution.
-Tau-chain, or Tau, is a system designed to ultimately solve the problems inherent
+Tauchain, or Tau, is a system designed to ultimately solve the problems inherent
 in scaling up discussions. It does so by the aid of machines. This, however, comes with
 a significant cost. The machines in the Tau network should have access to meaning. In
 other words, humans and machines speak in languages that they both understand. This
@@ -170,7 +170,7 @@ The paper describes in depth these and plenty other features of Tau and Agoras.
 
 
 - 1 Introduction
-- 2 Tau-Chain
+- 2 Tauchain
    - 2.1 Human-Machine-Human Communication
    - 2.2 Large-Scale Discussion Platform
       - 2.2.1 Worldviews and Teams
@@ -213,7 +213,7 @@ The paper describes in depth these and plenty other features of Tau and Agoras.
 
 ## 1 Introduction
 
-Tau-chain, or simply Tau, is a decentralized blockchain network offering innovative
+Tauchain, or simply Tau, is a decentralized blockchain network offering innovative
 social-choice methods in order to determine its own next version, and by that being
 controlled solely and effectively by its many users. Tau’s users specify what they want
 the system to be like, and subsequently Tau auto-updates itself according to the users’
@@ -268,7 +268,7 @@ answered on this paper. The second describes a bit of classical choice theory an
 compares it to our setting. The third corresponds with Suber’s view on self-amendment. The fourth sketches the P-DATALOG language, and the fifth presents a proof that P- DATALOG with evaluation operator collapses to P-DATALOG.
 
 
-## 2 Tau-Chain
+## 2 Tauchain
 
 ### 2.1 Human-Machine-Human Communication
 
@@ -1674,7 +1674,7 @@ plete language can interpret”.
 [10] F. Brandt, V. Conitzer, U. Endriss, J. Lang, A. D. Procaccia, 2016, “Handbook of
 Computational Social Choice”.
 
-[11] O. Asor, 2015, “About Tau-Chain”
+[11] O. Asor, 2015, “About Tauchain”
 
 [12] O. Asor, 2014, “About Zennet”.
 
