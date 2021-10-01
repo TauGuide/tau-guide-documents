@@ -5,7 +5,7 @@ disableTableOfContents: false
 order: 1
 ---
 
-<br>Welcome to Tau.Guide's quick introductory resources. Intended to help you learn more about the Tauchain project. <br>
+<br>Welcome to Tau.Guide's quick introductory resources. Intended to help you learn more about the Tauchain project whilst https://idni.org is updated. <br>
 
 > ##### This page is mostly non-technical. For a more granular look at the Tauchain framework, head to our [Tauchain Tutorials](/docs/Tutorials/)<br>
 
@@ -25,7 +25,7 @@ order: 1
 >
 > - **[TML Playground](https://tml.idni.org)** : Try out Tau's Meta-Language features.
 >
-> - **[Agoras.Live]()** : _Visit MVP Agoras Live (Currently in development)._ <br>
+> - **[GitHub](https://github.com/IDNI/TML)** : _Visit DNI/TML development GitHub._ <br>
 >
 >   
 
@@ -34,6 +34,10 @@ order: 1
 <br>
 
 ## Excellent Community Articles<br>
+
+### ▪ [Simplifying TAUCHAIN: What You Need To Know](https://medium.com/@Tor.McNea/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-83593d497e2)
+
+By Tor McNea <br><br>
 
 ### ▪ [Tauchain 101 - Essential reading](https://steemit.com/blockchain/@kevinwong/what-is-tauchain-and-why-it-could-be-one-of-the-greatest-inventions-of-all-time-part-1)
 
@@ -51,10 +55,6 @@ by Isar Flis <br><br>
 ### ▪ [Tau: How does it compare to other projects](https://steemit.com/cryptocurrency/@trafalgar/what-is-tau-my-only-other-crypto-investment)
 
 by trafalgar (Miau Miau) <br><br>
-
-### ▪ [Simplifying Tauchain](https://steemit.com/tauchain/@rok-sivante/simplifying-tauchain-what-you-need-to-know-about-one-of-the-most-fascinating-significant-projects-on-the-block-chain)
-
-By Rok Sivante <br><br>
 
 ### ▪ [Tauchain vs Tezos](https://steemit.com/tauchain/@flis/tau-is-a-discussion-about-tau)
 
