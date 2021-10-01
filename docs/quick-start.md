@@ -25,7 +25,7 @@ order: 1
 >
 > - **[TML Playground](https://tml.idni.org)** : Try out Tau's Meta-Language features.
 >
-> - **[GitHub](https://github.com/IDNI/TML)** : _Visit DNI/TML development GitHub._ <br>
+> - **[GitHub](https://github.com/IDNI/TML)** : _Visit IDNI/TML development GitHub._ <br>
 >
 >   
 
